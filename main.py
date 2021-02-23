@@ -1,4 +1,5 @@
 import re
+import json
 import codecs
 from datetime import datetime
 from urllib import request
@@ -9,6 +10,7 @@ ALPHA_PATTERN = re.compile(r'^.[a-z]+$')
 
 def main():
     domains = []
+    domains_full = []
     domains_alpha = []
     readme = [
         '# All the world’s top-level domains',
@@ -16,8 +18,17 @@ def main():
         'Updated at {}, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)'.format(
             datetime.utcnow().isoformat()),
         '',
-        '- [domains.txt](domains.txt)',
-        '- [domains_alpha.txt](domains_alpha.txt)',
+        '- domains',
+        '  - [domains.txt](domains.txt)',
+        '  - [domains.json](domains.json)',
+        '',
+        '- domains_alpha',
+        '  - [domains_alpha.txt](domains_alpha.txt)',
+        '  - [domains_alpha.json](domains_alpha.json)',
+        '',
+        '- domains_full',
+        '  - [domains_full.txt](domains_full.txt)',
+        '  - [domains_full.json](domains_full.json)',
     ]
 
     with request.urlopen('https://www.iana.org/domains/root/db') as f:
@@ -38,6 +49,7 @@ def main():
             str_tld_manager = tds[2].get_text().replace('\n', '')
 
             domains.append(str_domain)
+            domains_full.append(str_domain)
 
             if re.match(ALPHA_PATTERN, str_domain):
                 readme.append('| {} | {} | {} | [Details](https://www.iana.org{}) |'.format(str_domain,
@@ -56,17 +68,31 @@ def main():
                     str_tld_manager,
                     str_href)
                 )
+                domains_full.append(str_domain_punycode)
                 domains_alpha.append(str_domain_punycode)
 
-    # domains.txt
+    # domains
     with codecs.open('domains.txt', 'w', encoding='utf-8') as f:
         content = '\n'.join(domains)
         f.write(content)
+    with codecs.open('domains.json', 'w', encoding='utf-8') as f:
+        json.dump(domains, f)
 
-    # domains_alpha.txt
+    # domains_full
+    with codecs.open('domains_full.txt', 'w', encoding='utf-8') as f:
+        content = '\n'.join(domains_full)
+        f.write(content)
+    with codecs.open('domains_full.json', 'w', encoding='utf-8') as f:
+        json.dump(domains_full, f)
+
+    # domains_alpha
     with codecs.open('domains_alpha.txt', 'w', encoding='utf-8') as f:
         content = '\n'.join(domains_alpha)
         f.write(content)
+    with codecs.open('domains_alpha.json', 'w', encoding='utf-8') as f:
+        json.dump(domains_alpha, f)
+
+
 
     # README.md
     readme.append('')
