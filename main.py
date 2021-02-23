@@ -18,28 +18,28 @@ def main():
         'Updated at {}, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)'.format(
             datetime.utcnow().isoformat()),
         '',
-        '**domains**',
+        '### domains',
         '',
         '- [domains.txt](domains.txt)',
         '- [domains.json](domains.json)',
         '',
-        '**domains_alpha**',
+        '### domains_alpha',
         '',
         '- [domains_alpha.txt](domains_alpha.txt)',
         '- [domains_alpha.json](domains_alpha.json)',
         '',
-        '**domains_full**',
+        '### domains_full',
         '',
         '- [domains_full.txt](domains_full.txt)',
         '- [domains_full.json](domains_full.json)',
+        '',
     ]
 
     with request.urlopen('https://www.iana.org/domains/root/db') as f:
         bs = BeautifulSoup(f.read(), features='html.parser')
         trs = bs.find(id='tld-table').tbody.find_all('tr')
 
-        readme.append('')
-        readme.append('{} records:'.format(len(trs)))
+        readme.append('### {} records'.format(len(trs)))
         readme.append('')
         readme.append('| Domain | Type | TLD Manager | Info |')
         readme.append('| ------ | ---- | ----------- | ---- |')
