@@ -1,6 +1,7 @@
 import re
 import json
 import codecs
+import pickle
 from datetime import datetime
 from urllib import request
 from bs4 import BeautifulSoup
@@ -95,7 +96,38 @@ def main():
     with codecs.open('domains_alpha.json', 'w', encoding='utf-8') as f:
         json.dump(domains_alpha, f)
 
+    # url(s) pattern
+    url_pattern_list = []
+    for domain in domains:
+        url_pattern_list.append('\\' + domain)
 
+    url_pattern = re.compile(
+        r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(url_pattern_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
+    )
+    with open('url_pattern.pickle', 'wb') as f:
+        pickle.dump(url_pattern, f)
+
+    # url(s) pattern full
+    url_pattern_full_list = []
+    for domain in domains_full:
+        url_pattern_full_list.append('\\' + domain)
+
+    url_pattern_full = re.compile(
+        r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(url_pattern_full_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
+    )
+    with open('url_pattern_full.pickle', 'wb') as f:
+        pickle.dump(url_pattern_full, f)
+
+    # url(s) pattern alpha
+    url_pattern_alpha_list = []
+    for domain in domains_alpha:
+        url_pattern_alpha_list.append('\\' + domain)
+
+    url_pattern_alpha = re.compile(
+        r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(url_pattern_alpha_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
+    )
+    with open('url_pattern_alpha.pickle', 'wb') as f:
+        pickle.dump(url_pattern_alpha, f)
 
     # README.md
     readme.append('')
