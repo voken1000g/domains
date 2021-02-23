@@ -1,3 +1,4 @@
+import os
 import re
 import json
 import codecs
@@ -7,6 +8,15 @@ from urllib import request
 from bs4 import BeautifulSoup
 
 ALPHA_PATTERN = re.compile(r'^.[a-z]+$')
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(BASE_DIR, 'data')
+
+
+def touch_dir(path_to_dir):
+    if not os.path.exists(path_to_dir):
+        os.makedirs(path_to_dir)
+    return path_to_dir
 
 
 def main():
@@ -21,18 +31,18 @@ def main():
         '',
         '### domains',
         '',
-        '- [domains.txt](domains.txt)',
-        '- [domains.json](domains.json)',
+        '- [domains.txt](data/domains.txt)',
+        '- [domains.json](data/domains.json)',
         '',
         '### domains_alpha',
         '',
-        '- [domains_alpha.txt](domains_alpha.txt)',
-        '- [domains_alpha.json](domains_alpha.json)',
+        '- [domains_alpha.txt](data/domains_alpha.txt)',
+        '- [domains_alpha.json](data/domains_alpha.json)',
         '',
         '### domains_full',
         '',
-        '- [domains_full.txt](domains_full.txt)',
-        '- [domains_full.json](domains_full.json)',
+        '- [domains_full.txt](data/domains_full.txt)',
+        '- [domains_full.json](data/domains_full.json)',
         '',
     ]
 
@@ -76,24 +86,24 @@ def main():
                 domains_alpha.append(str_domain_punycode)
 
     # domains
-    with codecs.open('domains.txt', 'w', encoding='utf-8') as f:
+    with codecs.open(os.path.join(DATA_DIR, 'domains.txt'), 'w', encoding='utf-8') as f:
         content = '\n'.join(domains)
         f.write(content)
-    with codecs.open('domains.json', 'w', encoding='utf-8') as f:
+    with codecs.open(os.path.join(DATA_DIR, 'domains.json'), 'w', encoding='utf-8') as f:
         json.dump(domains, f)
 
     # domains_full
-    with codecs.open('domains_full.txt', 'w', encoding='utf-8') as f:
+    with codecs.open(os.path.join(DATA_DIR, 'domains_full.txt'), 'w', encoding='utf-8') as f:
         content = '\n'.join(domains_full)
         f.write(content)
-    with codecs.open('domains_full.json', 'w', encoding='utf-8') as f:
+    with codecs.open(os.path.join(DATA_DIR, 'domains_full.json'), 'w', encoding='utf-8') as f:
         json.dump(domains_full, f)
 
     # domains_alpha
-    with codecs.open('domains_alpha.txt', 'w', encoding='utf-8') as f:
+    with codecs.open(os.path.join(DATA_DIR, 'domains_alpha.txt'), 'w', encoding='utf-8') as f:
         content = '\n'.join(domains_alpha)
         f.write(content)
-    with codecs.open('domains_alpha.json', 'w', encoding='utf-8') as f:
+    with codecs.open(os.path.join(DATA_DIR, 'domains_alpha.json'), 'w', encoding='utf-8') as f:
         json.dump(domains_alpha, f)
 
     # url(s) pattern
@@ -104,7 +114,7 @@ def main():
     url_pattern = re.compile(
         r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(url_pattern_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
     )
-    with open('url_pattern.pickle', 'wb') as f:
+    with open(os.path.join(DATA_DIR, 'url_pattern.pickle'), 'wb') as f:
         pickle.dump(url_pattern, f)
 
     # url(s) pattern full
@@ -115,7 +125,7 @@ def main():
     url_pattern_full = re.compile(
         r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(url_pattern_full_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
     )
-    with open('url_pattern_full.pickle', 'wb') as f:
+    with open(os.path.join(DATA_DIR, 'url_pattern_full.pickle'), 'wb') as f:
         pickle.dump(url_pattern_full, f)
 
     # url(s) pattern alpha
@@ -126,7 +136,7 @@ def main():
     url_pattern_alpha = re.compile(
         r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(url_pattern_alpha_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
     )
-    with open('url_pattern_alpha.pickle', 'wb') as f:
+    with open(os.path.join(DATA_DIR, 'url_pattern_alpha.pickle'), 'wb') as f:
         pickle.dump(url_pattern_alpha, f)
 
     # README.md
@@ -137,4 +147,5 @@ def main():
 
 
 if __name__ == "__main__":
+    touch_dir(DATA_DIR)
     main()
