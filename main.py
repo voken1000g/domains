@@ -106,38 +106,38 @@ def main():
     with codecs.open(os.path.join(DATA_DIR, 'domains_alpha.json'), 'w', encoding='utf-8') as f:
         json.dump(domains_alpha, f)
 
-    # url(s) pattern
-    url_pattern_list = []
+    # text link pattern
+    re_list = []
     for domain in domains:
-        url_pattern_list.append('\\' + domain)
+        re_list.append('\\' + domain)
 
-    url_pattern = re.compile(
-        r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(url_pattern_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
+    text_link_pattern = re.compile(
+        r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(re_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
     )
-    with open(os.path.join(DATA_DIR, 'url_pattern.pickle'), 'wb') as f:
-        pickle.dump(url_pattern, f)
+    with open(os.path.join(DATA_DIR, 'text_link_pattern.pickle'), 'wb') as f:
+        pickle.dump(text_link_pattern, f)
 
-    # url(s) pattern full
-    url_pattern_full_list = []
+    # text link pattern (full)
+    re_full_list = []
     for domain in domains_full:
-        url_pattern_full_list.append('\\' + domain)
+        re_full_list.append('\\' + domain)
 
-    url_pattern_full = re.compile(
-        r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(url_pattern_full_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
+    text_link_pattern_full = re.compile(
+        r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(re_full_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
     )
-    with open(os.path.join(DATA_DIR, 'url_pattern_full.pickle'), 'wb') as f:
-        pickle.dump(url_pattern_full, f)
+    with open(os.path.join(DATA_DIR, 'text_link_pattern_full.pickle'), 'wb') as f:
+        pickle.dump(text_link_pattern_full, f)
 
-    # url(s) pattern alpha
-    url_pattern_alpha_list = []
+    # text link pattern (alpha)
+    re_alpha_list = []
     for domain in domains_alpha:
-        url_pattern_alpha_list.append('\\' + domain)
+        re_alpha_list.append('\\' + domain)
 
-    url_pattern_alpha = re.compile(
-        r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(url_pattern_alpha_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
+    text_link_pattern_alpha = re.compile(
+        r'(?:\.?[a-zA-Z0-9_-]+)+(?:' + '|'.join(re_alpha_list) + ')(?::[0-9]+)*(?:/[a-zA-Z0-9_/?&=#%~!@*(),:;+.-]+|/)*'
     )
-    with open(os.path.join(DATA_DIR, 'url_pattern_alpha.pickle'), 'wb') as f:
-        pickle.dump(url_pattern_alpha, f)
+    with open(os.path.join(DATA_DIR, 'text_link_pattern_alpha.pickle'), 'wb') as f:
+        pickle.dump(text_link_pattern_alpha, f)
 
     # README.md
     readme.append('')
