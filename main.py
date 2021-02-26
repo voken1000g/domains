@@ -155,19 +155,19 @@ def main():
     with open(os.path.join(DATA_DIR, 'text_link_pattern_alpha.pickle'), 'wb') as f:
         pickle.dump(text_link_pattern_alpha, f)
 
-    # scheme pattern
-    scheme_pattern = re.compile(
+    # hostname pattern
+    hostname_pattern = re.compile(
         r'^((?:[-a-zA-Z0-9]+\.)+(?:' + '|'.join(names) + '))'
     )
-    with open(os.path.join(DATA_DIR, 'scheme_pattern.pickle'), 'wb') as f:
-        pickle.dump(scheme_pattern, f)
+    with open(os.path.join(DATA_DIR, 'hostname_pattern.pickle'), 'wb') as f:
+        pickle.dump(hostname_pattern, f)
 
-    # scheme pattern (alpha)
-    scheme_pattern_alpha = re.compile(
+    # hostname pattern (alpha)
+    hostname_pattern_alpha = re.compile(
         r'^((?:[-a-zA-Z0-9]+\.)+(?:' + '|'.join(names_alpha) + '))'
     )
-    with open(os.path.join(DATA_DIR, 'scheme_pattern_alpha.pickle'), 'wb') as f:
-        pickle.dump(scheme_pattern_alpha, f)
+    with open(os.path.join(DATA_DIR, 'hostname_pattern_alpha.pickle'), 'wb') as f:
+        pickle.dump(hostname_pattern_alpha, f)
 
 
 if __name__ == "__main__":
