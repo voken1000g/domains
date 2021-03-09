@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-03-08T00:05:37.438911, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-03-09T00:05:37.594480, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1269,7 +1269,7 @@ Updated at 2021-03-08T00:05:37.438911, from [IANA Root Zone Database](http://www
 | .tennis | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/tennis.html) |
 | .teva | generic | Teva Pharmaceutical Industries Limited | [Details](https://www.iana.org/domains/root/db/teva.html) |
 | .tf | country-code | Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.) | [Details](https://www.iana.org/domains/root/db/tf.html) |
-| .tg | country-code | Autorite de Reglementation des secteurs de Postes et de Telecommunications (ART&P) | [Details](https://www.iana.org/domains/root/db/tg.html) |
+| .tg | country-code | Autorité de Régulation des Communications Electroniques et des Postes (ARCEP) | [Details](https://www.iana.org/domains/root/db/tg.html) |
 | .th | country-code | Thai Network Information Center Foundation | [Details](https://www.iana.org/domains/root/db/th.html) |
 | .thd | generic | Home Depot Product Authority, LLC | [Details](https://www.iana.org/domains/root/db/thd.html) |
 | .theater | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/theater.html) |
@@ -1382,7 +1382,7 @@ Updated at 2021-03-08T00:05:37.438911, from [IANA Root Zone Database](http://www
 | .wanggou | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/wanggou.html) |
 | .warman | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/warman.html) |
 | .watch | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/watch.html) |
-| .watches | generic | Richemont DNS Inc. | [Details](https://www.iana.org/domains/root/db/watches.html) |
+| .watches | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/watches.html) |
 | .weather | generic | International Business Machines Corporation | [Details](https://www.iana.org/domains/root/db/weather.html) |
 | .weatherchannel | generic | International Business Machines Corporation | [Details](https://www.iana.org/domains/root/db/weatherchannel.html) |
 | .webcam | generic | dot Webcam Limited | [Details](https://www.iana.org/domains/root/db/webcam.html) |
