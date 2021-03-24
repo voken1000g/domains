@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-03-23T00:05:46.648274, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-03-24T00:05:54.585758, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -338,7 +338,7 @@ Updated at 2021-03-23T00:05:46.648274, from [IANA Root Zone Database](http://www
 | .cruises | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cruises.html) |
 | .csc | generic | Alliance-One Services, Inc. | [Details](https://www.iana.org/domains/root/db/csc.html) |
 | .cu | country-code | CENIAInternetIndustria y San JoseCapitolio Nacional | [Details](https://www.iana.org/domains/root/db/cu.html) |
-| .cuisinella | generic | SALM S.A.S. | [Details](https://www.iana.org/domains/root/db/cuisinella.html) |
+| .cuisinella | generic | SCHMIDT GROUPE S.A.S. | [Details](https://www.iana.org/domains/root/db/cuisinella.html) |
 | .cv | country-code | Agência Reguladora Multissectorial da Economia (ARME) | [Details](https://www.iana.org/domains/root/db/cv.html) |
 | .cw | country-code | University of Curacao | [Details](https://www.iana.org/domains/root/db/cw.html) |
 | .cx | country-code | Christmas Island Domain Administration Limited | [Details](https://www.iana.org/domains/root/db/cx.html) |
@@ -1131,7 +1131,7 @@ Updated at 2021-03-23T00:05:46.648274, from [IANA Root Zone Database](http://www
 | .sca | generic | SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ) | [Details](https://www.iana.org/domains/root/db/sca.html) |
 | .scb | generic | The Siam Commercial Bank Public Company Limited ("SCB") | [Details](https://www.iana.org/domains/root/db/scb.html) |
 | .schaeffler | generic | Schaeffler Technologies AG & Co. KG | [Details](https://www.iana.org/domains/root/db/schaeffler.html) |
-| .schmidt | generic | SALM S.A.S. | [Details](https://www.iana.org/domains/root/db/schmidt.html) |
+| .schmidt | generic | SCHMIDT GROUPE S.A.S. | [Details](https://www.iana.org/domains/root/db/schmidt.html) |
 | .scholarships | generic | Scholarships.com, LLC | [Details](https://www.iana.org/domains/root/db/scholarships.html) |
 | .school | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/school.html) |
 | .schule | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/schule.html) |
