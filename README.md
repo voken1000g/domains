@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-03-26T00:04:49.296395, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-03-27T00:02:19.178421, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -504,7 +504,7 @@ Updated at 2021-03-26T00:04:49.296395, from [IANA Root Zone Database](http://www
 | .frontier | generic | Frontier Communications Corporation | [Details](https://www.iana.org/domains/root/db/frontier.html) |
 | .ftr | generic | Frontier Communications Corporation | [Details](https://www.iana.org/domains/root/db/ftr.html) |
 | .fujitsu | generic | Fujitsu Limited | [Details](https://www.iana.org/domains/root/db/fujitsu.html) |
-| .fujixerox | generic | Xerox DNHC LLC | [Details](https://www.iana.org/domains/root/db/fujixerox.html) |
+| .fujixerox | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/fujixerox.html) |
 | .fun | generic | DotSpace, Inc. | [Details](https://www.iana.org/domains/root/db/fun.html) |
 | .fund | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/fund.html) |
 | .furniture | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/furniture.html) |
