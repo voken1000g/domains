@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-03-29T00:02:45.108118, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-03-30T00:02:38.160658, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -824,7 +824,7 @@ Updated at 2021-03-29T00:02:45.108118, from [IANA Root Zone Database](http://www
 | .maserati | generic | Fiat Chrysler Automobiles N.V. | [Details](https://www.iana.org/domains/root/db/maserati.html) |
 | .mattel | generic | Mattel Sites, Inc. | [Details](https://www.iana.org/domains/root/db/mattel.html) |
 | .mba | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/mba.html) |
-| .mc | country-code | Gouvernement de MonacoDirection des Communications Electroniques | [Details](https://www.iana.org/domains/root/db/mc.html) |
+| .mc | country-code | Direction des Plateformes et des Ressources Numériques | [Details](https://www.iana.org/domains/root/db/mc.html) |
 | .mcd | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mcd.html) |
 | .mcdonalds | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mcdonalds.html) |
 | .mckinsey | generic | McKinsey Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/mckinsey.html) |
