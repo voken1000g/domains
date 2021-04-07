@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-04-06T00:03:17.394849, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-04-07T00:03:12.373469, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -113,7 +113,7 @@ Updated at 2021-04-06T00:03:17.394849, from [IANA Root Zone Database](http://www
 | .auspost | generic | Australian Postal Corporation | [Details](https://www.iana.org/domains/root/db/auspost.html) |
 | .author | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/author.html) |
 | .auto | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/auto.html) |
-| .autos | generic | DERAutos, LLC | [Details](https://www.iana.org/domains/root/db/autos.html) |
+| .autos | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/autos.html) |
 | .avianca | generic | Avianca Holdings S.A. | [Details](https://www.iana.org/domains/root/db/avianca.html) |
 | .aw | country-code | SETAR | [Details](https://www.iana.org/domains/root/db/aw.html) |
 | .aws | generic | AWS Registry LLC | [Details](https://www.iana.org/domains/root/db/aws.html) |
@@ -182,7 +182,7 @@ Updated at 2021-04-06T00:03:17.394849, from [IANA Root Zone Database](http://www
 | .bnl | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/bnl.html) |
 | .bnpparibas | generic | BNP Paribas | [Details](https://www.iana.org/domains/root/db/bnpparibas.html) |
 | .bo | country-code | Agencia para el Desarrollo de la Información de la Sociedad en Bolivia | [Details](https://www.iana.org/domains/root/db/bo.html) |
-| .boats | generic | DERBoats, LLC | [Details](https://www.iana.org/domains/root/db/boats.html) |
+| .boats | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/boats.html) |
 | .boehringer | generic | Boehringer Ingelheim International GmbH | [Details](https://www.iana.org/domains/root/db/boehringer.html) |
 | .bofa | generic | Bank of America Corporation | [Details](https://www.iana.org/domains/root/db/bofa.html) |
 | .bom | generic | Núcleo de Informação e Coordenação do Ponto BR - NIC.br | [Details](https://www.iana.org/domains/root/db/bom.html) |
@@ -610,7 +610,7 @@ Updated at 2021-04-06T00:03:17.394849, from [IANA Root Zone Database](http://www
 | .holiday | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/holiday.html) |
 | .homedepot | generic | Home Depot Product Authority, LLC | [Details](https://www.iana.org/domains/root/db/homedepot.html) |
 | .homegoods | generic | The TJX Companies, Inc. | [Details](https://www.iana.org/domains/root/db/homegoods.html) |
-| .homes | generic | DERHomes, LLC | [Details](https://www.iana.org/domains/root/db/homes.html) |
+| .homes | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/homes.html) |
 | .homesense | generic | The TJX Companies, Inc. | [Details](https://www.iana.org/domains/root/db/homesense.html) |
 | .honda | generic | Honda Motor Co., Ltd. | [Details](https://www.iana.org/domains/root/db/honda.html) |
 | .honeywell | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/honeywell.html) |
@@ -875,7 +875,7 @@ Updated at 2021-04-06T00:03:17.394849, from [IANA Root Zone Database](http://www
 | .mortgage | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/mortgage.html) |
 | .moscow | generic | Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID) | [Details](https://www.iana.org/domains/root/db/moscow.html) |
 | .moto | generic | Motorola Trademark Holdings, LLC | [Details](https://www.iana.org/domains/root/db/moto.html) |
-| .motorcycles | generic | DERMotorcycles, LLC | [Details](https://www.iana.org/domains/root/db/motorcycles.html) |
+| .motorcycles | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/motorcycles.html) |
 | .mov | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/mov.html) |
 | .movie | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/movie.html) |
 | .movistar | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/movistar.html) |
@@ -1588,7 +1588,7 @@ Updated at 2021-04-06T00:03:17.394849, from [IANA Root Zone Database](http://www
 | .xperia | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xperia.html) |
 | .xxx | sponsored | ICM Registry LLC | [Details](https://www.iana.org/domains/root/db/xxx.html) |
 | .xyz | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/xyz.html) |
-| .yachts | generic | DERYachts, LLC | [Details](https://www.iana.org/domains/root/db/yachts.html) |
+| .yachts | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/yachts.html) |
 | .yahoo | generic | Yahoo! Domain Services Inc. | [Details](https://www.iana.org/domains/root/db/yahoo.html) |
 | .yamaxun | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/yamaxun.html) |
 | .yandex | generic | Yandex Europe B.V. | [Details](https://www.iana.org/domains/root/db/yandex.html) |
