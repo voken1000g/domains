@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-04-17T00:02:25.000400, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-04-18T00:02:29.511271, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -902,7 +902,7 @@ Updated at 2021-04-17T00:02:25.000400, from [IANA Root Zone Database](http://www
 | .nadex | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/nadex.html) |
 | .nagoya | generic | GMO Registry, Inc. | [Details](https://www.iana.org/domains/root/db/nagoya.html) |
 | .name | generic-restricted | VeriSign Information Services, Inc. | [Details](https://www.iana.org/domains/root/db/name.html) |
-| .nationwide | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/nationwide.html) |
+| .nationwide | generic | Nationwide Mutual Insurance Company | [Details](https://www.iana.org/domains/root/db/nationwide.html) |
 | .natura | generic | NATURA COSMÉTICOS S.A. | [Details](https://www.iana.org/domains/root/db/natura.html) |
 | .navy | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/navy.html) |
 | .nba | generic | NBA REGISTRY, LLC | [Details](https://www.iana.org/domains/root/db/nba.html) |
@@ -963,7 +963,7 @@ Updated at 2021-04-17T00:02:25.000400, from [IANA Root Zone Database](http://www
 | .ong | generic | Public Interest Registry | [Details](https://www.iana.org/domains/root/db/ong.html) |
 | .onl | generic | iRegistry GmbH | [Details](https://www.iana.org/domains/root/db/onl.html) |
 | .online | generic | DotOnline Inc. | [Details](https://www.iana.org/domains/root/db/online.html) |
-| .onyourside | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/onyourside.html) |
+| .onyourside | generic | Nationwide Mutual Insurance Company | [Details](https://www.iana.org/domains/root/db/onyourside.html) |
 | .ooo | generic | INFIBEAM INCORPORATION LIMITED | [Details](https://www.iana.org/domains/root/db/ooo.html) |
 | .open | generic | American Express Travel Related Services Company, Inc. | [Details](https://www.iana.org/domains/root/db/open.html) |
 | .oracle | generic | Oracle Corporation | [Details](https://www.iana.org/domains/root/db/oracle.html) |
