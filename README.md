@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-04-21T00:03:05.394234, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-04-22T00:03:24.261803, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -676,7 +676,7 @@ Updated at 2021-04-21T00:03:05.394234, from [IANA Root Zone Database](http://www
 | .it | country-code | IIT - CNR | [Details](https://www.iana.org/domains/root/db/it.html) |
 | .itau | generic | Itau Unibanco Holding S.A. | [Details](https://www.iana.org/domains/root/db/itau.html) |
 | .itv | generic | ITV Services Limited | [Details](https://www.iana.org/domains/root/db/itv.html) |
-| .iveco | generic | CNH Industrial N.V. | [Details](https://www.iana.org/domains/root/db/iveco.html) |
+| .iveco | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/iveco.html) |
 | .iwc | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/iwc.html) |
 | .jaguar | generic | Jaguar Land Rover Ltd | [Details](https://www.iana.org/domains/root/db/jaguar.html) |
 | .java | generic | Oracle Corporation | [Details](https://www.iana.org/domains/root/db/java.html) |
