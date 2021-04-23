@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-04-22T00:03:24.261803, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-04-23T00:02:53.711107, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1205,7 +1205,7 @@ Updated at 2021-04-22T00:03:24.261803, from [IANA Root Zone Database](http://www
 | .spiegel | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/spiegel.html) |
 | .sport | generic | Global Association of International Sports Federations (GAISF) | [Details](https://www.iana.org/domains/root/db/sport.html) |
 | .spot | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/spot.html) |
-| .spreadbetting | generic | DOTSPREADBETTING REGISTRY LTD | [Details](https://www.iana.org/domains/root/db/spreadbetting.html) |
+| .spreadbetting | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/spreadbetting.html) |
 | .sr | country-code | Telesur | [Details](https://www.iana.org/domains/root/db/sr.html) |
 | .srl | generic | InterNetX Corp. | [Details](https://www.iana.org/domains/root/db/srl.html) |
 | .srt | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/srt.html) |
