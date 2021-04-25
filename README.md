@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-04-24T00:02:45.691830, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-04-25T00:02:46.648116, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -561,7 +561,7 @@ Updated at 2021-04-24T00:02:45.691830, from [IANA Root Zone Database](http://www
 | .google | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/google.html) |
 | .gop | generic | Republican State Leadership Committee, Inc. | [Details](https://www.iana.org/domains/root/db/gop.html) |
 | .got | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/got.html) |
-| .gov | sponsored | General Services AdministrationAttn: QTDC, 2E08 (.gov Domain Registration) | [Details](https://www.iana.org/domains/root/db/gov.html) |
+| .gov | sponsored | Cybersecurity and Infrastructure Security Agency | [Details](https://www.iana.org/domains/root/db/gov.html) |
 | .gp | country-code | Networking Technologies Group | [Details](https://www.iana.org/domains/root/db/gp.html) |
 | .gq | country-code | GETESA | [Details](https://www.iana.org/domains/root/db/gq.html) |
 | .gr | country-code | ICS-FORTH GR | [Details](https://www.iana.org/domains/root/db/gr.html) |
