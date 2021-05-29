@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-05-28T00:31:00.872834, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-05-29T00:40:40.415102, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1275,7 +1275,7 @@ Updated at 2021-05-28T00:31:00.872834, from [IANA Root Zone Database](http://www
 | .theater | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/theater.html) |
 | .theatre | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/theatre.html) |
 | .tiaa | generic | Teachers Insurance and Annuity Association of America | [Details](https://www.iana.org/domains/root/db/tiaa.html) |
-| .tickets | generic | Accent Media Limited | [Details](https://www.iana.org/domains/root/db/tickets.html) |
+| .tickets | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/tickets.html) |
 | .tienda | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/tienda.html) |
 | .tiffany | generic | Tiffany and Company | [Details](https://www.iana.org/domains/root/db/tiffany.html) |
 | .tips | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/tips.html) |
