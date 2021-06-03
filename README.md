@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-06-02T01:08:30.814401, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -38,7 +38,7 @@ Updated at 2021-06-02T01:08:30.814401, from [IANA Root Zone Database](http://www
 | .accountants | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/accountants.html) |
 | .aco | generic | ACO Severin Ahlmann GmbH & Co. KG | [Details](https://www.iana.org/domains/root/db/aco.html) |
 | .active | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/active.html) |
-| .actor | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/actor.html) |
+| .actor | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/actor.html) |
 | .ad | country-code | Andorra Telecom | [Details](https://www.iana.org/domains/root/db/ad.html) |
 | .adac | generic | Allgemeiner Deutscher Automobil-Club e.V. (ADAC) | [Details](https://www.iana.org/domains/root/db/adac.html) |
 | .ads | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/ads.html) |
@@ -58,7 +58,7 @@ Updated at 2021-06-02T01:08:30.814401, from [IANA Root Zone Database](http://www
 | .aig | generic | American International Group, Inc. | [Details](https://www.iana.org/domains/root/db/aig.html) |
 | .aigo | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/aigo.html) |
 | .airbus | generic | Airbus S.A.S. | [Details](https://www.iana.org/domains/root/db/airbus.html) |
-| .airforce | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/airforce.html) |
+| .airforce | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/airforce.html) |
 | .airtel | generic | Bharti Airtel Limited | [Details](https://www.iana.org/domains/root/db/airtel.html) |
 | .akdn | generic | Fondation Aga Khan (Aga Khan Foundation) | [Details](https://www.iana.org/domains/root/db/akdn.html) |
 | .al | country-code | Electronic and Postal Communications Authority - AKEP | [Details](https://www.iana.org/domains/root/db/al.html) |
@@ -94,7 +94,7 @@ Updated at 2021-06-02T01:08:30.814401, from [IANA Root Zone Database](http://www
 | .arab | generic | League of Arab States | [Details](https://www.iana.org/domains/root/db/arab.html) |
 | .aramco | generic | Aramco Services Company | [Details](https://www.iana.org/domains/root/db/aramco.html) |
 | .archi | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/archi.html) |
-| .army | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/army.html) |
+| .army | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/army.html) |
 | .arpa | infrastructure | Internet Architecture Board (IAB) | [Details](https://www.iana.org/domains/root/db/arpa.html) |
 | .art | generic | UK Creative Ideas Limited | [Details](https://www.iana.org/domains/root/db/art.html) |
 | .arte | generic | Association Relative à la Télévision Européenne G.E.I.E. | [Details](https://www.iana.org/domains/root/db/arte.html) |
@@ -104,9 +104,9 @@ Updated at 2021-06-02T01:08:30.814401, from [IANA Root Zone Database](http://www
 | .associates | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/associates.html) |
 | .at | country-code | nic.at GmbH | [Details](https://www.iana.org/domains/root/db/at.html) |
 | .athleta | generic | The Gap, Inc. | [Details](https://www.iana.org/domains/root/db/athleta.html) |
-| .attorney | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/attorney.html) |
+| .attorney | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/attorney.html) |
 | .au | country-code | .au Domain Administration (auDA) | [Details](https://www.iana.org/domains/root/db/au.html) |
-| .auction | generic | United TLD HoldCo, Ltd. | [Details](https://www.iana.org/domains/root/db/auction.html) |
+| .auction | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/auction.html) |
 | .audi | generic | AUDI Aktiengesellschaft | [Details](https://www.iana.org/domains/root/db/audi.html) |
 | .audible | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/audible.html) |
 | .audio | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/audio.html) |
@@ -126,7 +126,7 @@ Updated at 2021-06-02T01:08:30.814401, from [IANA Root Zone Database](http://www
 | .baidu | generic | Baidu, Inc. | [Details](https://www.iana.org/domains/root/db/baidu.html) |
 | .banamex | generic | Citigroup Inc. | [Details](https://www.iana.org/domains/root/db/banamex.html) |
 | .bananarepublic | generic | The Gap, Inc. | [Details](https://www.iana.org/domains/root/db/bananarepublic.html) |
-| .band | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/band.html) |
+| .band | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/band.html) |
 | .bank | generic | fTLD Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/bank.html) |
 | .bar | generic | Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable | [Details](https://www.iana.org/domains/root/db/bar.html) |
 | .barcelona | generic | Municipi de Barcelona | [Details](https://www.iana.org/domains/root/db/barcelona.html) |
@@ -314,7 +314,7 @@ Updated at 2021-06-02T01:08:30.814401, from [IANA Root Zone Database](http://www
 | .comsec | generic | VeriSign, Inc. | [Details](https://www.iana.org/domains/root/db/comsec.html) |
 | .condos | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/condos.html) |
 | .construction | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/construction.html) |
-| .consulting | generic | United TLD Holdco, LTD. | [Details](https://www.iana.org/domains/root/db/consulting.html) |
+| .consulting | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/consulting.html) |
 | .contact | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/contact.html) |
 | .contractors | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/contractors.html) |
 | .cooking | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/cooking.html) |
@@ -348,7 +348,7 @@ Updated at 2021-06-02T01:08:30.814401, from [IANA Root Zone Database](http://www
 | .cz | country-code | CZ.NIC, z.s.p.o | [Details](https://www.iana.org/domains/root/db/cz.html) |
 | .dabur | generic | Dabur India Limited | [Details](https://www.iana.org/domains/root/db/dabur.html) |
 | .dad | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/dad.html) |
-| .dance | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/dance.html) |
+| .dance | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/dance.html) |
 | .data | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/data.html) |
 | .date | generic | dot Date Limited | [Details](https://www.iana.org/domains/root/db/date.html) |
 | .dating | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/dating.html) |
@@ -360,7 +360,7 @@ Updated at 2021-06-02T01:08:30.814401, from [IANA Root Zone Database](http://www
 | .deal | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/deal.html) |
 | .dealer | generic | Intercap Registry Inc. | [Details](https://www.iana.org/domains/root/db/dealer.html) |
 | .deals | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/deals.html) |
-| .degree | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/degree.html) |
+| .degree | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/degree.html) |
 | .delivery | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/delivery.html) |
 | .dell | generic | Dell Inc. | [Details](https://www.iana.org/domains/root/db/dell.html) |
 | .deloitte | generic | Deloitte Touche Tohmatsu | [Details](https://www.iana.org/domains/root/db/deloitte.html) |
