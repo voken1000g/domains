@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-06-04T00:57:38.306001, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -365,9 +365,9 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .dell | generic | Dell Inc. | [Details](https://www.iana.org/domains/root/db/dell.html) |
 | .deloitte | generic | Deloitte Touche Tohmatsu | [Details](https://www.iana.org/domains/root/db/deloitte.html) |
 | .delta | generic | Delta Air Lines, Inc. | [Details](https://www.iana.org/domains/root/db/delta.html) |
-| .democrat | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/democrat.html) |
+| .democrat | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/democrat.html) |
 | .dental | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/dental.html) |
-| .dentist | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/dentist.html) |
+| .dentist | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/dentist.html) |
 | .desi | generic | Desi Networks LLC | [Details](https://www.iana.org/domains/root/db/desi.html) |
 | .design | generic | Top Level Design, LLC | [Details](https://www.iana.org/domains/root/db/design.html) |
 | .dev | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/dev.html) |
@@ -419,7 +419,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .email | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/email.html) |
 | .emerck | generic | Merck KGaA | [Details](https://www.iana.org/domains/root/db/emerck.html) |
 | .energy | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/energy.html) |
-| .engineer | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/engineer.html) |
+| .engineer | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/engineer.html) |
 | .engineering | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/engineering.html) |
 | .enterprises | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/enterprises.html) |
 | .epost | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/epost.html) |
@@ -448,7 +448,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .fail | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/fail.html) |
 | .fairwinds | generic | FairWinds Partners, LLC | [Details](https://www.iana.org/domains/root/db/fairwinds.html) |
 | .faith | generic | dot Faith Limited | [Details](https://www.iana.org/domains/root/db/faith.html) |
-| .family | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/family.html) |
+| .family | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/family.html) |
 | .fan | generic | Asiamix Digital Ltd | [Details](https://www.iana.org/domains/root/db/fan.html) |
 | .fans | generic | ZDNS International Limited | [Details](https://www.iana.org/domains/root/db/fans.html) |
 | .farm | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/farm.html) |
@@ -491,7 +491,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .football | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/football.html) |
 | .ford | generic | Ford Motor Company | [Details](https://www.iana.org/domains/root/db/ford.html) |
 | .forex | generic | DOTFOREX REGISTRY LTD | [Details](https://www.iana.org/domains/root/db/forex.html) |
-| .forsale | generic | United TLD Holdco, LLC | [Details](https://www.iana.org/domains/root/db/forsale.html) |
+| .forsale | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/forsale.html) |
 | .forum | generic | Fegistry, LLC | [Details](https://www.iana.org/domains/root/db/forum.html) |
 | .foundation | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/foundation.html) |
 | .fox | generic | FOX Registry, LLC | [Details](https://www.iana.org/domains/root/db/fox.html) |
@@ -508,7 +508,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .fun | generic | DotSpace, Inc. | [Details](https://www.iana.org/domains/root/db/fun.html) |
 | .fund | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/fund.html) |
 | .furniture | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/furniture.html) |
-| .futbol | generic | United TLD Holdco, Ltd. | [Details](https://www.iana.org/domains/root/db/futbol.html) |
+| .futbol | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/futbol.html) |
 | .fyi | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/fyi.html) |
 | .ga | country-code | Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF) | [Details](https://www.iana.org/domains/root/db/ga.html) |
 | .gal | generic | Asociación puntoGAL | [Details](https://www.iana.org/domains/root/db/gal.html) |
@@ -516,7 +516,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .gallo | generic | Gallo Vineyards, Inc. | [Details](https://www.iana.org/domains/root/db/gallo.html) |
 | .gallup | generic | Gallup, Inc. | [Details](https://www.iana.org/domains/root/db/gallup.html) |
 | .game | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/game.html) |
-| .games | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/games.html) |
+| .games | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/games.html) |
 | .gap | generic | The Gap, Inc. | [Details](https://www.iana.org/domains/root/db/gap.html) |
 | .garden | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/garden.html) |
 | .gay | generic | Top Level Design, LLC | [Details](https://www.iana.org/domains/root/db/gay.html) |
@@ -536,7 +536,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .gi | country-code | Sapphire Networks | [Details](https://www.iana.org/domains/root/db/gi.html) |
 | .gift | generic | Uniregistry, Corp. | [Details](https://www.iana.org/domains/root/db/gift.html) |
 | .gifts | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/gifts.html) |
-| .gives | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/gives.html) |
+| .gives | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/gives.html) |
 | .giving | generic | Giving Limited | [Details](https://www.iana.org/domains/root/db/giving.html) |
 | .gl | country-code | TELE Greenland A/S | [Details](https://www.iana.org/domains/root/db/gl.html) |
 | .glade | generic | Johnson Shareholdings, Inc. | [Details](https://www.iana.org/domains/root/db/glade.html) |
@@ -586,7 +586,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .hair | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/hair.html) |
 | .hamburg | generic | Hamburg Top-Level-Domain GmbH | [Details](https://www.iana.org/domains/root/db/hamburg.html) |
 | .hangout | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/hangout.html) |
-| .haus | generic | United TLD Holdco, LTD. | [Details](https://www.iana.org/domains/root/db/haus.html) |
+| .haus | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/haus.html) |
 | .hbo | generic | HBO Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/hbo.html) |
 | .hdfc | generic | HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED | [Details](https://www.iana.org/domains/root/db/hdfc.html) |
 | .hdfcbank | generic | HDFC Bank Limited | [Details](https://www.iana.org/domains/root/db/hdfcbank.html) |
@@ -647,7 +647,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .imamat | generic | Fondation Aga Khan (Aga Khan Foundation) | [Details](https://www.iana.org/domains/root/db/imamat.html) |
 | .imdb | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/imdb.html) |
 | .immo | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/immo.html) |
-| .immobilien | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/immobilien.html) |
+| .immobilien | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/immobilien.html) |
 | .in | country-code | National Internet Exchange of India | [Details](https://www.iana.org/domains/root/db/in.html) |
 | .inc | generic | Intercap Registry Inc. | [Details](https://www.iana.org/domains/root/db/inc.html) |
 | .industries | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/industries.html) |
@@ -702,7 +702,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .jprs | generic | Japan Registry Services Co., Ltd. | [Details](https://www.iana.org/domains/root/db/jprs.html) |
 | .juegos | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/juegos.html) |
 | .juniper | generic | JUNIPER NETWORKS, INC. | [Details](https://www.iana.org/domains/root/db/juniper.html) |
-| .kaufen | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/kaufen.html) |
+| .kaufen | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/kaufen.html) |
 | .kddi | generic | KDDI CORPORATION | [Details](https://www.iana.org/domains/root/db/kddi.html) |
 | .ke | country-code | Kenya Network Information Center (KeNIC) | [Details](https://www.iana.org/domains/root/db/ke.html) |
 | .kerryhotels | generic | Kerry Trading Co. Limited | [Details](https://www.iana.org/domains/root/db/kerryhotels.html) |
@@ -750,7 +750,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .latino | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/latino.html) |
 | .latrobe | generic | La Trobe University | [Details](https://www.iana.org/domains/root/db/latrobe.html) |
 | .law | generic | LW TLD Limited | [Details](https://www.iana.org/domains/root/db/law.html) |
-| .lawyer | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/lawyer.html) |
+| .lawyer | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/lawyer.html) |
 | .lb | country-code | American University of BeirutComputing and Networking Services | [Details](https://www.iana.org/domains/root/db/lb.html) |
 | .lc | country-code | University of Puerto Rico | [Details](https://www.iana.org/domains/root/db/lc.html) |
 | .lds | generic | IRI Domain Management, LLC | [Details](https://www.iana.org/domains/root/db/lds.html) |
@@ -776,7 +776,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .linde | generic | Linde Aktiengesellschaft | [Details](https://www.iana.org/domains/root/db/linde.html) |
 | .link | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/link.html) |
 | .lipsy | generic | Lipsy Ltd | [Details](https://www.iana.org/domains/root/db/lipsy.html) |
-| .live | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/live.html) |
+| .live | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/live.html) |
 | .living | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/living.html) |
 | .lixil | generic | LIXIL Group Corporation | [Details](https://www.iana.org/domains/root/db/lixil.html) |
 | .lk | country-code | Council for Information TechnologyLK Domain Registrar | [Details](https://www.iana.org/domains/root/db/lk.html) |
@@ -816,7 +816,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .management | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/management.html) |
 | .mango | generic | PUNTO FA S.L. | [Details](https://www.iana.org/domains/root/db/mango.html) |
 | .map | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/map.html) |
-| .market | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/market.html) |
+| .market | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/market.html) |
 | .marketing | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/marketing.html) |
 | .markets | generic | DOTMARKETS REGISTRY LTD | [Details](https://www.iana.org/domains/root/db/markets.html) |
 | .marriott | generic | Marriott Worldwide Corporation | [Details](https://www.iana.org/domains/root/db/marriott.html) |
@@ -862,7 +862,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .mobi | generic | Afilias Technologies Limited dba dotMobi | [Details](https://www.iana.org/domains/root/db/mobi.html) |
 | .mobile | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/mobile.html) |
 | .mobily | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mobily.html) |
-| .moda | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/moda.html) |
+| .moda | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/moda.html) |
 | .moe | generic | Interlink Co., Ltd. | [Details](https://www.iana.org/domains/root/db/moe.html) |
 | .moi | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/moi.html) |
 | .mom | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/mom.html) |
@@ -872,7 +872,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .montblanc | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/montblanc.html) |
 | .mopar | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mopar.html) |
 | .mormon | generic | IRI Domain Management, LLC ("Applicant") | [Details](https://www.iana.org/domains/root/db/mormon.html) |
-| .mortgage | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/mortgage.html) |
+| .mortgage | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/mortgage.html) |
 | .moscow | generic | Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID) | [Details](https://www.iana.org/domains/root/db/moscow.html) |
 | .moto | generic | Motorola Trademark Holdings, LLC | [Details](https://www.iana.org/domains/root/db/moto.html) |
 | .motorcycles | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/motorcycles.html) |
@@ -904,7 +904,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .name | generic-restricted | VeriSign Information Services, Inc. | [Details](https://www.iana.org/domains/root/db/name.html) |
 | .nationwide | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/nationwide.html) |
 | .natura | generic | NATURA COSMÉTICOS S.A. | [Details](https://www.iana.org/domains/root/db/natura.html) |
-| .navy | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/navy.html) |
+| .navy | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/navy.html) |
 | .nba | generic | NBA REGISTRY, LLC | [Details](https://www.iana.org/domains/root/db/nba.html) |
 | .nc | country-code | Office des Postes et Telecommunications | [Details](https://www.iana.org/domains/root/db/nc.html) |
 | .ne | country-code | SONITEL | [Details](https://www.iana.org/domains/root/db/ne.html) |
@@ -916,7 +916,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .neustar | generic | NeuStar, Inc. | [Details](https://www.iana.org/domains/root/db/neustar.html) |
 | .new | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/new.html) |
 | .newholland | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/newholland.html) |
-| .news | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/news.html) |
+| .news | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/news.html) |
 | .next | generic | Next plc | [Details](https://www.iana.org/domains/root/db/next.html) |
 | .nextdirect | generic | Next plc | [Details](https://www.iana.org/domains/root/db/nextdirect.html) |
 | .nexus | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/nexus.html) |
@@ -929,7 +929,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .nico | generic | DWANGO Co., Ltd. | [Details](https://www.iana.org/domains/root/db/nico.html) |
 | .nike | generic | NIKE, Inc. | [Details](https://www.iana.org/domains/root/db/nike.html) |
 | .nikon | generic | NIKON CORPORATION | [Details](https://www.iana.org/domains/root/db/nikon.html) |
-| .ninja | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/ninja.html) |
+| .ninja | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/ninja.html) |
 | .nissan | generic | NISSAN MOTOR CO., LTD. | [Details](https://www.iana.org/domains/root/db/nissan.html) |
 | .nissay | generic | Nippon Life Insurance Company | [Details](https://www.iana.org/domains/root/db/nissay.html) |
 | .nl | country-code | SIDN (Stichting Internet Domeinregistratie Nederland) | [Details](https://www.iana.org/domains/root/db/nl.html) |
@@ -1046,7 +1046,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .prudential | generic | Prudential Financial, Inc. | [Details](https://www.iana.org/domains/root/db/prudential.html) |
 | .ps | country-code | Ministry Of Telecommunications &Information Technology,Government Computer Center. | [Details](https://www.iana.org/domains/root/db/ps.html) |
 | .pt | country-code | Associação DNS.PT | [Details](https://www.iana.org/domains/root/db/pt.html) |
-| .pub | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/pub.html) |
+| .pub | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/pub.html) |
 | .pw | country-code | Micronesia Investment and Development Corporation | [Details](https://www.iana.org/domains/root/db/pw.html) |
 | .pwc | generic | PricewaterhouseCoopers LLP | [Details](https://www.iana.org/domains/root/db/pwc.html) |
 | .py | country-code | NIC-PY | [Details](https://www.iana.org/domains/root/db/py.html) |
@@ -1067,7 +1067,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .red | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/red.html) |
 | .redstone | generic | Redstone Haute Couture Co., Ltd. | [Details](https://www.iana.org/domains/root/db/redstone.html) |
 | .redumbrella | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/redumbrella.html) |
-| .rehab | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/rehab.html) |
+| .rehab | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/rehab.html) |
 | .reise | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/reise.html) |
 | .reisen | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/reisen.html) |
 | .reit | generic | National Association of Real Estate Investment Trusts, Inc. | [Details](https://www.iana.org/domains/root/db/reit.html) |
@@ -1077,11 +1077,11 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .rentals | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/rentals.html) |
 | .repair | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/repair.html) |
 | .report | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/report.html) |
-| .republican | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/republican.html) |
+| .republican | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/republican.html) |
 | .rest | generic | Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable | [Details](https://www.iana.org/domains/root/db/rest.html) |
 | .restaurant | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/restaurant.html) |
 | .review | generic | dot Review Limited | [Details](https://www.iana.org/domains/root/db/review.html) |
-| .reviews | generic | United TLD Holdco, Ltd. | [Details](https://www.iana.org/domains/root/db/reviews.html) |
+| .reviews | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/reviews.html) |
 | .rexroth | generic | Robert Bosch GMBH | [Details](https://www.iana.org/domains/root/db/rexroth.html) |
 | .rich | generic | iRegistry GmbH | [Details](https://www.iana.org/domains/root/db/rich.html) |
 | .richardli | generic | Pacific Century Asset Management (HK) Limited | [Details](https://www.iana.org/domains/root/db/richardli.html) |
@@ -1089,11 +1089,11 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .rightathome | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/rightathome.html) |
 | .ril | generic | Reliance Industries Limited | [Details](https://www.iana.org/domains/root/db/ril.html) |
 | .rio | generic | Empresa Municipal de Informática SA - IPLANRIO | [Details](https://www.iana.org/domains/root/db/rio.html) |
-| .rip | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/rip.html) |
+| .rip | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/rip.html) |
 | .rmit | generic | Royal Melbourne Institute of Technology | [Details](https://www.iana.org/domains/root/db/rmit.html) |
 | .ro | country-code | National Institute for R&D in Informatics | [Details](https://www.iana.org/domains/root/db/ro.html) |
 | .rocher | generic | Ferrero Trading Lux S.A. | [Details](https://www.iana.org/domains/root/db/rocher.html) |
-| .rocks | generic | United TLD Holdco, LTD. | [Details](https://www.iana.org/domains/root/db/rocks.html) |
+| .rocks | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/rocks.html) |
 | .rodeo | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/rodeo.html) |
 | .rogers | generic | Rogers Communications Canada Inc. | [Details](https://www.iana.org/domains/root/db/rogers.html) |
 | .room | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/room.html) |
@@ -1111,7 +1111,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .safe | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/safe.html) |
 | .safety | generic | Safety Registry Services, LLC. | [Details](https://www.iana.org/domains/root/db/safety.html) |
 | .sakura | generic | SAKURA Internet Inc. | [Details](https://www.iana.org/domains/root/db/sakura.html) |
-| .sale | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/sale.html) |
+| .sale | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/sale.html) |
 | .salon | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/salon.html) |
 | .samsclub | generic | Wal-Mart Stores, Inc. | [Details](https://www.iana.org/domains/root/db/samsclub.html) |
 | .samsung | generic | SAMSUNG SDS CO., LTD | [Details](https://www.iana.org/domains/root/db/samsung.html) |
@@ -1191,9 +1191,9 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .sncf | generic | SNCF (Société Nationale des Chemins de fer Francais) | [Details](https://www.iana.org/domains/root/db/sncf.html) |
 | .so | country-code | Ministry of Post and Telecommunications | [Details](https://www.iana.org/domains/root/db/so.html) |
 | .soccer | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/soccer.html) |
-| .social | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/social.html) |
+| .social | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/social.html) |
 | .softbank | generic | SoftBank Group Corp. | [Details](https://www.iana.org/domains/root/db/softbank.html) |
-| .software | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/software.html) |
+| .software | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/software.html) |
 | .sohu | generic | Sohu.com Limited | [Details](https://www.iana.org/domains/root/db/sohu.html) |
 | .solar | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/solar.html) |
 | .solutions | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/solutions.html) |
@@ -1224,7 +1224,7 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .storage | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/storage.html) |
 | .store | generic | DotStore Inc. | [Details](https://www.iana.org/domains/root/db/store.html) |
 | .stream | generic | dot Stream Limited | [Details](https://www.iana.org/domains/root/db/stream.html) |
-| .studio | generic | United TLD Holdco Ltd. | [Details](https://www.iana.org/domains/root/db/studio.html) |
+| .studio | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/studio.html) |
 | .study | generic | OPEN UNIVERSITIES AUSTRALIA PTY LTD | [Details](https://www.iana.org/domains/root/db/study.html) |
 | .style | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/style.html) |
 | .su | country-code | Russian Institute for Development of Public Networks(ROSNIIROS) | [Details](https://www.iana.org/domains/root/db/su.html) |
@@ -1347,11 +1347,11 @@ Updated at 2021-06-03T00:56:07.609271, from [IANA Root Zone Database](http://www
 | .ventures | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/ventures.html) |
 | .verisign | generic | VeriSign, Inc. | [Details](https://www.iana.org/domains/root/db/verisign.html) |
 | .versicherung | generic | TLD-BOX Registrydienstleistungen GmbH | [Details](https://www.iana.org/domains/root/db/versicherung.html) |
-| .vet | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/vet.html) |
+| .vet | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/vet.html) |
 | .vg | country-code | Telecommunications Regulatory Commission of the Virgin Islands | [Details](https://www.iana.org/domains/root/db/vg.html) |
 | .vi | country-code | Virgin Islands Public Telecommunications System, Inc. | [Details](https://www.iana.org/domains/root/db/vi.html) |
 | .viajes | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/viajes.html) |
-| .video | generic | United TLD Holdco, Ltd | [Details](https://www.iana.org/domains/root/db/video.html) |
+| .video | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/video.html) |
 | .vig | generic | VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe | [Details](https://www.iana.org/domains/root/db/vig.html) |
 | .viking | generic | Viking River Cruises (Bermuda) Ltd. | [Details](https://www.iana.org/domains/root/db/viking.html) |
 | .villas | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/villas.html) |
