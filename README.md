@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-06-10T00:15:15.646548, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-06-11T00:15:03.697732, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -266,7 +266,7 @@ Updated at 2021-06-10T00:15:15.646548, from [IANA Root Zone Database](http://www
 | .ch | country-code | SWITCH The Swiss Education & Research Network | [Details](https://www.iana.org/domains/root/db/ch.html) |
 | .chanel | generic | Chanel International B.V. | [Details](https://www.iana.org/domains/root/db/chanel.html) |
 | .channel | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/channel.html) |
-| .charity | generic | Corn Lake, LLC | [Details](https://www.iana.org/domains/root/db/charity.html) |
+| .charity | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/charity.html) |
 | .chase | generic | JPMorgan Chase Bank, National Association | [Details](https://www.iana.org/domains/root/db/chase.html) |
 | .chat | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/chat.html) |
 | .cheap | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cheap.html) |
@@ -449,7 +449,7 @@ Updated at 2021-06-10T00:15:15.646548, from [IANA Root Zone Database](http://www
 | .fairwinds | generic | FairWinds Partners, LLC | [Details](https://www.iana.org/domains/root/db/fairwinds.html) |
 | .faith | generic | dot Faith Limited | [Details](https://www.iana.org/domains/root/db/faith.html) |
 | .family | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/family.html) |
-| .fan | generic | Asiamix Digital Ltd | [Details](https://www.iana.org/domains/root/db/fan.html) |
+| .fan | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/fan.html) |
 | .fans | generic | ZDNS International Limited | [Details](https://www.iana.org/domains/root/db/fans.html) |
 | .farm | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/farm.html) |
 | .farmers | generic | Farmers Insurance Exchange | [Details](https://www.iana.org/domains/root/db/farmers.html) |
