@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-07-01T00:14:29.166298, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-07-02T00:14:17.532322, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -202,7 +202,7 @@ Updated at 2021-07-01T00:14:29.166298, from [IANA Root Zone Database](http://www
 | .bradesco | generic | Banco Bradesco S.A. | [Details](https://www.iana.org/domains/root/db/bradesco.html) |
 | .bridgestone | generic | Bridgestone Corporation | [Details](https://www.iana.org/domains/root/db/bridgestone.html) |
 | .broadway | generic | Celebrate Broadway, Inc. | [Details](https://www.iana.org/domains/root/db/broadway.html) |
-| .broker | generic | DOTBROKER REGISTRY LTD | [Details](https://www.iana.org/domains/root/db/broker.html) |
+| .broker | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/broker.html) |
 | .brother | generic | Brother Industries, Ltd. | [Details](https://www.iana.org/domains/root/db/brother.html) |
 | .brussels | generic | DNS.be vzw | [Details](https://www.iana.org/domains/root/db/brussels.html) |
 | .bs | country-code | University of The Bahamas | [Details](https://www.iana.org/domains/root/db/bs.html) |
@@ -490,7 +490,7 @@ Updated at 2021-07-01T00:14:29.166298, from [IANA Root Zone Database](http://www
 | .foodnetwork | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/foodnetwork.html) |
 | .football | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/football.html) |
 | .ford | generic | Ford Motor Company | [Details](https://www.iana.org/domains/root/db/ford.html) |
-| .forex | generic | DOTFOREX REGISTRY LTD | [Details](https://www.iana.org/domains/root/db/forex.html) |
+| .forex | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/forex.html) |
 | .forsale | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/forsale.html) |
 | .forum | generic | Fegistry, LLC | [Details](https://www.iana.org/domains/root/db/forum.html) |
 | .foundation | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/foundation.html) |
@@ -818,7 +818,7 @@ Updated at 2021-07-01T00:14:29.166298, from [IANA Root Zone Database](http://www
 | .map | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/map.html) |
 | .market | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/market.html) |
 | .marketing | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/marketing.html) |
-| .markets | generic | DOTMARKETS REGISTRY LTD | [Details](https://www.iana.org/domains/root/db/markets.html) |
+| .markets | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/markets.html) |
 | .marriott | generic | Marriott Worldwide Corporation | [Details](https://www.iana.org/domains/root/db/marriott.html) |
 | .marshalls | generic | The TJX Companies, Inc. | [Details](https://www.iana.org/domains/root/db/marshalls.html) |
 | .maserati | generic | Fiat Chrysler Automobiles N.V. | [Details](https://www.iana.org/domains/root/db/maserati.html) |
@@ -1305,7 +1305,7 @@ Updated at 2021-07-01T00:14:29.166298, from [IANA Root Zone Database](http://www
 | .tp | country-code | Retired | [Details](https://www.iana.org/domains/root/db/tp.html) |
 | .tr | country-code | Bilgi Teknolojileri ve İletişim Kurumu (BTK) | [Details](https://www.iana.org/domains/root/db/tr.html) |
 | .trade | generic | Elite Registry Limited | [Details](https://www.iana.org/domains/root/db/trade.html) |
-| .trading | generic | DOTTRADING REGISTRY LTD | [Details](https://www.iana.org/domains/root/db/trading.html) |
+| .trading | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/trading.html) |
 | .training | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/training.html) |
 | .travel | sponsored | Dog	Beach, LLC | [Details](https://www.iana.org/domains/root/db/travel.html) |
 | .travelchannel | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/travelchannel.html) |
