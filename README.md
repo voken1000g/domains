@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-07-08T00:13:40.687583, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-07-09T00:13:30.030047, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1589,7 +1589,7 @@ Updated at 2021-07-08T00:13:40.687583, from [IANA Root Zone Database](http://www
 | .xxx | sponsored | ICM Registry LLC | [Details](https://www.iana.org/domains/root/db/xxx.html) |
 | .xyz | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/xyz.html) |
 | .yachts | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/yachts.html) |
-| .yahoo | generic | Yahoo! Domain Services Inc. | [Details](https://www.iana.org/domains/root/db/yahoo.html) |
+| .yahoo | generic | OATH INC | [Details](https://www.iana.org/domains/root/db/yahoo.html) |
 | .yamaxun | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/yamaxun.html) |
 | .yandex | generic | Yandex Europe B.V. | [Details](https://www.iana.org/domains/root/db/yandex.html) |
 | .ye | country-code | TeleYemen | [Details](https://www.iana.org/domains/root/db/ye.html) |
