@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-08-17T00:16:05.985232, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-08-18T00:15:11.945571, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -294,7 +294,7 @@ Updated at 2021-08-17T00:16:05.985232, from [IANA Root Zone Database](http://www
 | .clinique | generic | The Estée Lauder Companies Inc. | [Details](https://www.iana.org/domains/root/db/clinique.html) |
 | .clothing | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/clothing.html) |
 | .cloud | generic | ARUBA PEC S.p.A. | [Details](https://www.iana.org/domains/root/db/cloud.html) |
-| .club | generic | .CLUB DOMAINS, LLC | [Details](https://www.iana.org/domains/root/db/club.html) |
+| .club | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/club.html) |
 | .clubmed | generic | Club Méditerranée S.A. | [Details](https://www.iana.org/domains/root/db/clubmed.html) |
 | .cm | country-code | Cameroon Telecommunications (CAMTEL) | [Details](https://www.iana.org/domains/root/db/cm.html) |
 | .cn | country-code | China Internet Network Information Center (CNNIC) | [Details](https://www.iana.org/domains/root/db/cn.html) |
