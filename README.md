@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-08-23T00:15:16.758967, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-08-24T00:15:55.837452, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -962,7 +962,7 @@ Updated at 2021-08-23T00:15:16.758967, from [IANA Root Zone Database](http://www
 | .one | generic | One.com A/S | [Details](https://www.iana.org/domains/root/db/one.html) |
 | .ong | generic | Public Interest Registry | [Details](https://www.iana.org/domains/root/db/ong.html) |
 | .onl | generic | iRegistry GmbH | [Details](https://www.iana.org/domains/root/db/onl.html) |
-| .online | generic | DotOnline Inc. | [Details](https://www.iana.org/domains/root/db/online.html) |
+| .online | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/online.html) |
 | .onyourside | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/onyourside.html) |
 | .ooo | generic | INFIBEAM INCORPORATION LIMITED | [Details](https://www.iana.org/domains/root/db/ooo.html) |
 | .open | generic | American Express Travel Related Services Company, Inc. | [Details](https://www.iana.org/domains/root/db/open.html) |
