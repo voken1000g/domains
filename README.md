@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-08-24T00:15:55.837452, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-08-25T00:16:00.610356, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -828,7 +828,7 @@ Updated at 2021-08-24T00:15:55.837452, from [IANA Root Zone Database](http://www
 | .mcd | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mcd.html) |
 | .mcdonalds | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mcdonalds.html) |
 | .mckinsey | generic | McKinsey Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/mckinsey.html) |
-| .md | country-code | MoldData S.E. | [Details](https://www.iana.org/domains/root/db/md.html) |
+| .md | country-code | IP Serviciul Tehnologia Informatiei si Securitate Cibernetica | [Details](https://www.iana.org/domains/root/db/md.html) |
 | .me | country-code | Government of Montenegro | [Details](https://www.iana.org/domains/root/db/me.html) |
 | .med | generic | Medistry LLC | [Details](https://www.iana.org/domains/root/db/med.html) |
 | .media | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/media.html) |
