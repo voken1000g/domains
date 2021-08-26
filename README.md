@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-08-25T00:16:00.610356, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-08-26T00:14:41.527520, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -505,7 +505,7 @@ Updated at 2021-08-25T00:16:00.610356, from [IANA Root Zone Database](http://www
 | .ftr | generic | Frontier Communications Corporation | [Details](https://www.iana.org/domains/root/db/ftr.html) |
 | .fujitsu | generic | Fujitsu Limited | [Details](https://www.iana.org/domains/root/db/fujitsu.html) |
 | .fujixerox | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/fujixerox.html) |
-| .fun | generic | DotSpace, Inc. | [Details](https://www.iana.org/domains/root/db/fun.html) |
+| .fun | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/fun.html) |
 | .fund | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/fund.html) |
 | .furniture | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/furniture.html) |
 | .futbol | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/futbol.html) |
@@ -616,7 +616,7 @@ Updated at 2021-08-25T00:16:00.610356, from [IANA Root Zone Database](http://www
 | .honeywell | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/honeywell.html) |
 | .horse | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/horse.html) |
 | .hospital | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/hospital.html) |
-| .host | generic | DotHost Inc. | [Details](https://www.iana.org/domains/root/db/host.html) |
+| .host | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/host.html) |
 | .hosting | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/hosting.html) |
 | .hot | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/hot.html) |
 | .hoteles | generic | Travel Reservations SRL | [Details](https://www.iana.org/domains/root/db/hoteles.html) |
@@ -1031,7 +1031,7 @@ Updated at 2021-08-25T00:16:00.610356, from [IANA Root Zone Database](http://www
 | .pr | country-code | Gauss Research Laboratory Inc. | [Details](https://www.iana.org/domains/root/db/pr.html) |
 | .pramerica | generic | Prudential Financial, Inc. | [Details](https://www.iana.org/domains/root/db/pramerica.html) |
 | .praxi | generic | Praxi S.p.A. | [Details](https://www.iana.org/domains/root/db/praxi.html) |
-| .press | generic | DotPress Inc. | [Details](https://www.iana.org/domains/root/db/press.html) |
+| .press | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/press.html) |
 | .prime | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/prime.html) |
 | .pro | generic-restricted | Afilias Limited | [Details](https://www.iana.org/domains/root/db/pro.html) |
 | .prod | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/prod.html) |
