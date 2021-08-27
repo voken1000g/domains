@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-08-26T00:14:41.527520, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-08-27T00:17:12.199072, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1201,7 +1201,7 @@ Updated at 2021-08-26T00:14:41.527520, from [IANA Root Zone Database](http://www
 | .sony | generic | Sony Corporation | [Details](https://www.iana.org/domains/root/db/sony.html) |
 | .soy | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/soy.html) |
 | .spa | generic | Asia Spa and Wellness Promotion Council Limited | [Details](https://www.iana.org/domains/root/db/spa.html) |
-| .space | generic | DotSpace Inc. | [Details](https://www.iana.org/domains/root/db/space.html) |
+| .space | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/space.html) |
 | .spiegel | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/spiegel.html) |
 | .sport | generic | Global Association of International Sports Federations (GAISF) | [Details](https://www.iana.org/domains/root/db/sport.html) |
 | .spot | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/spot.html) |
@@ -1222,7 +1222,7 @@ Updated at 2021-08-26T00:14:41.527520, from [IANA Root Zone Database](http://www
 | .stcgroup | generic | Saudi Telecom Company | [Details](https://www.iana.org/domains/root/db/stcgroup.html) |
 | .stockholm | generic | Stockholms kommun | [Details](https://www.iana.org/domains/root/db/stockholm.html) |
 | .storage | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/storage.html) |
-| .store | generic | DotStore Inc. | [Details](https://www.iana.org/domains/root/db/store.html) |
+| .store | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/store.html) |
 | .stream | generic | dot Stream Limited | [Details](https://www.iana.org/domains/root/db/stream.html) |
 | .studio | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/studio.html) |
 | .study | generic | OPEN UNIVERSITIES AUSTRALIA PTY LTD | [Details](https://www.iana.org/domains/root/db/study.html) |
@@ -1260,7 +1260,7 @@ Updated at 2021-08-26T00:14:41.527520, from [IANA Root Zone Database](http://www
 | .td | country-code | l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC) | [Details](https://www.iana.org/domains/root/db/td.html) |
 | .tdk | generic | TDK Corporation | [Details](https://www.iana.org/domains/root/db/tdk.html) |
 | .team | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/team.html) |
-| .tech | generic | Personals TLD Inc. | [Details](https://www.iana.org/domains/root/db/tech.html) |
+| .tech | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/tech.html) |
 | .technology | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/technology.html) |
 | .tel | sponsored | Telnames Ltd. | [Details](https://www.iana.org/domains/root/db/tel.html) |
 | .telecity | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/telecity.html) |
@@ -1331,7 +1331,7 @@ Updated at 2021-08-26T00:14:41.527520, from [IANA Root Zone Database](http://www
 | .um | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/um.html) |
 | .unicom | generic | China United Network Communications Corporation Limited | [Details](https://www.iana.org/domains/root/db/unicom.html) |
 | .university | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/university.html) |
-| .uno | generic | DotSite Inc. | [Details](https://www.iana.org/domains/root/db/uno.html) |
+| .uno | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/uno.html) |
 | .uol | generic | UBN INTERNET LTDA. | [Details](https://www.iana.org/domains/root/db/uol.html) |
 | .ups | generic | UPS Market Driver, Inc. | [Details](https://www.iana.org/domains/root/db/ups.html) |
 | .us | country-code | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/us.html) |
@@ -1387,7 +1387,7 @@ Updated at 2021-08-26T00:14:41.527520, from [IANA Root Zone Database](http://www
 | .weatherchannel | generic | International Business Machines Corporation | [Details](https://www.iana.org/domains/root/db/weatherchannel.html) |
 | .webcam | generic | dot Webcam Limited | [Details](https://www.iana.org/domains/root/db/webcam.html) |
 | .weber | generic | Saint-Gobain Weber SA | [Details](https://www.iana.org/domains/root/db/weber.html) |
-| .website | generic | DotWebsite Inc. | [Details](https://www.iana.org/domains/root/db/website.html) |
+| .website | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/website.html) |
 | .wed | generic | Emergency Back-End Registry Operator Program - ICANN | [Details](https://www.iana.org/domains/root/db/wed.html) |
 | .wedding | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/wedding.html) |
 | .weibo | generic | Sina Corporation | [Details](https://www.iana.org/domains/root/db/weibo.html) |
