@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-08-31T00:16:06.087411, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-09-01T00:15:58.419210, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -369,7 +369,7 @@ Updated at 2021-08-31T00:16:06.087411, from [IANA Root Zone Database](http://www
 | .dental | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/dental.html) |
 | .dentist | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/dentist.html) |
 | .desi | generic | Desi Networks LLC | [Details](https://www.iana.org/domains/root/db/desi.html) |
-| .design | generic | Top Level Design, LLC | [Details](https://www.iana.org/domains/root/db/design.html) |
+| .design | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/design.html) |
 | .dev | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/dev.html) |
 | .dhl | generic | Deutsche Post AG | [Details](https://www.iana.org/domains/root/db/dhl.html) |
 | .diamonds | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/diamonds.html) |
@@ -1175,7 +1175,7 @@ Updated at 2021-08-31T00:16:06.087411, from [IANA Root Zone Database](http://www
 | .silk | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/silk.html) |
 | .sina | generic | Sina Corporation | [Details](https://www.iana.org/domains/root/db/sina.html) |
 | .singles | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/singles.html) |
-| .site | generic | DotSite Inc. | [Details](https://www.iana.org/domains/root/db/site.html) |
+| .site | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/site.html) |
 | .sj | country-code | Norid A/S | [Details](https://www.iana.org/domains/root/db/sj.html) |
 | .sk | country-code | SK-NIC, a.s. | [Details](https://www.iana.org/domains/root/db/sk.html) |
 | .ski | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/ski.html) |
