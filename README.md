@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-09-15T00:16:21.574576, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -29,7 +29,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .abbvie | generic | AbbVie Inc. | [Details](https://www.iana.org/domains/root/db/abbvie.html) |
 | .abc | generic | Disney Enterprises, Inc. | [Details](https://www.iana.org/domains/root/db/abc.html) |
 | .able | generic | Able Inc. | [Details](https://www.iana.org/domains/root/db/able.html) |
-| .abogado | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/abogado.html) |
+| .abogado | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/abogado.html) |
 | .abudhabi | generic | Abu Dhabi Systems and Information Centre | [Details](https://www.iana.org/domains/root/db/abudhabi.html) |
 | .ac | country-code | Internet Computer Bureau Limited | [Details](https://www.iana.org/domains/root/db/ac.html) |
 | .academy | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/academy.html) |
@@ -148,7 +148,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .be | country-code | DNS Belgium vzw/asbl | [Details](https://www.iana.org/domains/root/db/be.html) |
 | .beats | generic | Beats Electronics, LLC | [Details](https://www.iana.org/domains/root/db/beats.html) |
 | .beauty | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/beauty.html) |
-| .beer | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/beer.html) |
+| .beer | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/beer.html) |
 | .bentley | generic | Bentley Motors Limited | [Details](https://www.iana.org/domains/root/db/bentley.html) |
 | .berlin | generic | dotBERLIN GmbH & Co. KG | [Details](https://www.iana.org/domains/root/db/berlin.html) |
 | .best | generic | BestTLD Pty Ltd | [Details](https://www.iana.org/domains/root/db/best.html) |
@@ -241,7 +241,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .careers | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/careers.html) |
 | .cars | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/cars.html) |
 | .cartier | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/cartier.html) |
-| .casa | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/casa.html) |
+| .casa | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/casa.html) |
 | .case | generic | CNH Industrial N.V. | [Details](https://www.iana.org/domains/root/db/case.html) |
 | .caseih | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/caseih.html) |
 | .cash | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cash.html) |
@@ -317,7 +317,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .consulting | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/consulting.html) |
 | .contact | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/contact.html) |
 | .contractors | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/contractors.html) |
-| .cooking | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/cooking.html) |
+| .cooking | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/cooking.html) |
 | .cookingchannel | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/cookingchannel.html) |
 | .cool | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cool.html) |
 | .coop | sponsored | DotCooperation LLC | [Details](https://www.iana.org/domains/root/db/coop.html) |
@@ -355,7 +355,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .datsun | generic | NISSAN MOTOR CO., LTD. | [Details](https://www.iana.org/domains/root/db/datsun.html) |
 | .day | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/day.html) |
 | .dclk | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/dclk.html) |
-| .dds | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/dds.html) |
+| .dds | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/dds.html) |
 | .de | country-code | DENIC eG | [Details](https://www.iana.org/domains/root/db/de.html) |
 | .deal | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/deal.html) |
 | .dealer | generic | Intercap Registry Inc. | [Details](https://www.iana.org/domains/root/db/dealer.html) |
@@ -453,7 +453,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .fans | generic | ZDNS International Limited | [Details](https://www.iana.org/domains/root/db/fans.html) |
 | .farm | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/farm.html) |
 | .farmers | generic | Farmers Insurance Exchange | [Details](https://www.iana.org/domains/root/db/farmers.html) |
-| .fashion | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/fashion.html) |
+| .fashion | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/fashion.html) |
 | .fast | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/fast.html) |
 | .fedex | generic | Federal Express Corporation | [Details](https://www.iana.org/domains/root/db/fedex.html) |
 | .feedback | generic | Top Level Spectrum, Inc. | [Details](https://www.iana.org/domains/root/db/feedback.html) |
@@ -471,8 +471,8 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .firestone | generic | Bridgestone Licensing Services, Inc. | [Details](https://www.iana.org/domains/root/db/firestone.html) |
 | .firmdale | generic | Firmdale Holdings Limited | [Details](https://www.iana.org/domains/root/db/firmdale.html) |
 | .fish | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/fish.html) |
-| .fishing | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/fishing.html) |
-| .fit | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/fit.html) |
+| .fishing | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/fishing.html) |
+| .fit | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/fit.html) |
 | .fitness | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/fitness.html) |
 | .fj | country-code | The University of the South PacificIT Services | [Details](https://www.iana.org/domains/root/db/fj.html) |
 | .fk | country-code | Falkland Islands Government | [Details](https://www.iana.org/domains/root/db/fk.html) |
@@ -518,7 +518,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .game | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/game.html) |
 | .games | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/games.html) |
 | .gap | generic | The Gap, Inc. | [Details](https://www.iana.org/domains/root/db/gap.html) |
-| .garden | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/garden.html) |
+| .garden | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/garden.html) |
 | .gay | generic | Top Level Design, LLC | [Details](https://www.iana.org/domains/root/db/gay.html) |
 | .gb | country-code | Reserved Domain - IANA | [Details](https://www.iana.org/domains/root/db/gb.html) |
 | .gbiz | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/gbiz.html) |
@@ -614,7 +614,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .homesense | generic | The TJX Companies, Inc. | [Details](https://www.iana.org/domains/root/db/homesense.html) |
 | .honda | generic | Honda Motor Co., Ltd. | [Details](https://www.iana.org/domains/root/db/honda.html) |
 | .honeywell | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/honeywell.html) |
-| .horse | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/horse.html) |
+| .horse | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/horse.html) |
 | .hospital | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/hospital.html) |
 | .host | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/host.html) |
 | .hosting | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/hosting.html) |
@@ -749,7 +749,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .lat | generic | ECOM-LAC Federación de Latinoamérica y el Caribe para Internet y el Comercio Electrónico | [Details](https://www.iana.org/domains/root/db/lat.html) |
 | .latino | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/latino.html) |
 | .latrobe | generic | La Trobe University | [Details](https://www.iana.org/domains/root/db/latrobe.html) |
-| .law | generic | LW TLD Limited | [Details](https://www.iana.org/domains/root/db/law.html) |
+| .law | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/law.html) |
 | .lawyer | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/lawyer.html) |
 | .lb | country-code | American University of BeirutComputing and Networking Services | [Details](https://www.iana.org/domains/root/db/lb.html) |
 | .lc | country-code | University of Puerto Rico | [Details](https://www.iana.org/domains/root/db/lc.html) |
@@ -802,7 +802,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .lu | country-code | RESTENA | [Details](https://www.iana.org/domains/root/db/lu.html) |
 | .lundbeck | generic | H. Lundbeck A/S | [Details](https://www.iana.org/domains/root/db/lundbeck.html) |
 | .lupin | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lupin.html) |
-| .luxe | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/luxe.html) |
+| .luxe | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/luxe.html) |
 | .luxury | generic | Luxury Partners LLC | [Details](https://www.iana.org/domains/root/db/luxury.html) |
 | .lv | country-code | University of LatviaInstitute of Mathematics and Computer ScienceDepartment of Network Solutions (DNS) | [Details](https://www.iana.org/domains/root/db/lv.html) |
 | .ly | country-code | General Post and Telecommunication Company | [Details](https://www.iana.org/domains/root/db/ly.html) |
@@ -1094,7 +1094,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .ro | country-code | National Institute for R&D in Informatics | [Details](https://www.iana.org/domains/root/db/ro.html) |
 | .rocher | generic | Ferrero Trading Lux S.A. | [Details](https://www.iana.org/domains/root/db/rocher.html) |
 | .rocks | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/rocks.html) |
-| .rodeo | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/rodeo.html) |
+| .rodeo | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/rodeo.html) |
 | .rogers | generic | Rogers Communications Canada Inc. | [Details](https://www.iana.org/domains/root/db/rogers.html) |
 | .room | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/room.html) |
 | .rs | country-code | Serbian National Internet Domain Registry (RNIDS) | [Details](https://www.iana.org/domains/root/db/rs.html) |
@@ -1232,7 +1232,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .supplies | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/supplies.html) |
 | .supply | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/supply.html) |
 | .support | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/support.html) |
-| .surf | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/surf.html) |
+| .surf | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/surf.html) |
 | .surgery | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/surgery.html) |
 | .suzuki | generic | SUZUKI MOTOR CORPORATION | [Details](https://www.iana.org/domains/root/db/suzuki.html) |
 | .sv | country-code | SVNet | [Details](https://www.iana.org/domains/root/db/sv.html) |
@@ -1356,7 +1356,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .viking | generic | Viking River Cruises (Bermuda) Ltd. | [Details](https://www.iana.org/domains/root/db/viking.html) |
 | .villas | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/villas.html) |
 | .vin | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/vin.html) |
-| .vip | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/vip.html) |
+| .vip | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/vip.html) |
 | .virgin | generic | Virgin Enterprises Limited | [Details](https://www.iana.org/domains/root/db/virgin.html) |
 | .visa | generic | Visa Worldwide Pte. Limited | [Details](https://www.iana.org/domains/root/db/visa.html) |
 | .vision | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/vision.html) |
@@ -1366,7 +1366,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .vivo | generic | Telefonica Brasil S.A. | [Details](https://www.iana.org/domains/root/db/vivo.html) |
 | .vlaanderen | generic | DNS.be vzw | [Details](https://www.iana.org/domains/root/db/vlaanderen.html) |
 | .vn | country-code | Viet Nam Internet Network Information Center (VNNIC) | [Details](https://www.iana.org/domains/root/db/vn.html) |
-| .vodka | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/vodka.html) |
+| .vodka | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/vodka.html) |
 | .volkswagen | generic | Volkswagen Group of America Inc. | [Details](https://www.iana.org/domains/root/db/volkswagen.html) |
 | .volvo | generic | Volvo Holding Sverige Aktiebolag | [Details](https://www.iana.org/domains/root/db/volvo.html) |
 | .vote | generic | Monolith Registry LLC | [Details](https://www.iana.org/domains/root/db/vote.html) |
@@ -1389,7 +1389,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .weber | generic | Saint-Gobain Weber SA | [Details](https://www.iana.org/domains/root/db/weber.html) |
 | .website | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/website.html) |
 | .wed | generic | Emergency Back-End Registry Operator Program - ICANN | [Details](https://www.iana.org/domains/root/db/wed.html) |
-| .wedding | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/wedding.html) |
+| .wedding | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/wedding.html) |
 | .weibo | generic | Sina Corporation | [Details](https://www.iana.org/domains/root/db/weibo.html) |
 | .weir | generic | Weir Group IP Limited | [Details](https://www.iana.org/domains/root/db/weir.html) |
 | .wf | country-code | Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.) | [Details](https://www.iana.org/domains/root/db/wf.html) |
@@ -1404,7 +1404,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .wme | generic | William Morris Endeavor Entertainment, LLC | [Details](https://www.iana.org/domains/root/db/wme.html) |
 | .wolterskluwer | generic | Wolters Kluwer N.V. | [Details](https://www.iana.org/domains/root/db/wolterskluwer.html) |
 | .woodside | generic | Woodside Petroleum Limited | [Details](https://www.iana.org/domains/root/db/woodside.html) |
-| .work | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/work.html) |
+| .work | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/work.html) |
 | .works | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/works.html) |
 | .world | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/world.html) |
 | .wow | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/wow.html) |
@@ -1594,7 +1594,7 @@ Updated at 2021-09-14T00:16:43.789850, from [IANA Root Zone Database](http://www
 | .yandex | generic | Yandex Europe B.V. | [Details](https://www.iana.org/domains/root/db/yandex.html) |
 | .ye | country-code | TeleYemen | [Details](https://www.iana.org/domains/root/db/ye.html) |
 | .yodobashi | generic | YODOBASHI CAMERA CO.,LTD. | [Details](https://www.iana.org/domains/root/db/yodobashi.html) |
-| .yoga | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/yoga.html) |
+| .yoga | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/yoga.html) |
 | .yokohama | generic | GMO Registry, Inc. | [Details](https://www.iana.org/domains/root/db/yokohama.html) |
 | .you | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/you.html) |
 | .youtube | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/youtube.html) |
