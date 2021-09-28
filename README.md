@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-09-27T00:17:05.141847, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-09-28T00:17:15.616827, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1090,7 +1090,7 @@ Updated at 2021-09-27T00:17:05.141847, from [IANA Root Zone Database](http://www
 | .ril | generic | Reliance Industries Limited | [Details](https://www.iana.org/domains/root/db/ril.html) |
 | .rio | generic | Empresa Municipal de Informática SA - IPLANRIO | [Details](https://www.iana.org/domains/root/db/rio.html) |
 | .rip | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/rip.html) |
-| .rmit | generic | Royal Melbourne Institute of Technology | [Details](https://www.iana.org/domains/root/db/rmit.html) |
+| .rmit | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/rmit.html) |
 | .ro | country-code | National Institute for R&D in Informatics | [Details](https://www.iana.org/domains/root/db/ro.html) |
 | .rocher | generic | Ferrero Trading Lux S.A. | [Details](https://www.iana.org/domains/root/db/rocher.html) |
 | .rocks | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/rocks.html) |
