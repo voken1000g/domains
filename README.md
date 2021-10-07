@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-10-06T00:17:15.502360, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-10-07T00:16:46.906029, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1237,7 +1237,7 @@ Updated at 2021-10-06T00:17:15.502360, from [IANA Root Zone Database](http://www
 | .suzuki | generic | SUZUKI MOTOR CORPORATION | [Details](https://www.iana.org/domains/root/db/suzuki.html) |
 | .sv | country-code | SVNet | [Details](https://www.iana.org/domains/root/db/sv.html) |
 | .swatch | generic | The Swatch Group Ltd | [Details](https://www.iana.org/domains/root/db/swatch.html) |
-| .swiftcover | generic | Swiftcover Insurance Services Limited | [Details](https://www.iana.org/domains/root/db/swiftcover.html) |
+| .swiftcover | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/swiftcover.html) |
 | .swiss | generic | Swiss Confederation | [Details](https://www.iana.org/domains/root/db/swiss.html) |
 | .sx | country-code | SX Registry SA B.V. | [Details](https://www.iana.org/domains/root/db/sx.html) |
 | .sy | country-code | National Agency for Network Services (NANS) | [Details](https://www.iana.org/domains/root/db/sy.html) |
