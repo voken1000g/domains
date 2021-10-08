@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-10-07T00:16:46.906029, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-10-08T00:17:39.853834, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1054,7 +1054,7 @@ Updated at 2021-10-07T00:16:46.906029, from [IANA Root Zone Database](http://www
 | .qpon | generic | dotCOOL, Inc. | [Details](https://www.iana.org/domains/root/db/qpon.html) |
 | .quebec | generic | PointQuébec Inc | [Details](https://www.iana.org/domains/root/db/quebec.html) |
 | .quest | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/quest.html) |
-| .qvc | generic | QVC, Inc. | [Details](https://www.iana.org/domains/root/db/qvc.html) |
+| .qvc | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/qvc.html) |
 | .racing | generic | Premier Registry Limited | [Details](https://www.iana.org/domains/root/db/racing.html) |
 | .radio | generic | European Broadcasting Union (EBU) | [Details](https://www.iana.org/domains/root/db/radio.html) |
 | .raid | generic | Johnson Shareholdings, Inc. | [Details](https://www.iana.org/domains/root/db/raid.html) |
