@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-10-12T00:18:55.893906, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-10-13T00:17:05.132456, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -43,7 +43,7 @@ Updated at 2021-10-12T00:18:55.893906, from [IANA Root Zone Database](http://www
 | .adac | generic | Allgemeiner Deutscher Automobil-Club e.V. (ADAC) | [Details](https://www.iana.org/domains/root/db/adac.html) |
 | .ads | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/ads.html) |
 | .adult | generic | ICM Registry AD LLC | [Details](https://www.iana.org/domains/root/db/adult.html) |
-| .ae | country-code | Telecommunication Regulatory Authority (TRA) | [Details](https://www.iana.org/domains/root/db/ae.html) |
+| .ae | country-code | Telecommunications and Digital Government Regulatory Authority (TDRA) | [Details](https://www.iana.org/domains/root/db/ae.html) |
 | .aeg | generic | Aktiebolaget Electrolux | [Details](https://www.iana.org/domains/root/db/aeg.html) |
 | .aero | sponsored | Societe Internationale de Telecommunications Aeronautique (SITA INC USA) | [Details](https://www.iana.org/domains/root/db/aero.html) |
 | .aetna | generic | Aetna Life Insurance Company | [Details](https://www.iana.org/domains/root/db/aetna.html) |
@@ -1519,7 +1519,7 @@ Updated at 2021-10-12T00:18:55.893906, from [IANA Root Zone Database](http://www
 | ‏.ایران‎ | country-code | Institute for Research in Fundamental Sciences (IPM) | [Details](https://www.iana.org/domains/root/db/xn--mgba3a4f16a.html) |
 | ‏.العليان‎ | generic | Crescent Holding GmbH | [Details](https://www.iana.org/domains/root/db/xn--mgba7c0bbn0a.html) |
 | ‏.اتصالات‎ | generic | Emirates Telecommunications Corporation (trading as Etisalat) | [Details](https://www.iana.org/domains/root/db/xn--mgbaakc7dvf.html) |
-| ‏.امارات‎ | country-code | Telecommunications Regulatory Authority (TRA) | [Details](https://www.iana.org/domains/root/db/xn--mgbaam7a8h.html) |
+| ‏.امارات‎ | country-code | Telecommunications and Digital Government Regulatory Authority (TDRA) | [Details](https://www.iana.org/domains/root/db/xn--mgbaam7a8h.html) |
 | ‏.بازار‎ | generic | CORE Association | [Details](https://www.iana.org/domains/root/db/xn--mgbab2bd.html) |
 | ‏.موريتانيا‎ | country-code | Université de Nouakchott Al Aasriya | [Details](https://www.iana.org/domains/root/db/xn--mgbah1a3hjkrd.html) |
 | ‏.پاکستان‎ | country-code | National Telecommunication Corporation | [Details](https://www.iana.org/domains/root/db/xn--mgbai9azgqp6j.html) |
