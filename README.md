@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-10-27T00:17:13.644505, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-10-28T00:17:29.352132, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -17,7 +17,7 @@ Updated at 2021-10-27T00:17:13.644505, from [IANA Root Zone Database](http://www
 - [domains_full.txt](data/domains_full.txt)
 - [domains_full.json](data/domains_full.json)
 
-### 1589 records
+### 1590 records
 
 | Domain | Type | TLD Manager | Info |
 | ------ | ---- | ----------- | ---- |
@@ -890,6 +890,7 @@ Updated at 2021-10-27T00:17:13.644505, from [IANA Root Zone Database](http://www
 | .mtr | generic | MTR Corporation Limited | [Details](https://www.iana.org/domains/root/db/mtr.html) |
 | .mu | country-code | Internet Direct Ltd | [Details](https://www.iana.org/domains/root/db/mu.html) |
 | .museum | sponsored | Museum Domain Management Association | [Details](https://www.iana.org/domains/root/db/museum.html) |
+| .music | generic | DotMusic Limited | [Details](https://www.iana.org/domains/root/db/music.html) |
 | .mutual | generic | Northwestern Mutual MU TLD Registry, LLC | [Details](https://www.iana.org/domains/root/db/mutual.html) |
 | .mutuelle | generic | Retired | [Details](https://www.iana.org/domains/root/db/mutuelle.html) |
 | .mv | country-code | Dhiraagu Pvt. Ltd. (DHIVEHINET) | [Details](https://www.iana.org/domains/root/db/mv.html) |
@@ -1427,7 +1428,7 @@ Updated at 2021-10-27T00:17:13.644505, from [IANA Root Zone Database](http://www
 | .在线 | generic | TLD REGISTRY LIMITED | [Details](https://www.iana.org/domains/root/db/xn--3ds443g.html) |
 | .한국 | country-code | KISA (Korea Internet & Security Agency) | [Details](https://www.iana.org/domains/root/db/xn--3e0b707e.html) |
 | .ଭାରତ | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--3hcrj9c.html) |
-| .大众汽车 | generic | Volkswagen (China) Investment Co., Ltd. | [Details](https://www.iana.org/domains/root/db/xn--3oq18vl8pn36a.html) |
+| .大众汽车 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--3oq18vl8pn36a.html) |
 | .点看 | generic | VeriSign Sarl | [Details](https://www.iana.org/domains/root/db/xn--3pxu8k.html) |
 | .คอม | generic | VeriSign Sarl | [Details](https://www.iana.org/domains/root/db/xn--42c2d9a.html) |
 | .ভাৰত | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--45br5cyl.html) |
