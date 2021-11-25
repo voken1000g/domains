@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-11-24T00:18:24.470938, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-11-25T00:18:43.850128, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1435,7 +1435,7 @@ Updated at 2021-11-24T00:18:24.470938, from [IANA Root Zone Database](http://www
 | .ভারত | country-code | National Internet Exchange of India | [Details](https://www.iana.org/domains/root/db/xn--45brj9c.html) |
 | .八卦 | generic | Zodiac Gemini Ltd | [Details](https://www.iana.org/domains/root/db/xn--45q11c.html) |
 | ‏.ישראל‎ | country-code | The Israel Internet Association (RA) | [Details](https://www.iana.org/domains/root/db/xn--4dbrk0ce.html) |
-| ‏.موقع‎ | generic | Suhub Electronic Establishment | [Details](https://www.iana.org/domains/root/db/xn--4gbrim.html) |
+| ‏.موقع‎ | generic | Helium TLDs Ltd | [Details](https://www.iana.org/domains/root/db/xn--4gbrim.html) |
 | .বাংলা | country-code | Posts and Telecommunications Division | [Details](https://www.iana.org/domains/root/db/xn--54b7fta0cc.html) |
 | .公益 | generic | China Organizational Name Administration Center | [Details](https://www.iana.org/domains/root/db/xn--55qw42g.html) |
 | .公司 | generic | Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center） | [Details](https://www.iana.org/domains/root/db/xn--55qx5d.html) |
