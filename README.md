@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-12-02T00:19:00.345868, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-12-03T00:19:49.554662, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -859,7 +859,7 @@ Updated at 2021-12-02T00:19:00.345868, from [IANA Root Zone Database](http://www
 | .mma | generic | MMA IARD | [Details](https://www.iana.org/domains/root/db/mma.html) |
 | .mn | country-code | Datacom Co., Ltd. | [Details](https://www.iana.org/domains/root/db/mn.html) |
 | .mo | country-code | Macao Post and Telecommunications Bureau (CTT) | [Details](https://www.iana.org/domains/root/db/mo.html) |
-| .mobi | generic | Afilias Technologies Limited dba dotMobi | [Details](https://www.iana.org/domains/root/db/mobi.html) |
+| .mobi | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/mobi.html) |
 | .mobile | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/mobile.html) |
 | .mobily | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mobily.html) |
 | .moda | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/moda.html) |
