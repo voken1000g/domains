@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-12-03T00:19:49.554662, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-12-04T00:19:01.953192, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -48,7 +48,7 @@ Updated at 2021-12-03T00:19:49.554662, from [IANA Root Zone Database](http://www
 | .aero | sponsored | Societe Internationale de Telecommunications Aeronautique (SITA INC USA) | [Details](https://www.iana.org/domains/root/db/aero.html) |
 | .aetna | generic | Aetna Life Insurance Company | [Details](https://www.iana.org/domains/root/db/aetna.html) |
 | .af | country-code | Ministry of Communications and IT | [Details](https://www.iana.org/domains/root/db/af.html) |
-| .afamilycompany | generic | Johnson Shareholdings, Inc. | [Details](https://www.iana.org/domains/root/db/afamilycompany.html) |
+| .afamilycompany | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/afamilycompany.html) |
 | .afl | generic | Australian Football League | [Details](https://www.iana.org/domains/root/db/afl.html) |
 | .africa | generic | ZA Central Registry NPC trading as Registry.Africa | [Details](https://www.iana.org/domains/root/db/africa.html) |
 | .ag | country-code | UHSA School of Medicine | [Details](https://www.iana.org/domains/root/db/ag.html) |
@@ -398,7 +398,7 @@ Updated at 2021-12-03T00:19:49.554662, from [IANA Root Zone Database](http://www
 | .drive | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/drive.html) |
 | .dtv | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/dtv.html) |
 | .dubai | generic | Dubai Smart Government Department | [Details](https://www.iana.org/domains/root/db/dubai.html) |
-| .duck | generic | Johnson Shareholdings, Inc. | [Details](https://www.iana.org/domains/root/db/duck.html) |
+| .duck | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/duck.html) |
 | .dunlop | generic | The Goodyear Tire & Rubber Company | [Details](https://www.iana.org/domains/root/db/dunlop.html) |
 | .duns | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/duns.html) |
 | .dupont | generic | E. I. du Pont de Nemours and Company | [Details](https://www.iana.org/domains/root/db/dupont.html) |
@@ -539,7 +539,7 @@ Updated at 2021-12-03T00:19:49.554662, from [IANA Root Zone Database](http://www
 | .gives | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/gives.html) |
 | .giving | generic | Giving Limited | [Details](https://www.iana.org/domains/root/db/giving.html) |
 | .gl | country-code | TELE Greenland A/S | [Details](https://www.iana.org/domains/root/db/gl.html) |
-| .glade | generic | Johnson Shareholdings, Inc. | [Details](https://www.iana.org/domains/root/db/glade.html) |
+| .glade | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/glade.html) |
 | .glass | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/glass.html) |
 | .gle | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/gle.html) |
 | .global | generic | Dot Global Domain Registry Limited | [Details](https://www.iana.org/domains/root/db/global.html) |
@@ -951,7 +951,7 @@ Updated at 2021-12-03T00:19:49.554662, from [IANA Root Zone Database](http://www
 | .nz | country-code | InternetNZ | [Details](https://www.iana.org/domains/root/db/nz.html) |
 | .obi | generic | OBI Group Holding SE & Co. KGaA | [Details](https://www.iana.org/domains/root/db/obi.html) |
 | .observer | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/observer.html) |
-| .off | generic | Johnson Shareholdings, Inc. | [Details](https://www.iana.org/domains/root/db/off.html) |
+| .off | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/off.html) |
 | .office | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/office.html) |
 | .okinawa | generic | BRregistry, Inc. | [Details](https://www.iana.org/domains/root/db/okinawa.html) |
 | .olayan | generic | Crescent Holding GmbH | [Details](https://www.iana.org/domains/root/db/olayan.html) |
@@ -1058,7 +1058,7 @@ Updated at 2021-12-03T00:19:49.554662, from [IANA Root Zone Database](http://www
 | .qvc | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/qvc.html) |
 | .racing | generic | Premier Registry Limited | [Details](https://www.iana.org/domains/root/db/racing.html) |
 | .radio | generic | European Broadcasting Union (EBU) | [Details](https://www.iana.org/domains/root/db/radio.html) |
-| .raid | generic | Johnson Shareholdings, Inc. | [Details](https://www.iana.org/domains/root/db/raid.html) |
+| .raid | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/raid.html) |
 | .re | country-code | Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.) | [Details](https://www.iana.org/domains/root/db/re.html) |
 | .read | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/read.html) |
 | .realestate | generic | dotRealEstate LLC | [Details](https://www.iana.org/domains/root/db/realestate.html) |
@@ -1138,7 +1138,7 @@ Updated at 2021-12-03T00:19:49.554662, from [IANA Root Zone Database](http://www
 | .schule | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/schule.html) |
 | .schwarz | generic | Schwarz Domains und Services GmbH & Co. KG | [Details](https://www.iana.org/domains/root/db/schwarz.html) |
 | .science | generic | dot Science Limited | [Details](https://www.iana.org/domains/root/db/science.html) |
-| .scjohnson | generic | Johnson Shareholdings, Inc. | [Details](https://www.iana.org/domains/root/db/scjohnson.html) |
+| .scjohnson | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/scjohnson.html) |
 | .scor | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/scor.html) |
 | .scot | generic | Dot Scot Registry Limited | [Details](https://www.iana.org/domains/root/db/scot.html) |
 | .sd | country-code | Sudan Internet Society | [Details](https://www.iana.org/domains/root/db/sd.html) |
