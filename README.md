@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2021-12-30T00:20:15.815302, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2021-12-31T00:21:10.345480, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -778,7 +778,7 @@ Updated at 2021-12-30T00:20:15.815302, from [IANA Root Zone Database](http://www
 | .lipsy | generic | Lipsy Ltd | [Details](https://www.iana.org/domains/root/db/lipsy.html) |
 | .live | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/live.html) |
 | .living | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/living.html) |
-| .lixil | generic | LIXIL Group Corporation | [Details](https://www.iana.org/domains/root/db/lixil.html) |
+| .lixil | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lixil.html) |
 | .lk | country-code | Council for Information TechnologyLK Domain Registrar | [Details](https://www.iana.org/domains/root/db/lk.html) |
 | .llc | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/llc.html) |
 | .llp | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/llp.html) |
