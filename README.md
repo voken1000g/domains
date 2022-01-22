@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-01-21T00:18:55.064994, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-01-22T00:18:23.357551, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -193,7 +193,7 @@ Updated at 2022-01-21T00:18:55.064994, from [IANA Root Zone Database](http://www
 | .boots | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/boots.html) |
 | .bosch | generic | Robert Bosch GMBH | [Details](https://www.iana.org/domains/root/db/bosch.html) |
 | .bostik | generic | Bostik SA | [Details](https://www.iana.org/domains/root/db/bostik.html) |
-| .boston | generic | Boston TLD Management, LLC | [Details](https://www.iana.org/domains/root/db/boston.html) |
+| .boston | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/boston.html) |
 | .bot | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/bot.html) |
 | .boutique | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/boutique.html) |
 | .box | generic | Intercap Registry Inc. | [Details](https://www.iana.org/domains/root/db/box.html) |
@@ -844,7 +844,7 @@ Updated at 2022-01-21T00:18:55.064994, from [IANA Root Zone Database](http://www
 | .mf | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/mf.html) |
 | .mg | country-code | NIC-MG (Network Information Center Madagascar) | [Details](https://www.iana.org/domains/root/db/mg.html) |
 | .mh | country-code | Office of the Cabinet | [Details](https://www.iana.org/domains/root/db/mh.html) |
-| .miami | generic | Minds + Machines Group Limited | [Details](https://www.iana.org/domains/root/db/miami.html) |
+| .miami | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/miami.html) |
 | .microsoft | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/microsoft.html) |
 | .mil | sponsored | DoD Network Information Center | [Details](https://www.iana.org/domains/root/db/mil.html) |
 | .mini | generic | Bayerische Motoren Werke Aktiengesellschaft | [Details](https://www.iana.org/domains/root/db/mini.html) |
