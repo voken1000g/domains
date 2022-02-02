@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-02-01T00:20:31.268133, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-02-02T00:21:43.791410, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -336,7 +336,7 @@ Updated at 2022-02-01T00:20:31.268133, from [IANA Root Zone Database](http://www
 | .crs | generic | Federated Co-operatives Limited | [Details](https://www.iana.org/domains/root/db/crs.html) |
 | .cruise | generic | Viking River Cruises (Bermuda) Ltd. | [Details](https://www.iana.org/domains/root/db/cruise.html) |
 | .cruises | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cruises.html) |
-| .csc | generic | Alliance-One Services, Inc. | [Details](https://www.iana.org/domains/root/db/csc.html) |
+| .csc | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/csc.html) |
 | .cu | country-code | CENIAInternetIndustria y San JoseCapitolio Nacional | [Details](https://www.iana.org/domains/root/db/cu.html) |
 | .cuisinella | generic | SCHMIDT GROUPE S.A.S. | [Details](https://www.iana.org/domains/root/db/cuisinella.html) |
 | .cv | country-code | Agência Reguladora Multissectorial da Economia (ARME) | [Details](https://www.iana.org/domains/root/db/cv.html) |
