@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-02-10T00:21:43.769112, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-02-11T00:20:49.960222, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -401,7 +401,7 @@ Updated at 2022-02-10T00:21:43.769112, from [IANA Root Zone Database](http://www
 | .duck | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/duck.html) |
 | .dunlop | generic | The Goodyear Tire & Rubber Company | [Details](https://www.iana.org/domains/root/db/dunlop.html) |
 | .duns | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/duns.html) |
-| .dupont | generic | E. I. du Pont de Nemours and Company | [Details](https://www.iana.org/domains/root/db/dupont.html) |
+| .dupont | generic | DuPont Specialty Products USA, LLC | [Details](https://www.iana.org/domains/root/db/dupont.html) |
 | .durban | generic | ZA Central Registry NPC trading as ZA Central Registry | [Details](https://www.iana.org/domains/root/db/durban.html) |
 | .dvag | generic | Deutsche Vermögensberatung Aktiengesellschaft DVAG | [Details](https://www.iana.org/domains/root/db/dvag.html) |
 | .dvr | generic | Hughes Satellite Systems Corporation | [Details](https://www.iana.org/domains/root/db/dvr.html) |
