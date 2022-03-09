@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-03-08T00:25:40.912146, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-03-09T00:26:41.369469, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -138,7 +138,7 @@ Updated at 2022-03-08T00:25:40.912146, from [IANA Root Zone Database](http://www
 | .basketball | generic | Fédération Internationale de Basketball (FIBA) | [Details](https://www.iana.org/domains/root/db/basketball.html) |
 | .bauhaus | generic | Werkhaus GmbH | [Details](https://www.iana.org/domains/root/db/bauhaus.html) |
 | .bayern | generic | Bayern Connect GmbH | [Details](https://www.iana.org/domains/root/db/bayern.html) |
-| .bb | country-code | Government of BarbadosMinistry of Economic Affairs and DevelopmentTelecommunications Unit | [Details](https://www.iana.org/domains/root/db/bb.html) |
+| .bb | country-code | Ministry of Innovation, Science and Smart Technology | [Details](https://www.iana.org/domains/root/db/bb.html) |
 | .bbc | generic | British Broadcasting Corporation | [Details](https://www.iana.org/domains/root/db/bbc.html) |
 | .bbt | generic | BB&T Corporation | [Details](https://www.iana.org/domains/root/db/bbt.html) |
 | .bbva | generic | BANCO BILBAO VIZCAYA ARGENTARIA, S.A. | [Details](https://www.iana.org/domains/root/db/bbva.html) |
