@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-03-24T00:27:22.772332, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -109,7 +109,7 @@ Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www
 | .auction | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/auction.html) |
 | .audi | generic | AUDI Aktiengesellschaft | [Details](https://www.iana.org/domains/root/db/audi.html) |
 | .audible | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/audible.html) |
-| .audio | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/audio.html) |
+| .audio | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/audio.html) |
 | .auspost | generic | Australian Postal Corporation | [Details](https://www.iana.org/domains/root/db/auspost.html) |
 | .author | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/author.html) |
 | .auto | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/auto.html) |
@@ -272,7 +272,7 @@ Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www
 | .cheap | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cheap.html) |
 | .chintai | generic | CHINTAI Corporation | [Details](https://www.iana.org/domains/root/db/chintai.html) |
 | .chloe | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/chloe.html) |
-| .christmas | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/christmas.html) |
+| .christmas | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/christmas.html) |
 | .chrome | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/chrome.html) |
 | .chrysler | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/chrysler.html) |
 | .church | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/church.html) |
@@ -373,7 +373,7 @@ Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www
 | .dev | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/dev.html) |
 | .dhl | generic | Deutsche Post AG | [Details](https://www.iana.org/domains/root/db/dhl.html) |
 | .diamonds | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/diamonds.html) |
-| .diet | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/diet.html) |
+| .diet | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/diet.html) |
 | .digital | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/digital.html) |
 | .direct | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/direct.html) |
 | .directory | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/directory.html) |
@@ -480,7 +480,7 @@ Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www
 | .flights | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/flights.html) |
 | .flir | generic | FLIR Systems, Inc. | [Details](https://www.iana.org/domains/root/db/flir.html) |
 | .florist | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/florist.html) |
-| .flowers | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/flowers.html) |
+| .flowers | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/flowers.html) |
 | .flsmidth | generic | Retired | [Details](https://www.iana.org/domains/root/db/flsmidth.html) |
 | .fly | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/fly.html) |
 | .fm | country-code | FSM Telecommunications Corporation | [Details](https://www.iana.org/domains/root/db/fm.html) |
@@ -515,7 +515,7 @@ Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www
 | .gallery | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/gallery.html) |
 | .gallo | generic | Gallo Vineyards, Inc. | [Details](https://www.iana.org/domains/root/db/gallo.html) |
 | .gallup | generic | Gallup, Inc. | [Details](https://www.iana.org/domains/root/db/gallup.html) |
-| .game | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/game.html) |
+| .game | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/game.html) |
 | .games | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/games.html) |
 | .gap | generic | The Gap, Inc. | [Details](https://www.iana.org/domains/root/db/gap.html) |
 | .garden | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/garden.html) |
@@ -579,7 +579,7 @@ Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www
 | .gucci | generic | Guccio Gucci S.p.a. | [Details](https://www.iana.org/domains/root/db/gucci.html) |
 | .guge | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/guge.html) |
 | .guide | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/guide.html) |
-| .guitars | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/guitars.html) |
+| .guitars | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/guitars.html) |
 | .guru | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/guru.html) |
 | .gw | country-code | Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau | [Details](https://www.iana.org/domains/root/db/gw.html) |
 | .gy | country-code | University of Guyana | [Details](https://www.iana.org/domains/root/db/gy.html) |
@@ -617,7 +617,7 @@ Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www
 | .horse | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/horse.html) |
 | .hospital | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/hospital.html) |
 | .host | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/host.html) |
-| .hosting | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/hosting.html) |
+| .hosting | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/hosting.html) |
 | .hot | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/hot.html) |
 | .hoteles | generic | Travel Reservations SRL | [Details](https://www.iana.org/domains/root/db/hoteles.html) |
 | .hotels | generic | Booking.com B.V. | [Details](https://www.iana.org/domains/root/db/hotels.html) |
@@ -787,7 +787,7 @@ Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www
 | .locker | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/locker.html) |
 | .locus | generic | Locus Analytics LLC | [Details](https://www.iana.org/domains/root/db/locus.html) |
 | .loft | generic | Annco, Inc. | [Details](https://www.iana.org/domains/root/db/loft.html) |
-| .lol | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/lol.html) |
+| .lol | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/lol.html) |
 | .london | generic | Dot London Domains Limited | [Details](https://www.iana.org/domains/root/db/london.html) |
 | .lotte | generic | Lotte Holdings Co., Ltd. | [Details](https://www.iana.org/domains/root/db/lotte.html) |
 | .lotto | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/lotto.html) |
@@ -865,7 +865,7 @@ Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www
 | .moda | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/moda.html) |
 | .moe | generic | Interlink Co., Ltd. | [Details](https://www.iana.org/domains/root/db/moe.html) |
 | .moi | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/moi.html) |
-| .mom | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/mom.html) |
+| .mom | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/mom.html) |
 | .monash | generic | Monash University | [Details](https://www.iana.org/domains/root/db/monash.html) |
 | .money | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/money.html) |
 | .monster | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/monster.html) |
@@ -1005,7 +1005,7 @@ Updated at 2022-03-23T00:31:51.668851, from [IANA Root Zone Database](http://www
 | .photos | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/photos.html) |
 | .physio | generic | PhysBiz Pty Ltd | [Details](https://www.iana.org/domains/root/db/physio.html) |
 | .piaget | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/piaget.html) |
-| .pics | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/pics.html) |
+| .pics | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/pics.html) |
 | .pictet | generic | Pictet Europe S.A. | [Details](https://www.iana.org/domains/root/db/pictet.html) |
 | .pictures | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/pictures.html) |
 | .pid | generic | Top Level Spectrum, Inc. | [Details](https://www.iana.org/domains/root/db/pid.html) |
