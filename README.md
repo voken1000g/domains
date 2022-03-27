@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-03-26T00:26:54.440969, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-03-27T00:32:07.967851, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -597,7 +597,7 @@ Updated at 2022-03-26T00:26:54.440969, from [IANA Root Zone Database](http://www
 | .here | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/here.html) |
 | .hermes | generic | Hermes International | [Details](https://www.iana.org/domains/root/db/hermes.html) |
 | .hgtv | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/hgtv.html) |
-| .hiphop | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/hiphop.html) |
+| .hiphop | generic | Dot Hip Hop, LLC | [Details](https://www.iana.org/domains/root/db/hiphop.html) |
 | .hisamitsu | generic | Hisamitsu Pharmaceutical Co.,Inc. | [Details](https://www.iana.org/domains/root/db/hisamitsu.html) |
 | .hitachi | generic | Hitachi, Ltd. | [Details](https://www.iana.org/domains/root/db/hitachi.html) |
 | .hiv | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/hiv.html) |
