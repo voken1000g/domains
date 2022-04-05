@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-04-04T00:28:25.675149, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-04-05T00:28:28.081456, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -17,7 +17,7 @@ Updated at 2022-04-04T00:28:25.675149, from [IANA Root Zone Database](http://www
 - [domains_full.txt](data/domains_full.txt)
 - [domains_full.json](data/domains_full.json)
 
-### 1590 records
+### 1591 records
 
 | Domain | Type | TLD Manager | Info |
 | ------ | ---- | ----------- | ---- |
@@ -713,6 +713,7 @@ Updated at 2022-04-04T00:28:25.675149, from [IANA Root Zone Database](http://www
 | .kh | country-code | Telecommunication Regulator of Cambodia (TRC) | [Details](https://www.iana.org/domains/root/db/kh.html) |
 | .ki | country-code | Ministry of Communications, Transport, and Tourism Development | [Details](https://www.iana.org/domains/root/db/ki.html) |
 | .kia | generic | KIA MOTORS CORPORATION | [Details](https://www.iana.org/domains/root/db/kia.html) |
+| .kids | generic | DotKids Foundation Limited | [Details](https://www.iana.org/domains/root/db/kids.html) |
 | .kim | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/kim.html) |
 | .kinder | generic | Ferrero Trading Lux S.A. | [Details](https://www.iana.org/domains/root/db/kinder.html) |
 | .kindle | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/kindle.html) |
