@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-04-28T00:41:55.738061, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-04-29T00:32:10.548364, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1189,7 +1189,7 @@ Updated at 2022-04-28T00:41:55.738061, from [IANA Root Zone Database](http://www
 | .sm | country-code | Telecom Italia San Marino S.p.A. | [Details](https://www.iana.org/domains/root/db/sm.html) |
 | .smart | generic | Smart Communications, Inc. (SMART) | [Details](https://www.iana.org/domains/root/db/smart.html) |
 | .smile | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/smile.html) |
-| .sn | country-code | Universite Cheikh Anta DiopNIC Senegal | [Details](https://www.iana.org/domains/root/db/sn.html) |
+| .sn | country-code | Universite Cheikh Anta Diop | [Details](https://www.iana.org/domains/root/db/sn.html) |
 | .sncf | generic | SNCF (Société Nationale des Chemins de fer Francais) | [Details](https://www.iana.org/domains/root/db/sncf.html) |
 | .so | country-code | Ministry of Post and Telecommunications | [Details](https://www.iana.org/domains/root/db/so.html) |
 | .soccer | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/soccer.html) |
