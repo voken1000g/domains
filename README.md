@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-05-19T00:37:47.144665, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-05-20T00:32:22.730631, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -775,7 +775,7 @@ Updated at 2022-05-19T00:37:47.144665, from [IANA Root Zone Database](http://www
 | .limo | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/limo.html) |
 | .lincoln | generic | Ford Motor Company | [Details](https://www.iana.org/domains/root/db/lincoln.html) |
 | .linde | generic | Linde Aktiengesellschaft | [Details](https://www.iana.org/domains/root/db/linde.html) |
-| .link | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/link.html) |
+| .link | generic | Nova Registry Ltd. | [Details](https://www.iana.org/domains/root/db/link.html) |
 | .lipsy | generic | Lipsy Ltd | [Details](https://www.iana.org/domains/root/db/lipsy.html) |
 | .live | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/live.html) |
 | .living | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/living.html) |
