@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-06-07T00:26:33.105362, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-06-08T00:33:26.649104, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -169,7 +169,7 @@ Updated at 2022-06-07T00:26:33.105362, from [IANA Root Zone Database](http://www
 | .bj | country-code | Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN) | [Details](https://www.iana.org/domains/root/db/bj.html) |
 | .bl | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/bl.html) |
 | .black | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/black.html) |
-| .blackfriday | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/blackfriday.html) |
+| .blackfriday | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/blackfriday.html) |
 | .blanco | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/blanco.html) |
 | .blockbuster | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/blockbuster.html) |
 | .blog | generic | Knock Knock WHOIS There, LLC | [Details](https://www.iana.org/domains/root/db/blog.html) |
@@ -1001,7 +1001,7 @@ Updated at 2022-06-07T00:26:33.105362, from [IANA Root Zone Database](http://www
 | .phd | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/phd.html) |
 | .philips | generic | Koninklijke Philips N.V. | [Details](https://www.iana.org/domains/root/db/philips.html) |
 | .phone | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/phone.html) |
-| .photo | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/photo.html) |
+| .photo | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/photo.html) |
 | .photography | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/photography.html) |
 | .photos | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/photos.html) |
 | .physio | generic | PhysBiz Pty Ltd | [Details](https://www.iana.org/domains/root/db/physio.html) |
