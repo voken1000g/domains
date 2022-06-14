@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-06-13T00:37:25.349935, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-06-14T00:39:56.241733, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -216,7 +216,7 @@ Updated at 2022-06-13T00:37:25.349935, from [IANA Root Zone Database](http://www
 | .buzz | generic | DOTSTRATEGY CO. | [Details](https://www.iana.org/domains/root/db/buzz.html) |
 | .bv | country-code | Norid A/S | [Details](https://www.iana.org/domains/root/db/bv.html) |
 | .bw | country-code | Botswana Communications Regulatory Authority (BOCRA) | [Details](https://www.iana.org/domains/root/db/bw.html) |
-| .by | country-code | Reliable Software, Ltd. | [Details](https://www.iana.org/domains/root/db/by.html) |
+| .by | country-code | Belarusian Cloud Technologies LLC | [Details](https://www.iana.org/domains/root/db/by.html) |
 | .bz | country-code | University of Belize | [Details](https://www.iana.org/domains/root/db/bz.html) |
 | .bzh | generic | Association www.bzh | [Details](https://www.iana.org/domains/root/db/bzh.html) |
 | .ca | country-code | Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI) | [Details](https://www.iana.org/domains/root/db/ca.html) |
@@ -1453,7 +1453,7 @@ Updated at 2022-06-13T00:37:25.349935, from [IANA Root Zone Database](http://www
 | .联通 | generic | China United Network Communications Corporation Limited | [Details](https://www.iana.org/domains/root/db/xn--8y0a063a.html) |
 | .срб | country-code | Serbian National Internet Domain Registry (RNIDS) | [Details](https://www.iana.org/domains/root/db/xn--90a3ac.html) |
 | .бг | country-code | Imena.BG AD | [Details](https://www.iana.org/domains/root/db/xn--90ae.html) |
-| .бел | country-code | Reliable Software, Ltd. | [Details](https://www.iana.org/domains/root/db/xn--90ais.html) |
+| .бел | country-code | Belarusian Cloud Technologies LLC | [Details](https://www.iana.org/domains/root/db/xn--90ais.html) |
 | ‏.קום‎ | generic | VeriSign Sarl | [Details](https://www.iana.org/domains/root/db/xn--9dbq2a.html) |
 | .时尚 | generic | RISE VICTORY LIMITED | [Details](https://www.iana.org/domains/root/db/xn--9et52u.html) |
 | .微博 | generic | Sina Corporation | [Details](https://www.iana.org/domains/root/db/xn--9krt00a.html) |
