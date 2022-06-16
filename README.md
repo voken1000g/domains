@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-06-15T00:36:14.780811, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-06-16T00:33:41.170825, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -325,7 +325,7 @@ Updated at 2022-06-15T00:36:14.780811, from [IANA Root Zone Database](http://www
 | .country | generic | Top Level Domain Holdings Limited | [Details](https://www.iana.org/domains/root/db/country.html) |
 | .coupon | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/coupon.html) |
 | .coupons | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/coupons.html) |
-| .courses | generic | OPEN UNIVERSITIES AUSTRALIA PTY LTD | [Details](https://www.iana.org/domains/root/db/courses.html) |
+| .courses | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/courses.html) |
 | .cpa | generic | American Institute of Certified Public Accountants | [Details](https://www.iana.org/domains/root/db/cpa.html) |
 | .cr | country-code | National Academy of SciencesAcademia Nacional de Ciencias | [Details](https://www.iana.org/domains/root/db/cr.html) |
 | .credit | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/credit.html) |
@@ -1227,7 +1227,7 @@ Updated at 2022-06-15T00:36:14.780811, from [IANA Root Zone Database](http://www
 | .store | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/store.html) |
 | .stream | generic | dot Stream Limited | [Details](https://www.iana.org/domains/root/db/stream.html) |
 | .studio | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/studio.html) |
-| .study | generic | OPEN UNIVERSITIES AUSTRALIA PTY LTD | [Details](https://www.iana.org/domains/root/db/study.html) |
+| .study | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/study.html) |
 | .style | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/style.html) |
 | .su | country-code | Russian Institute for Development of Public Networks(ROSNIIROS) | [Details](https://www.iana.org/domains/root/db/su.html) |
 | .sucks | generic | Vox Populi Registry Ltd. | [Details](https://www.iana.org/domains/root/db/sucks.html) |
