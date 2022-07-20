@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-07-19T00:42:50.166065, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-07-20T00:33:20.949494, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -406,7 +406,7 @@ Updated at 2022-07-19T00:42:50.166065, from [IANA Root Zone Database](http://www
 | .dvag | generic | Deutsche Vermögensberatung Aktiengesellschaft DVAG | [Details](https://www.iana.org/domains/root/db/dvag.html) |
 | .dvr | generic | Hughes Satellite Systems Corporation | [Details](https://www.iana.org/domains/root/db/dvr.html) |
 | .dz | country-code | CERIST | [Details](https://www.iana.org/domains/root/db/dz.html) |
-| .earth | generic | Interlink Co., Ltd. | [Details](https://www.iana.org/domains/root/db/earth.html) |
+| .earth | generic | Interlink Systems Innovation Institute K.K. | [Details](https://www.iana.org/domains/root/db/earth.html) |
 | .eat | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/eat.html) |
 | .ec | country-code | ECUADORDOMAIN S.A. | [Details](https://www.iana.org/domains/root/db/ec.html) |
 | .eco | generic | Big Room Inc. | [Details](https://www.iana.org/domains/root/db/eco.html) |
@@ -864,7 +864,7 @@ Updated at 2022-07-19T00:42:50.166065, from [IANA Root Zone Database](http://www
 | .mobile | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/mobile.html) |
 | .mobily | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mobily.html) |
 | .moda | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/moda.html) |
-| .moe | generic | Interlink Co., Ltd. | [Details](https://www.iana.org/domains/root/db/moe.html) |
+| .moe | generic | Interlink Systems Innovation Institute K.K. | [Details](https://www.iana.org/domains/root/db/moe.html) |
 | .moi | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/moi.html) |
 | .mom | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/mom.html) |
 | .monash | generic | Monash University | [Details](https://www.iana.org/domains/root/db/monash.html) |
