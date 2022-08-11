@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-08-10T00:35:50.104314, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-08-11T00:37:45.464939, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1254,7 +1254,7 @@ Updated at 2022-08-10T00:35:50.104314, from [IANA Root Zone Database](http://www
 | .target | generic | Target Domain Holdings, LLC | [Details](https://www.iana.org/domains/root/db/target.html) |
 | .tatamotors | generic | Tata Motors Ltd | [Details](https://www.iana.org/domains/root/db/tatamotors.html) |
 | .tatar | generic | Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic" | [Details](https://www.iana.org/domains/root/db/tatar.html) |
-| .tattoo | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/tattoo.html) |
+| .tattoo | generic | Top Level Design, LLC | [Details](https://www.iana.org/domains/root/db/tattoo.html) |
 | .tax | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/tax.html) |
 | .taxi | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/taxi.html) |
 | .tc | country-code | Melrex TC | [Details](https://www.iana.org/domains/root/db/tc.html) |
