@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-08-12T00:35:10.598019, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-08-13T00:33:28.963566, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1472,7 +1472,7 @@ Updated at 2022-08-12T00:35:10.598019, from [IANA Root Zone Database](http://www
 | .дети | generic | The Foundation for Network Initiatives “The Smart Internet” | [Details](https://www.iana.org/domains/root/db/xn--d1acj3b.html) |
 | .мкд | country-code | Macedonian Academic Research Network Skopje | [Details](https://www.iana.org/domains/root/db/xn--d1alf.html) |
 | ‏.טעסט‎ | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--deba0ad.html) |
-| .ею | country-code | EURid vzw/asbl | [Details](https://www.iana.org/domains/root/db/xn--e1a4c.html) |
+| .ею | country-code | EURid vzw | [Details](https://www.iana.org/domains/root/db/xn--e1a4c.html) |
 | .ポイント | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--eckvdtc9d.html) |
 | .新闻 | generic | Guangzhou YU Wei Information and Technology Co.,Ltd | [Details](https://www.iana.org/domains/root/db/xn--efvy88h.html) |
 | .工行 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--estv75g.html) |
@@ -1560,7 +1560,7 @@ Updated at 2022-08-12T00:35:10.598019, from [IANA Root Zone Database](http://www
 | .ລາວ | country-code | Lao National Internet Center (LANIC) | [Details](https://www.iana.org/domains/root/db/xn--q7ce6a.html) |
 | .みんな | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/xn--q9jyb4c.html) |
 | .グーグル | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/xn--qcka1pmc.html) |
-| .ευ | country-code | EURid vzw/asbl | [Details](https://www.iana.org/domains/root/db/xn--qxa6a.html) |
+| .ευ | country-code | EURid vzw | [Details](https://www.iana.org/domains/root/db/xn--qxa6a.html) |
 | .ελ | country-code | ICS-FORTH GR | [Details](https://www.iana.org/domains/root/db/xn--qxam.html) |
 | .世界 | generic | Stable Tone Limited | [Details](https://www.iana.org/domains/root/db/xn--rhqv96g.html) |
 | .書籍 | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--rovu88b.html) |
