@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-08-18T00:40:17.409724, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-08-19T00:38:53.068026, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1112,7 +1112,7 @@ Updated at 2022-08-18T00:40:17.409724, from [IANA Root Zone Database](http://www
 | .saarland | generic | dotSaarland GmbH | [Details](https://www.iana.org/domains/root/db/saarland.html) |
 | .safe | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/safe.html) |
 | .safety | generic | Safety Registry Services, LLC. | [Details](https://www.iana.org/domains/root/db/safety.html) |
-| .sakura | generic | SAKURA Internet Inc. | [Details](https://www.iana.org/domains/root/db/sakura.html) |
+| .sakura | generic | SAKURA internet Inc. | [Details](https://www.iana.org/domains/root/db/sakura.html) |
 | .sale | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/sale.html) |
 | .salon | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/salon.html) |
 | .samsclub | generic | Wal-Mart Stores, Inc. | [Details](https://www.iana.org/domains/root/db/samsclub.html) |
