@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-08-25T00:42:53.289943, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-08-26T00:39:08.375268, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -266,7 +266,7 @@ Updated at 2022-08-25T00:42:53.289943, from [IANA Root Zone Database](http://www
 | .ch | country-code | SWITCH The Swiss Education & Research Network | [Details](https://www.iana.org/domains/root/db/ch.html) |
 | .chanel | generic | Chanel International B.V. | [Details](https://www.iana.org/domains/root/db/chanel.html) |
 | .channel | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/channel.html) |
-| .charity | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/charity.html) |
+| .charity | generic | Public Interest Registry (PIR) | [Details](https://www.iana.org/domains/root/db/charity.html) |
 | .chase | generic | JPMorgan Chase Bank, National Association | [Details](https://www.iana.org/domains/root/db/chase.html) |
 | .chat | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/chat.html) |
 | .cheap | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cheap.html) |
@@ -493,7 +493,7 @@ Updated at 2022-08-25T00:42:53.289943, from [IANA Root Zone Database](http://www
 | .forex | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/forex.html) |
 | .forsale | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/forsale.html) |
 | .forum | generic | Fegistry, LLC | [Details](https://www.iana.org/domains/root/db/forum.html) |
-| .foundation | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/foundation.html) |
+| .foundation | generic | Public Interest Registry (PIR) | [Details](https://www.iana.org/domains/root/db/foundation.html) |
 | .fox | generic | FOX Registry, LLC | [Details](https://www.iana.org/domains/root/db/fox.html) |
 | .fr | country-code | Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.) | [Details](https://www.iana.org/domains/root/db/fr.html) |
 | .free | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/free.html) |
@@ -536,7 +536,7 @@ Updated at 2022-08-25T00:42:53.289943, from [IANA Root Zone Database](http://www
 | .gi | country-code | Sapphire Networks | [Details](https://www.iana.org/domains/root/db/gi.html) |
 | .gift | generic | Uniregistry, Corp. | [Details](https://www.iana.org/domains/root/db/gift.html) |
 | .gifts | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/gifts.html) |
-| .gives | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/gives.html) |
+| .gives | generic | Public Interest Registry (PIR) | [Details](https://www.iana.org/domains/root/db/gives.html) |
 | .giving | generic | Giving Limited | [Details](https://www.iana.org/domains/root/db/giving.html) |
 | .gl | country-code | TELE Greenland A/S | [Details](https://www.iana.org/domains/root/db/gl.html) |
 | .glade | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/glade.html) |
