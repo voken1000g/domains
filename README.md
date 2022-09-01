@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-08-31T00:47:25.235484, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-09-01T00:35:42.616607, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1103,7 +1103,7 @@ Updated at 2022-08-31T00:47:25.235484, from [IANA Root Zone Database](http://www
 | .rsvp | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/rsvp.html) |
 | .ru | country-code | Coordination Center for TLD RU | [Details](https://www.iana.org/domains/root/db/ru.html) |
 | .rugby | generic | World Rugby Strategic Developments Limited | [Details](https://www.iana.org/domains/root/db/rugby.html) |
-| .ruhr | generic | regiodot GmbH & Co. KG | [Details](https://www.iana.org/domains/root/db/ruhr.html) |
+| .ruhr | generic | dotSaarland GmbH | [Details](https://www.iana.org/domains/root/db/ruhr.html) |
 | .run | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/run.html) |
 | .rw | country-code | Rwanda Internet Community and Technology  Alliance (RICTA) Ltd | [Details](https://www.iana.org/domains/root/db/rw.html) |
 | .rwe | generic | RWE AG | [Details](https://www.iana.org/domains/root/db/rwe.html) |
