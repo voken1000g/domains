@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-09-22T00:40:57.143827, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-09-23T00:47:47.055576, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -747,7 +747,7 @@ Updated at 2022-09-22T00:40:57.143827, from [IANA Root Zone Database](http://www
 | .landrover | generic | Jaguar Land Rover Ltd | [Details](https://www.iana.org/domains/root/db/landrover.html) |
 | .lanxess | generic | LANXESS Corporation | [Details](https://www.iana.org/domains/root/db/lanxess.html) |
 | .lasalle | generic | Jones Lang LaSalle Incorporated | [Details](https://www.iana.org/domains/root/db/lasalle.html) |
-| .lat | generic | ECOM-LAC Federación de Latinoamérica y el Caribe para Internet y el Comercio Electrónico | [Details](https://www.iana.org/domains/root/db/lat.html) |
+| .lat | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/lat.html) |
 | .latino | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/latino.html) |
 | .latrobe | generic | La Trobe University | [Details](https://www.iana.org/domains/root/db/latrobe.html) |
 | .law | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/law.html) |
