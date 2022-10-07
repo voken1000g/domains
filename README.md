@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-10-06T00:46:33.930825, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-10-07T00:59:17.545751, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -228,7 +228,7 @@ Updated at 2022-10-06T00:46:33.930825, from [IANA Root Zone Database](http://www
 | .cam | generic | CAM Connecting SARL | [Details](https://www.iana.org/domains/root/db/cam.html) |
 | .camera | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/camera.html) |
 | .camp | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/camp.html) |
-| .cancerresearch | generic | Australian Cancer Research Foundation | [Details](https://www.iana.org/domains/root/db/cancerresearch.html) |
+| .cancerresearch | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/cancerresearch.html) |
 | .canon | generic | Canon Inc. | [Details](https://www.iana.org/domains/root/db/canon.html) |
 | .capetown | generic | ZA Central Registry NPC trading as ZA Central Registry | [Details](https://www.iana.org/domains/root/db/capetown.html) |
 | .capital | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/capital.html) |
