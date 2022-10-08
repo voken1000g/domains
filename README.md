@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-10-07T00:59:17.545751, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-10-08T00:42:35.665041, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -208,7 +208,7 @@ Updated at 2022-10-07T00:59:17.545751, from [IANA Root Zone Database](http://www
 | .bs | country-code | University of The Bahamas | [Details](https://www.iana.org/domains/root/db/bs.html) |
 | .bt | country-code | Ministry of Information and Communications | [Details](https://www.iana.org/domains/root/db/bt.html) |
 | .budapest | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/budapest.html) |
-| .bugatti | generic | Bugatti International SA | [Details](https://www.iana.org/domains/root/db/bugatti.html) |
+| .bugatti | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/bugatti.html) |
 | .build | generic | Plan Bee LLC | [Details](https://www.iana.org/domains/root/db/build.html) |
 | .builders | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/builders.html) |
 | .business | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/business.html) |
