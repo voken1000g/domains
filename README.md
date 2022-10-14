@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-10-13T00:50:24.190252, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-10-14T00:57:09.649806, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -537,7 +537,7 @@ Updated at 2022-10-13T00:50:24.190252, from [IANA Root Zone Database](http://www
 | .gift | generic | Uniregistry, Corp. | [Details](https://www.iana.org/domains/root/db/gift.html) |
 | .gifts | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/gifts.html) |
 | .gives | generic | Public Interest Registry (PIR) | [Details](https://www.iana.org/domains/root/db/gives.html) |
-| .giving | generic | Giving Limited | [Details](https://www.iana.org/domains/root/db/giving.html) |
+| .giving | generic | Public Interest Registry (PIR) | [Details](https://www.iana.org/domains/root/db/giving.html) |
 | .gl | country-code | TELE Greenland A/S | [Details](https://www.iana.org/domains/root/db/gl.html) |
 | .glade | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/glade.html) |
 | .glass | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/glass.html) |
