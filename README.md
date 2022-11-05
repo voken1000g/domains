@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-11-04T00:42:19.482350, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-11-05T00:41:35.264306, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1348,7 +1348,7 @@ Updated at 2022-11-04T00:42:19.482350, from [IANA Root Zone Database](http://www
 | .vegas | generic | Dot Vegas, Inc. | [Details](https://www.iana.org/domains/root/db/vegas.html) |
 | .ventures | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/ventures.html) |
 | .verisign | generic | VeriSign, Inc. | [Details](https://www.iana.org/domains/root/db/verisign.html) |
-| .versicherung | generic | TLD-BOX Registrydienstleistungen GmbH | [Details](https://www.iana.org/domains/root/db/versicherung.html) |
+| .versicherung | generic | tldbox GmbH | [Details](https://www.iana.org/domains/root/db/versicherung.html) |
 | .vet | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/vet.html) |
 | .vg | country-code | Telecommunications Regulatory Commission of the Virgin Islands | [Details](https://www.iana.org/domains/root/db/vg.html) |
 | .vi | country-code | Virgin Islands Public Telecommunications System, Inc. | [Details](https://www.iana.org/domains/root/db/vi.html) |
