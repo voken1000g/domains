@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-11-16T00:37:08.771169, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-11-17T00:36:04.309442, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1320,7 +1320,7 @@ Updated at 2022-11-16T00:37:08.771169, from [IANA Root Zone Database](http://www
 | .tui | generic | TUI AG | [Details](https://www.iana.org/domains/root/db/tui.html) |
 | .tunes | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/tunes.html) |
 | .tushu | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/tushu.html) |
-| .tv | country-code | Ministry of Finance and Tourism | [Details](https://www.iana.org/domains/root/db/tv.html) |
+| .tv | country-code | Ministry of Justice, Communications and Foreign Affairs | [Details](https://www.iana.org/domains/root/db/tv.html) |
 | .tvs | generic | T V SUNDRAM IYENGAR  & SONS PRIVATE LIMITED | [Details](https://www.iana.org/domains/root/db/tvs.html) |
 | .tw | country-code | Taiwan Network Information Center (TWNIC) | [Details](https://www.iana.org/domains/root/db/tw.html) |
 | .tz | country-code | Tanzania Communications Regulatory Authority | [Details](https://www.iana.org/domains/root/db/tz.html) |
