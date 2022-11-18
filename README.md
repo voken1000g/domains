@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-11-17T00:36:04.309442, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-11-18T00:40:53.079677, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -289,7 +289,7 @@ Updated at 2022-11-17T00:36:04.309442, from [IANA Root Zone Database](http://www
 | .cl | country-code | NIC Chile (University of Chile) | [Details](https://www.iana.org/domains/root/db/cl.html) |
 | .claims | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/claims.html) |
 | .cleaning | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cleaning.html) |
-| .click | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/click.html) |
+| .click | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/click.html) |
 | .clinic | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/clinic.html) |
 | .clinique | generic | The Estée Lauder Companies Inc. | [Details](https://www.iana.org/domains/root/db/clinique.html) |
 | .clothing | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/clothing.html) |
@@ -322,7 +322,7 @@ Updated at 2022-11-17T00:36:04.309442, from [IANA Root Zone Database](http://www
 | .cool | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cool.html) |
 | .coop | sponsored | DotCooperation LLC | [Details](https://www.iana.org/domains/root/db/coop.html) |
 | .corsica | generic | Collectivité de Corse | [Details](https://www.iana.org/domains/root/db/corsica.html) |
-| .country | generic | Top Level Domain Holdings Limited | [Details](https://www.iana.org/domains/root/db/country.html) |
+| .country | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/country.html) |
 | .coupon | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/coupon.html) |
 | .coupons | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/coupons.html) |
 | .courses | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/courses.html) |
@@ -600,7 +600,7 @@ Updated at 2022-11-17T00:36:04.309442, from [IANA Root Zone Database](http://www
 | .hiphop | generic | Dot Hip Hop, LLC | [Details](https://www.iana.org/domains/root/db/hiphop.html) |
 | .hisamitsu | generic | Hisamitsu Pharmaceutical Co.,Inc. | [Details](https://www.iana.org/domains/root/db/hisamitsu.html) |
 | .hitachi | generic | Hitachi, Ltd. | [Details](https://www.iana.org/domains/root/db/hitachi.html) |
-| .hiv | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/hiv.html) |
+| .hiv | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/hiv.html) |
 | .hk | country-code | Hong Kong Internet Registration Corporation Ltd. | [Details](https://www.iana.org/domains/root/db/hk.html) |
 | .hkt | generic | PCCW-HKT DataCom Services Limited | [Details](https://www.iana.org/domains/root/db/hkt.html) |
 | .hm | country-code | HM Domain Registry | [Details](https://www.iana.org/domains/root/db/hm.html) |
@@ -1042,7 +1042,7 @@ Updated at 2022-11-17T00:36:04.309442, from [IANA Root Zone Database](http://www
 | .progressive | generic | Progressive Casualty Insurance Company | [Details](https://www.iana.org/domains/root/db/progressive.html) |
 | .promo | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/promo.html) |
 | .properties | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/properties.html) |
-| .property | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/property.html) |
+| .property | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/property.html) |
 | .protection | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/protection.html) |
 | .pru | generic | Prudential Financial, Inc. | [Details](https://www.iana.org/domains/root/db/pru.html) |
 | .prudential | generic | Prudential Financial, Inc. | [Details](https://www.iana.org/domains/root/db/prudential.html) |
@@ -1156,7 +1156,7 @@ Updated at 2022-11-17T00:36:04.309442, from [IANA Root Zone Database](http://www
 | .seven | generic | Seven West Media Ltd | [Details](https://www.iana.org/domains/root/db/seven.html) |
 | .sew | generic | SEW-EURODRIVE GmbH & Co KG | [Details](https://www.iana.org/domains/root/db/sew.html) |
 | .sex | generic | ICM Registry SX LLC | [Details](https://www.iana.org/domains/root/db/sex.html) |
-| .sexy | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/sexy.html) |
+| .sexy | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/sexy.html) |
 | .sfr | generic | Societe Francaise du Radiotelephone - SFR | [Details](https://www.iana.org/domains/root/db/sfr.html) |
 | .sg | country-code | Singapore Network Information Centre (SGNIC) Pte Ltd | [Details](https://www.iana.org/domains/root/db/sg.html) |
 | .sh | country-code | Government of St. Helena | [Details](https://www.iana.org/domains/root/db/sh.html) |
@@ -1313,7 +1313,7 @@ Updated at 2022-11-17T00:36:04.309442, from [IANA Root Zone Database](http://www
 | .travelchannel | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/travelchannel.html) |
 | .travelers | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/travelers.html) |
 | .travelersinsurance | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/travelersinsurance.html) |
-| .trust | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/trust.html) |
+| .trust | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/trust.html) |
 | .trv | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/trv.html) |
 | .tt | country-code | University of the West IndiesFaculty of Engineering | [Details](https://www.iana.org/domains/root/db/tt.html) |
 | .tube | generic | Latin American Telecom LLC | [Details](https://www.iana.org/domains/root/db/tube.html) |
