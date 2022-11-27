@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-11-26T00:30:52.233846, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-11-27T00:36:13.191583, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -40,7 +40,7 @@ Updated at 2022-11-26T00:30:52.233846, from [IANA Root Zone Database](http://www
 | .active | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/active.html) |
 | .actor | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/actor.html) |
 | .ad | country-code | Andorra Telecom | [Details](https://www.iana.org/domains/root/db/ad.html) |
-| .adac | generic | Allgemeiner Deutscher Automobil-Club e.V. (ADAC) | [Details](https://www.iana.org/domains/root/db/adac.html) |
+| .adac | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/adac.html) |
 | .ads | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/ads.html) |
 | .adult | generic | ICM Registry AD LLC | [Details](https://www.iana.org/domains/root/db/adult.html) |
 | .ae | country-code | Telecommunications and Digital Government Regulatory Authority (TDRA) | [Details](https://www.iana.org/domains/root/db/ae.html) |
