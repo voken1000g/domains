@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-12-06T00:30:23.420005, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-12-08T00:30:38.123948, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1505,7 +1505,7 @@ Updated at 2022-12-06T00:30:23.420005, from [IANA Root Zone Database](http://www
 | .укр | country-code | Ukrainian Network Information Centre (UANIC), Inc. | [Details](https://www.iana.org/domains/root/db/xn--j1amh.html) |
 | .香港 | country-code | Hong Kong Internet Registration Corporation Ltd. | [Details](https://www.iana.org/domains/root/db/xn--j6w193g.html) |
 | .亚马逊 | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--jlq480n2rg.html) |
-| .诺基亚 | generic | Nokia Corporation | [Details](https://www.iana.org/domains/root/db/xn--jlq61u9w7b.html) |
+| .诺基亚 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--jlq61u9w7b.html) |
 | .食品 | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--jvr189m.html) |
 | .δοκιμή | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--jxalpdlp.html) |
 | .飞利浦 | generic | Koninklijke Philips N.V. | [Details](https://www.iana.org/domains/root/db/xn--kcrx77d1x4a.html) |
