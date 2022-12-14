@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-12-14T00:33:03.157489, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -78,7 +78,7 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .amfam | generic | AmFam, Inc. | [Details](https://www.iana.org/domains/root/db/amfam.html) |
 | .amica | generic | Amica Mutual Insurance Company | [Details](https://www.iana.org/domains/root/db/amica.html) |
 | .amsterdam | generic | Gemeente Amsterdam | [Details](https://www.iana.org/domains/root/db/amsterdam.html) |
-| .an | country-code | Retired | [Details](https://www.iana.org/domains/root/db/an.html) |
+| .an | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/an.html) |
 | .analytics | generic | Campus IP LLC | [Details](https://www.iana.org/domains/root/db/analytics.html) |
 | .android | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/android.html) |
 | .anquan | generic | QIHOO 360 TECHNOLOGY CO. LTD. | [Details](https://www.iana.org/domains/root/db/anquan.html) |
@@ -392,7 +392,7 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .dog | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/dog.html) |
 | .doha | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/doha.html) |
 | .domains | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/domains.html) |
-| .doosan | generic | Retired | [Details](https://www.iana.org/domains/root/db/doosan.html) |
+| .doosan | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/doosan.html) |
 | .dot | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/dot.html) |
 | .download | generic | dot Support Limited | [Details](https://www.iana.org/domains/root/db/download.html) |
 | .drive | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/drive.html) |
@@ -481,7 +481,7 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .flir | generic | FLIR Systems, Inc. | [Details](https://www.iana.org/domains/root/db/flir.html) |
 | .florist | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/florist.html) |
 | .flowers | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/flowers.html) |
-| .flsmidth | generic | Retired | [Details](https://www.iana.org/domains/root/db/flsmidth.html) |
+| .flsmidth | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/flsmidth.html) |
 | .fly | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/fly.html) |
 | .fm | country-code | FSM Telecommunications Corporation | [Details](https://www.iana.org/domains/root/db/fm.html) |
 | .fo | country-code | FO Council | [Details](https://www.iana.org/domains/root/db/fo.html) |
@@ -640,7 +640,7 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .ie | country-code | University College DublinComputing ServicesComputer Centre | [Details](https://www.iana.org/domains/root/db/ie.html) |
 | .ieee | generic | IEEE Global LLC | [Details](https://www.iana.org/domains/root/db/ieee.html) |
 | .ifm | generic | ifm electronic gmbh | [Details](https://www.iana.org/domains/root/db/ifm.html) |
-| .iinet | generic | Retired | [Details](https://www.iana.org/domains/root/db/iinet.html) |
+| .iinet | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/iinet.html) |
 | .ikano | generic | Ikano S.A. | [Details](https://www.iana.org/domains/root/db/ikano.html) |
 | .il | country-code | The Israel Internet Association (RA) | [Details](https://www.iana.org/domains/root/db/il.html) |
 | .im | country-code | Isle of Man Government | [Details](https://www.iana.org/domains/root/db/im.html) |
@@ -887,13 +887,13 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .msd | generic | MSD Registry Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/msd.html) |
 | .mt | country-code | NIC (Malta) | [Details](https://www.iana.org/domains/root/db/mt.html) |
 | .mtn | generic | MTN Dubai Limited | [Details](https://www.iana.org/domains/root/db/mtn.html) |
-| .mtpc | generic | Retired | [Details](https://www.iana.org/domains/root/db/mtpc.html) |
+| .mtpc | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mtpc.html) |
 | .mtr | generic | MTR Corporation Limited | [Details](https://www.iana.org/domains/root/db/mtr.html) |
 | .mu | country-code | Internet Direct Ltd | [Details](https://www.iana.org/domains/root/db/mu.html) |
 | .museum | sponsored | Museum Domain Management Association | [Details](https://www.iana.org/domains/root/db/museum.html) |
 | .music | generic | DotMusic Limited | [Details](https://www.iana.org/domains/root/db/music.html) |
 | .mutual | generic | Northwestern Mutual MU TLD Registry, LLC | [Details](https://www.iana.org/domains/root/db/mutual.html) |
-| .mutuelle | generic | Retired | [Details](https://www.iana.org/domains/root/db/mutuelle.html) |
+| .mutuelle | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mutuelle.html) |
 | .mv | country-code | Dhiraagu Pvt. Ltd. (DHIVEHINET) | [Details](https://www.iana.org/domains/root/db/mv.html) |
 | .mw | country-code | Malawi Sustainable Development Network Programme(Malawi SDNP) | [Details](https://www.iana.org/domains/root/db/mw.html) |
 | .mx | country-code | NIC-MexicoITESM - Campus Monterrey | [Details](https://www.iana.org/domains/root/db/mx.html) |
@@ -972,7 +972,7 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .orange | generic | Orange Brand Services Limited | [Details](https://www.iana.org/domains/root/db/orange.html) |
 | .org | generic | Public Interest Registry (PIR) | [Details](https://www.iana.org/domains/root/db/org.html) |
 | .organic | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/organic.html) |
-| .orientexpress | generic | Retired | [Details](https://www.iana.org/domains/root/db/orientexpress.html) |
+| .orientexpress | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/orientexpress.html) |
 | .origins | generic | The Estée Lauder Companies Inc. | [Details](https://www.iana.org/domains/root/db/origins.html) |
 | .osaka | generic | Osaka Registry Co., Ltd. | [Details](https://www.iana.org/domains/root/db/osaka.html) |
 | .otsuka | generic | Otsuka Holdings Co., Ltd. | [Details](https://www.iana.org/domains/root/db/otsuka.html) |
@@ -1304,7 +1304,7 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .town | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/town.html) |
 | .toyota | generic | TOYOTA MOTOR CORPORATION | [Details](https://www.iana.org/domains/root/db/toyota.html) |
 | .toys | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/toys.html) |
-| .tp | country-code | Retired | [Details](https://www.iana.org/domains/root/db/tp.html) |
+| .tp | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/tp.html) |
 | .tr | country-code | Bilgi Teknolojileri ve İletişim Kurumu (BTK) | [Details](https://www.iana.org/domains/root/db/tr.html) |
 | .trade | generic | Elite Registry Limited | [Details](https://www.iana.org/domains/root/db/trade.html) |
 | .trading | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/trading.html) |
@@ -1418,9 +1418,9 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .xfinity | generic | Comcast IP Holdings I, LLC | [Details](https://www.iana.org/domains/root/db/xfinity.html) |
 | .xihuan | generic | QIHOO 360 TECHNOLOGY CO. LTD. | [Details](https://www.iana.org/domains/root/db/xihuan.html) |
 | .xin | generic | Elegant Leader Limited | [Details](https://www.iana.org/domains/root/db/xin.html) |
-| .测试 | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--0zwm56d.html) |
+| .测试 | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--0zwm56d.html) |
 | .कॉम | generic | VeriSign Sarl | [Details](https://www.iana.org/domains/root/db/xn--11b4c3d.html) |
-| .परीक्षा | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--11b5bs3a9aj6g.html) |
+| .परीक्षा | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--11b5bs3a9aj6g.html) |
 | .セール | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--1ck2e1b.html) |
 | .佛山 | generic | Guangzhou YU Wei Information Technology Co., Ltd. | [Details](https://www.iana.org/domains/root/db/xn--1qqw23a.html) |
 | .ಭಾರತ | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--2scrj9c.html) |
@@ -1445,7 +1445,7 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .移动 | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/xn--6frz82g.html) |
 | .我爱你 | generic | Tycoon Treasure Limited | [Details](https://www.iana.org/domains/root/db/xn--6qq986b3xl.html) |
 | .москва | generic | Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID) | [Details](https://www.iana.org/domains/root/db/xn--80adxhks.html) |
-| .испытание | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--80akhbyknj4f.html) |
+| .испытание | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--80akhbyknj4f.html) |
 | .қаз | country-code | Association of IT Companies of Kazakhstan | [Details](https://www.iana.org/domains/root/db/xn--80ao21a.html) |
 | .католик | generic | Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication) | [Details](https://www.iana.org/domains/root/db/xn--80aqecdr1a.html) |
 | .онлайн | generic | CORE Association | [Details](https://www.iana.org/domains/root/db/xn--80asehdb.html) |
@@ -1457,7 +1457,7 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | ‏.קום‎ | generic | VeriSign Sarl | [Details](https://www.iana.org/domains/root/db/xn--9dbq2a.html) |
 | .时尚 | generic | RISE VICTORY LIMITED | [Details](https://www.iana.org/domains/root/db/xn--9et52u.html) |
 | .微博 | generic | Sina Corporation | [Details](https://www.iana.org/domains/root/db/xn--9krt00a.html) |
-| .테스트 | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--9t4b11yi5a.html) |
+| .테스트 | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--9t4b11yi5a.html) |
 | .淡马锡 | generic | Temasek Holdings (Private) Limited | [Details](https://www.iana.org/domains/root/db/xn--b4w605ferd.html) |
 | .ファッション | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--bck1b9a5dre4c.html) |
 | .орг | generic | Public Interest Registry | [Details](https://www.iana.org/domains/root/db/xn--c1avg.html) |
@@ -1471,7 +1471,7 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .商城 | generic | Zodiac Aquarius Limited | [Details](https://www.iana.org/domains/root/db/xn--czru2d.html) |
 | .дети | generic | The Foundation for Network Initiatives “The Smart Internet” | [Details](https://www.iana.org/domains/root/db/xn--d1acj3b.html) |
 | .мкд | country-code | Macedonian Academic Research Network Skopje | [Details](https://www.iana.org/domains/root/db/xn--d1alf.html) |
-| ‏.טעסט‎ | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--deba0ad.html) |
+| ‏.טעסט‎ | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--deba0ad.html) |
 | .ею | country-code | EURid vzw | [Details](https://www.iana.org/domains/root/db/xn--e1a4c.html) |
 | .ポイント | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--eckvdtc9d.html) |
 | .新闻 | generic | Guangzhou YU Wei Information and Technology Co.,Ltd | [Details](https://www.iana.org/domains/root/db/xn--efvy88h.html) |
@@ -1488,15 +1488,15 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .ලංකා | country-code | LK Domain Registry | [Details](https://www.iana.org/domains/root/db/xn--fzc2c9e2c.html) |
 | .電訊盈科 | generic | PCCW Enterprises Limited | [Details](https://www.iana.org/domains/root/db/xn--fzys8d69uvgm.html) |
 | .购物 | generic | Nawang Heli(Xiamen) Network Service Co., LTD. | [Details](https://www.iana.org/domains/root/db/xn--g2xx48c.html) |
-| .測試 | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--g6w251d.html) |
+| .測試 | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--g6w251d.html) |
 | .クラウド | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--gckr3f0f.html) |
 | .ભારત | country-code | National Internet Exchange of India | [Details](https://www.iana.org/domains/root/db/xn--gecrj9c.html) |
 | .通販 | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--gk3at1e.html) |
 | .भारतम् | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--h2breg3eve.html) |
 | .भारत | country-code | National Internet Exchange of India | [Details](https://www.iana.org/domains/root/db/xn--h2brj9c.html) |
 | .भारोत | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--h2brj9c8c.html) |
-| ‏.آزمایشی‎ | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--hgbk6aj7f53bba.html) |
-| .பரிட்சை | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--hlcj6aya9esc7a.html) |
+| ‏.آزمایشی‎ | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--hgbk6aj7f53bba.html) |
+| .பரிட்சை | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--hlcj6aya9esc7a.html) |
 | .网店 | generic | Zodiac Taurus Ltd. | [Details](https://www.iana.org/domains/root/db/xn--hxt814e.html) |
 | .संगठन | generic | Public Interest Registry | [Details](https://www.iana.org/domains/root/db/xn--i1b6b1a6a2e.html) |
 | .餐厅 | generic | Internet DotTrademark Organisation Limited | [Details](https://www.iana.org/domains/root/db/xn--imr513n.html) |
@@ -1507,9 +1507,9 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .亚马逊 | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--jlq480n2rg.html) |
 | .诺基亚 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--jlq61u9w7b.html) |
 | .食品 | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--jvr189m.html) |
-| .δοκιμή | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--jxalpdlp.html) |
+| .δοκιμή | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--jxalpdlp.html) |
 | .飞利浦 | generic | Koninklijke Philips N.V. | [Details](https://www.iana.org/domains/root/db/xn--kcrx77d1x4a.html) |
-| ‏.إختبار‎ | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--kgbechtv.html) |
+| ‏.إختبار‎ | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--kgbechtv.html) |
 | .台湾 | country-code | Taiwan Network Information Center (TWNIC) | [Details](https://www.iana.org/domains/root/db/xn--kprw13d.html) |
 | .台灣 | country-code | Taiwan Network Information Center (TWNIC) | [Details](https://www.iana.org/domains/root/db/xn--kpry57d.html) |
 | .手表 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--kpu716f.html) |
@@ -1585,7 +1585,7 @@ Updated at 2022-12-13T00:35:29.676572, from [IANA Root Zone Database](http://www
 | .հայ | country-code | "Internet Society" Non-governmental Organization | [Details](https://www.iana.org/domains/root/db/xn--y9a3aq.html) |
 | .新加坡 | country-code | Singapore Network Information Centre (SGNIC) Pte Ltd | [Details](https://www.iana.org/domains/root/db/xn--yfro4i67o.html) |
 | ‏.فلسطين‎ | country-code | Ministry of Telecom & Information Technology (MTIT) | [Details](https://www.iana.org/domains/root/db/xn--ygbi2ammx.html) |
-| .テスト | test | Internet Assigned Numbers Authority | [Details](https://www.iana.org/domains/root/db/xn--zckzah.html) |
+| .テスト | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--zckzah.html) |
 | .政务 | generic | China Organizational Name Administration Center | [Details](https://www.iana.org/domains/root/db/xn--zfr164b.html) |
 | .xperia | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xperia.html) |
 | .xxx | sponsored | ICM Registry LLC | [Details](https://www.iana.org/domains/root/db/xxx.html) |
