@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-12-16T00:30:54.458039, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-12-17T00:29:26.136233, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1152,7 +1152,7 @@ Updated at 2022-12-16T00:30:54.458039, from [IANA Root Zone Database](http://www
 | .select | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/select.html) |
 | .sener | generic | Sener Ingeniería y Sistemas, S.A. | [Details](https://www.iana.org/domains/root/db/sener.html) |
 | .services | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/services.html) |
-| .ses | generic | SES | [Details](https://www.iana.org/domains/root/db/ses.html) |
+| .ses | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/ses.html) |
 | .seven | generic | Seven West Media Ltd | [Details](https://www.iana.org/domains/root/db/seven.html) |
 | .sew | generic | SEW-EURODRIVE GmbH & Co KG | [Details](https://www.iana.org/domains/root/db/sew.html) |
 | .sex | generic | ICM Registry SX LLC | [Details](https://www.iana.org/domains/root/db/sex.html) |
