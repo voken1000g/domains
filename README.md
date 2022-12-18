@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-12-17T00:29:26.136233, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-12-18T00:30:10.746765, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -787,7 +787,7 @@ Updated at 2022-12-17T00:29:26.136233, from [IANA Root Zone Database](http://www
 | .loans | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/loans.html) |
 | .locker | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/locker.html) |
 | .locus | generic | Locus Analytics LLC | [Details](https://www.iana.org/domains/root/db/locus.html) |
-| .loft | generic | Annco, Inc. | [Details](https://www.iana.org/domains/root/db/loft.html) |
+| .loft | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/loft.html) |
 | .lol | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/lol.html) |
 | .london | generic | Dot London Domains Limited | [Details](https://www.iana.org/domains/root/db/london.html) |
 | .lotte | generic | Lotte Holdings Co., Ltd. | [Details](https://www.iana.org/domains/root/db/lotte.html) |
