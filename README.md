@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2022-12-21T00:29:07.277619, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2022-12-22T00:31:51.243385, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -838,7 +838,7 @@ Updated at 2022-12-21T00:29:07.277619, from [IANA Root Zone Database](http://www
 | .meme | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/meme.html) |
 | .memorial | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/memorial.html) |
 | .men | generic | Exclusive Registry Limited | [Details](https://www.iana.org/domains/root/db/men.html) |
-| .menu | generic | Wedding TLD2, LLC | [Details](https://www.iana.org/domains/root/db/menu.html) |
+| .menu | generic | Dot Menu Registry LLC | [Details](https://www.iana.org/domains/root/db/menu.html) |
 | .meo | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/meo.html) |
 | .merckmsd | generic | MSD Registry Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/merckmsd.html) |
 | .metlife | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/metlife.html) |
