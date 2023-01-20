@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-01-19T00:34:07.434027, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-01-20T00:33:28.768421, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1160,7 +1160,7 @@ Updated at 2023-01-19T00:34:07.434027, from [IANA Root Zone Database](http://www
 | .sfr | generic | Societe Francaise du Radiotelephone - SFR | [Details](https://www.iana.org/domains/root/db/sfr.html) |
 | .sg | country-code | Singapore Network Information Centre (SGNIC) Pte Ltd | [Details](https://www.iana.org/domains/root/db/sg.html) |
 | .sh | country-code | Government of St. Helena | [Details](https://www.iana.org/domains/root/db/sh.html) |
-| .shangrila | generic | Shangri‐La International Hotel Management Limited | [Details](https://www.iana.org/domains/root/db/shangrila.html) |
+| .shangrila | generic | Shangri-La International Hotel Management Limited | [Details](https://www.iana.org/domains/root/db/shangrila.html) |
 | .sharp | generic | Sharp Corporation | [Details](https://www.iana.org/domains/root/db/sharp.html) |
 | .shaw | generic | Shaw Cablesystems G.P. | [Details](https://www.iana.org/domains/root/db/shaw.html) |
 | .shell | generic | Shell Information Technology International Inc | [Details](https://www.iana.org/domains/root/db/shell.html) |
@@ -1440,7 +1440,7 @@ Updated at 2023-01-19T00:34:07.434027, from [IANA Root Zone Database](http://www
 | .বাংলা | country-code | Posts and Telecommunications Division | [Details](https://www.iana.org/domains/root/db/xn--54b7fta0cc.html) |
 | .公益 | generic | China Organizational Name Administration Center | [Details](https://www.iana.org/domains/root/db/xn--55qw42g.html) |
 | .公司 | generic | Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center） | [Details](https://www.iana.org/domains/root/db/xn--55qx5d.html) |
-| .香格里拉 | generic | Shangri‐La International Hotel Management Limited | [Details](https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html) |
+| .香格里拉 | generic | Shangri-La International Hotel Management Limited | [Details](https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html) |
 | .网站 | generic | Global Website TLD Asia Limited | [Details](https://www.iana.org/domains/root/db/xn--5tzm5g.html) |
 | .移动 | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/xn--6frz82g.html) |
 | .我爱你 | generic | Tycoon Treasure Limited | [Details](https://www.iana.org/domains/root/db/xn--6qq986b3xl.html) |
