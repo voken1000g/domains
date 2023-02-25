@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-02-24T00:33:36.783911, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-02-25T00:34:13.751239, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1053,7 +1053,7 @@ Updated at 2023-02-24T00:33:36.783911, from [IANA Root Zone Database](http://www
 | .pwc | generic | PricewaterhouseCoopers LLP | [Details](https://www.iana.org/domains/root/db/pwc.html) |
 | .py | country-code | NIC-PY | [Details](https://www.iana.org/domains/root/db/py.html) |
 | .qa | country-code | Communications Regulatory Authority | [Details](https://www.iana.org/domains/root/db/qa.html) |
-| .qpon | generic | dotCOOL, Inc. | [Details](https://www.iana.org/domains/root/db/qpon.html) |
+| .qpon | generic | DOTQPON LLC. | [Details](https://www.iana.org/domains/root/db/qpon.html) |
 | .quebec | generic | PointQuébec Inc | [Details](https://www.iana.org/domains/root/db/quebec.html) |
 | .quest | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/quest.html) |
 | .qvc | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/qvc.html) |
