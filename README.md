@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-03-07T00:37:27.419065, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-03-08T00:36:14.248848, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -808,7 +808,7 @@ Updated at 2023-03-07T00:37:27.419065, from [IANA Root Zone Database](http://www
 | .lv | country-code | University of LatviaInstitute of Mathematics and Computer ScienceDepartment of Network Solutions (DNS) | [Details](https://www.iana.org/domains/root/db/lv.html) |
 | .ly | country-code | General Post and Telecommunication Company | [Details](https://www.iana.org/domains/root/db/ly.html) |
 | .ma | country-code | Agence Nationale de Réglementation des Télécommunications (ANRT) | [Details](https://www.iana.org/domains/root/db/ma.html) |
-| .macys | generic | Macys, Inc. | [Details](https://www.iana.org/domains/root/db/macys.html) |
+| .macys | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/macys.html) |
 | .madrid | generic | Comunidad de Madrid | [Details](https://www.iana.org/domains/root/db/madrid.html) |
 | .maif | generic | Mutuelle Assurance Instituteur France (MAIF) | [Details](https://www.iana.org/domains/root/db/maif.html) |
 | .maison | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/maison.html) |
