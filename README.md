@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-03-17T00:33:38.117657, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-03-18T00:32:01.963169, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -735,7 +735,7 @@ Updated at 2023-03-17T00:33:38.117657, from [IANA Root Zone Database](http://www
 | .ky | country-code | Utility Regulation and Competition Office (OfReg) | [Details](https://www.iana.org/domains/root/db/ky.html) |
 | .kyoto | generic | Academic Institution: Kyoto Jyoho Gakuen | [Details](https://www.iana.org/domains/root/db/kyoto.html) |
 | .kz | country-code | Association of IT Companies of Kazakhstan | [Details](https://www.iana.org/domains/root/db/kz.html) |
-| .la | country-code | Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications | [Details](https://www.iana.org/domains/root/db/la.html) |
+| .la | country-code | Lao National Internet Center (LANIC),Ministry of Technology and Communications | [Details](https://www.iana.org/domains/root/db/la.html) |
 | .lacaixa | generic | CAIXA D'ESTALVIS I PENSIONS DE BARCELONA | [Details](https://www.iana.org/domains/root/db/lacaixa.html) |
 | .ladbrokes | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/ladbrokes.html) |
 | .lamborghini | generic | Automobili Lamborghini S.p.A. | [Details](https://www.iana.org/domains/root/db/lamborghini.html) |
@@ -774,7 +774,7 @@ Updated at 2023-03-17T00:33:38.117657, from [IANA Root Zone Database](http://www
 | .limited | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/limited.html) |
 | .limo | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/limo.html) |
 | .lincoln | generic | Ford Motor Company | [Details](https://www.iana.org/domains/root/db/lincoln.html) |
-| .linde | generic | Linde Aktiengesellschaft | [Details](https://www.iana.org/domains/root/db/linde.html) |
+| .linde | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/linde.html) |
 | .link | generic | Nova Registry Ltd. | [Details](https://www.iana.org/domains/root/db/link.html) |
 | .lipsy | generic | Lipsy Ltd | [Details](https://www.iana.org/domains/root/db/lipsy.html) |
 | .live | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/live.html) |
@@ -1557,7 +1557,7 @@ Updated at 2023-03-17T00:33:38.117657, from [IANA Root Zone Database](http://www
 | .珠宝 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--pbt977c.html) |
 | ‏.تونس‎ | country-code | Agence Tunisienne d'Internet | [Details](https://www.iana.org/domains/root/db/xn--pgbs0dh.html) |
 | .大拿 | generic | VeriSign Sarl | [Details](https://www.iana.org/domains/root/db/xn--pssy2u.html) |
-| .ລາວ | country-code | Lao National Internet Center (LANIC) | [Details](https://www.iana.org/domains/root/db/xn--q7ce6a.html) |
+| .ລາວ | country-code | Lao National Internet Center (LANIC), Ministry of Technology and Communications | [Details](https://www.iana.org/domains/root/db/xn--q7ce6a.html) |
 | .みんな | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/xn--q9jyb4c.html) |
 | .グーグル | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/xn--qcka1pmc.html) |
 | .ευ | country-code | EURid vzw | [Details](https://www.iana.org/domains/root/db/xn--qxa6a.html) |
