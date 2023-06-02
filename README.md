@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-06-01T00:44:12.284079, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-06-02T00:36:04.584310, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -242,7 +242,7 @@ Updated at 2023-06-01T00:44:12.284079, from [IANA Root Zone Database](http://www
 | .cars | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/cars.html) |
 | .cartier | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/cartier.html) |
 | .casa | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/casa.html) |
-| .case | generic | CNH Industrial N.V. | [Details](https://www.iana.org/domains/root/db/case.html) |
+| .case | generic | Digity, LLC | [Details](https://www.iana.org/domains/root/db/case.html) |
 | .caseih | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/caseih.html) |
 | .cash | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cash.html) |
 | .casino | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/casino.html) |
