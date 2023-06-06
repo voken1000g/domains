@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-06-05T00:36:02.779809, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-06-06T00:36:49.745154, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -23,7 +23,7 @@ Updated at 2023-06-05T00:36:02.779809, from [IANA Root Zone Database](http://www
 | ------ | ---- | ----------- | ---- |
 | .aaa | generic | American Automobile Association, Inc. | [Details](https://www.iana.org/domains/root/db/aaa.html) |
 | .aarp | generic | AARP | [Details](https://www.iana.org/domains/root/db/aarp.html) |
-| .abarth | generic | Fiat Chrysler Automobiles N.V. | [Details](https://www.iana.org/domains/root/db/abarth.html) |
+| .abarth | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/abarth.html) |
 | .abb | generic | ABB Ltd | [Details](https://www.iana.org/domains/root/db/abb.html) |
 | .abbott | generic | Abbott Laboratories, Inc. | [Details](https://www.iana.org/domains/root/db/abbott.html) |
 | .abbvie | generic | AbbVie Inc. | [Details](https://www.iana.org/domains/root/db/abbvie.html) |
@@ -62,7 +62,7 @@ Updated at 2023-06-05T00:36:02.779809, from [IANA Root Zone Database](http://www
 | .airtel | generic | Bharti Airtel Limited | [Details](https://www.iana.org/domains/root/db/airtel.html) |
 | .akdn | generic | Fondation Aga Khan (Aga Khan Foundation) | [Details](https://www.iana.org/domains/root/db/akdn.html) |
 | .al | country-code | Electronic and Postal Communications Authority - AKEP | [Details](https://www.iana.org/domains/root/db/al.html) |
-| .alfaromeo | generic | Fiat Chrysler Automobiles N.V. | [Details](https://www.iana.org/domains/root/db/alfaromeo.html) |
+| .alfaromeo | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/alfaromeo.html) |
 | .alibaba | generic | Alibaba Group Holding Limited | [Details](https://www.iana.org/domains/root/db/alibaba.html) |
 | .alipay | generic | Alibaba Group Holding Limited | [Details](https://www.iana.org/domains/root/db/alipay.html) |
 | .allfinanz | generic | Allfinanz Deutsche Vermögensberatung Aktiengesellschaft | [Details](https://www.iana.org/domains/root/db/allfinanz.html) |
@@ -460,7 +460,7 @@ Updated at 2023-06-05T00:36:02.779809, from [IANA Root Zone Database](http://www
 | .ferrari | generic | Fiat Chrysler Automobiles N.V. | [Details](https://www.iana.org/domains/root/db/ferrari.html) |
 | .ferrero | generic | Ferrero Trading Lux S.A. | [Details](https://www.iana.org/domains/root/db/ferrero.html) |
 | .fi | country-code | Finnish Transport and Communications Agency Traficom | [Details](https://www.iana.org/domains/root/db/fi.html) |
-| .fiat | generic | Fiat Chrysler Automobiles N.V. | [Details](https://www.iana.org/domains/root/db/fiat.html) |
+| .fiat | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/fiat.html) |
 | .fidelity | generic | Fidelity Brokerage Services LLC | [Details](https://www.iana.org/domains/root/db/fidelity.html) |
 | .fido | generic | Rogers Communications Canada Inc. | [Details](https://www.iana.org/domains/root/db/fido.html) |
 | .film | generic | Motion Picture Domain Registry Pty Ltd | [Details](https://www.iana.org/domains/root/db/film.html) |
@@ -741,7 +741,7 @@ Updated at 2023-06-05T00:36:02.779809, from [IANA Root Zone Database](http://www
 | .lamborghini | generic | Automobili Lamborghini S.p.A. | [Details](https://www.iana.org/domains/root/db/lamborghini.html) |
 | .lamer | generic | The Estée Lauder Companies Inc. | [Details](https://www.iana.org/domains/root/db/lamer.html) |
 | .lancaster | generic | LANCASTER | [Details](https://www.iana.org/domains/root/db/lancaster.html) |
-| .lancia | generic | Fiat Chrysler Automobiles N.V. | [Details](https://www.iana.org/domains/root/db/lancia.html) |
+| .lancia | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lancia.html) |
 | .lancome | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lancome.html) |
 | .land | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/land.html) |
 | .landrover | generic | Jaguar Land Rover Ltd | [Details](https://www.iana.org/domains/root/db/landrover.html) |
@@ -822,7 +822,7 @@ Updated at 2023-06-05T00:36:02.779809, from [IANA Root Zone Database](http://www
 | .markets | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/markets.html) |
 | .marriott | generic | Marriott Worldwide Corporation | [Details](https://www.iana.org/domains/root/db/marriott.html) |
 | .marshalls | generic | The TJX Companies, Inc. | [Details](https://www.iana.org/domains/root/db/marshalls.html) |
-| .maserati | generic | Fiat Chrysler Automobiles N.V. | [Details](https://www.iana.org/domains/root/db/maserati.html) |
+| .maserati | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/maserati.html) |
 | .mattel | generic | Mattel Sites, Inc. | [Details](https://www.iana.org/domains/root/db/mattel.html) |
 | .mba | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/mba.html) |
 | .mc | country-code | Direction des Plateformes et des Ressources Numériques | [Details](https://www.iana.org/domains/root/db/mc.html) |
