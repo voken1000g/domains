@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-06-14T00:34:21.563371, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-06-15T00:35:41.944051, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -318,7 +318,7 @@ Updated at 2023-06-14T00:34:21.563371, from [IANA Root Zone Database](http://www
 | .contact | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/contact.html) |
 | .contractors | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/contractors.html) |
 | .cooking | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/cooking.html) |
-| .cookingchannel | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/cookingchannel.html) |
+| .cookingchannel | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/cookingchannel.html) |
 | .cool | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cool.html) |
 | .coop | sponsored | DotCooperation LLC | [Details](https://www.iana.org/domains/root/db/coop.html) |
 | .corsica | generic | Collectivité de Corse | [Details](https://www.iana.org/domains/root/db/corsica.html) |
@@ -487,7 +487,7 @@ Updated at 2023-06-14T00:34:21.563371, from [IANA Root Zone Database](http://www
 | .fo | country-code | FO Council | [Details](https://www.iana.org/domains/root/db/fo.html) |
 | .foo | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/foo.html) |
 | .food | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/food.html) |
-| .foodnetwork | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/foodnetwork.html) |
+| .foodnetwork | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/foodnetwork.html) |
 | .football | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/football.html) |
 | .ford | generic | Ford Motor Company | [Details](https://www.iana.org/domains/root/db/ford.html) |
 | .forex | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/forex.html) |
@@ -596,7 +596,7 @@ Updated at 2023-06-14T00:34:21.563371, from [IANA Root Zone Database](http://www
 | .helsinki | generic | City of Helsinki | [Details](https://www.iana.org/domains/root/db/helsinki.html) |
 | .here | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/here.html) |
 | .hermes | generic | Hermes International | [Details](https://www.iana.org/domains/root/db/hermes.html) |
-| .hgtv | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/hgtv.html) |
+| .hgtv | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/hgtv.html) |
 | .hiphop | generic | Dot Hip Hop, LLC | [Details](https://www.iana.org/domains/root/db/hiphop.html) |
 | .hisamitsu | generic | Hisamitsu Pharmaceutical Co.,Inc. | [Details](https://www.iana.org/domains/root/db/hisamitsu.html) |
 | .hitachi | generic | Hitachi, Ltd. | [Details](https://www.iana.org/domains/root/db/hitachi.html) |
@@ -1310,7 +1310,7 @@ Updated at 2023-06-14T00:34:21.563371, from [IANA Root Zone Database](http://www
 | .trading | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/trading.html) |
 | .training | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/training.html) |
 | .travel | sponsored | Dog	Beach, LLC | [Details](https://www.iana.org/domains/root/db/travel.html) |
-| .travelchannel | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/travelchannel.html) |
+| .travelchannel | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/travelchannel.html) |
 | .travelers | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/travelers.html) |
 | .travelersinsurance | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/travelersinsurance.html) |
 | .trust | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/trust.html) |
