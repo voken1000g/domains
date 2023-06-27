@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-06-26T00:40:37.303985, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-06-27T00:39:30.981437, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -519,7 +519,7 @@ Updated at 2023-06-26T00:40:37.303985, from [IANA Root Zone Database](http://www
 | .games | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/games.html) |
 | .gap | generic | The Gap, Inc. | [Details](https://www.iana.org/domains/root/db/gap.html) |
 | .garden | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/garden.html) |
-| .gay | generic | Top Level Design, LLC | [Details](https://www.iana.org/domains/root/db/gay.html) |
+| .gay | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/gay.html) |
 | .gb | country-code | Reserved Domain - IANA | [Details](https://www.iana.org/domains/root/db/gb.html) |
 | .gbiz | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/gbiz.html) |
 | .gd | country-code | The National Telecommunications Regulatory Commission (NTRC) | [Details](https://www.iana.org/domains/root/db/gd.html) |
@@ -590,7 +590,7 @@ Updated at 2023-06-26T00:40:37.303985, from [IANA Root Zone Database](http://www
 | .hbo | generic | HBO Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/hbo.html) |
 | .hdfc | generic | HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED | [Details](https://www.iana.org/domains/root/db/hdfc.html) |
 | .hdfcbank | generic | HDFC Bank Limited | [Details](https://www.iana.org/domains/root/db/hdfcbank.html) |
-| .health | generic | DotHealth, LLC | [Details](https://www.iana.org/domains/root/db/health.html) |
+| .health | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/health.html) |
 | .healthcare | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/healthcare.html) |
 | .help | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/help.html) |
 | .helsinki | generic | City of Helsinki | [Details](https://www.iana.org/domains/root/db/helsinki.html) |
@@ -654,7 +654,7 @@ Updated at 2023-06-26T00:40:37.303985, from [IANA Root Zone Database](http://www
 | .infiniti | generic | NISSAN MOTOR CO., LTD. | [Details](https://www.iana.org/domains/root/db/infiniti.html) |
 | .info | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/info.html) |
 | .ing | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/ing.html) |
-| .ink | generic | Top Level Design, LLC | [Details](https://www.iana.org/domains/root/db/ink.html) |
+| .ink | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/ink.html) |
 | .institute | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/institute.html) |
 | .insurance | generic | fTLD Registry Services LLC | [Details](https://www.iana.org/domains/root/db/insurance.html) |
 | .insure | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/insure.html) |
@@ -1254,7 +1254,7 @@ Updated at 2023-06-26T00:40:37.303985, from [IANA Root Zone Database](http://www
 | .target | generic | Target Domain Holdings, LLC | [Details](https://www.iana.org/domains/root/db/target.html) |
 | .tatamotors | generic | Tata Motors Ltd | [Details](https://www.iana.org/domains/root/db/tatamotors.html) |
 | .tatar | generic | Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic" | [Details](https://www.iana.org/domains/root/db/tatar.html) |
-| .tattoo | generic | Top Level Design, LLC | [Details](https://www.iana.org/domains/root/db/tattoo.html) |
+| .tattoo | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/tattoo.html) |
 | .tax | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/tax.html) |
 | .taxi | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/taxi.html) |
 | .tc | country-code | Melrex TC | [Details](https://www.iana.org/domains/root/db/tc.html) |
@@ -1397,7 +1397,7 @@ Updated at 2023-06-26T00:40:37.303985, from [IANA Root Zone Database](http://www
 | .wf | country-code | Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.) | [Details](https://www.iana.org/domains/root/db/wf.html) |
 | .whoswho | generic | Who's Who Registry | [Details](https://www.iana.org/domains/root/db/whoswho.html) |
 | .wien | generic | punkt.wien GmbH | [Details](https://www.iana.org/domains/root/db/wien.html) |
-| .wiki | generic | Top Level Design, LLC | [Details](https://www.iana.org/domains/root/db/wiki.html) |
+| .wiki | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/wiki.html) |
 | .williamhill | generic | William Hill Organization Limited | [Details](https://www.iana.org/domains/root/db/williamhill.html) |
 | .win | generic | First Registry Limited | [Details](https://www.iana.org/domains/root/db/win.html) |
 | .windows | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/windows.html) |
