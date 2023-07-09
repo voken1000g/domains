@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-07-08T00:39:02.210006, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-07-09T00:43:58.681630, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -619,7 +619,7 @@ Updated at 2023-07-08T00:39:02.210006, from [IANA Root Zone Database](http://www
 | .host | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/host.html) |
 | .hosting | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/hosting.html) |
 | .hot | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/hot.html) |
-| .hoteles | generic | Travel Reservations SRL | [Details](https://www.iana.org/domains/root/db/hoteles.html) |
+| .hoteles | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/hoteles.html) |
 | .hotels | generic | Booking.com B.V. | [Details](https://www.iana.org/domains/root/db/hotels.html) |
 | .hotmail | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/hotmail.html) |
 | .house | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/house.html) |
@@ -988,7 +988,7 @@ Updated at 2023-07-08T00:39:02.210006, from [IANA Root Zone Database](http://www
 | .partners | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/partners.html) |
 | .parts | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/parts.html) |
 | .party | generic | Blue Sky Registry Limited | [Details](https://www.iana.org/domains/root/db/party.html) |
-| .passagens | generic | Travel Reservations SRL | [Details](https://www.iana.org/domains/root/db/passagens.html) |
+| .passagens | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/passagens.html) |
 | .pay | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/pay.html) |
 | .pccw | generic | PCCW Enterprises Limited | [Details](https://www.iana.org/domains/root/db/pccw.html) |
 | .pe | country-code | Red Cientifica Peruana | [Details](https://www.iana.org/domains/root/db/pe.html) |
@@ -1376,7 +1376,7 @@ Updated at 2023-07-08T00:39:02.210006, from [IANA Root Zone Database](http://www
 | .voto | generic | Monolith Registry LLC | [Details](https://www.iana.org/domains/root/db/voto.html) |
 | .voyage | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/voyage.html) |
 | .vu | country-code | Telecommunications Radiocommunications and Broadcasting Regulator (TRBR) | [Details](https://www.iana.org/domains/root/db/vu.html) |
-| .vuelos | generic | Travel Reservations SRL | [Details](https://www.iana.org/domains/root/db/vuelos.html) |
+| .vuelos | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/vuelos.html) |
 | .wales | generic | Nominet UK | [Details](https://www.iana.org/domains/root/db/wales.html) |
 | .walmart | generic | Wal-Mart Stores, Inc. | [Details](https://www.iana.org/domains/root/db/walmart.html) |
 | .walter | generic | Sandvik AB | [Details](https://www.iana.org/domains/root/db/walter.html) |
