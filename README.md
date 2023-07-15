@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-07-14T00:40:37.575343, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-07-15T00:39:07.829175, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -752,7 +752,7 @@ Updated at 2023-07-14T00:40:37.575343, from [IANA Root Zone Database](http://www
 | .latrobe | generic | La Trobe University | [Details](https://www.iana.org/domains/root/db/latrobe.html) |
 | .law | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/law.html) |
 | .lawyer | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/lawyer.html) |
-| .lb | country-code | American University of BeirutComputing and Networking Services | [Details](https://www.iana.org/domains/root/db/lb.html) |
+| .lb | country-code | Caretaker Operations | [Details](https://www.iana.org/domains/root/db/lb.html) |
 | .lc | country-code | University of Puerto Rico | [Details](https://www.iana.org/domains/root/db/lc.html) |
 | .lds | generic | IRI Domain Management, LLC | [Details](https://www.iana.org/domains/root/db/lds.html) |
 | .lease | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/lease.html) |
@@ -1205,7 +1205,7 @@ Updated at 2023-07-14T00:40:37.575343, from [IANA Root Zone Database](http://www
 | .spa | generic | Asia Spa and Wellness Promotion Council Limited | [Details](https://www.iana.org/domains/root/db/spa.html) |
 | .space | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/space.html) |
 | .spiegel | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/spiegel.html) |
-| .sport | generic | Global Association of International Sports Federations (GAISF) | [Details](https://www.iana.org/domains/root/db/sport.html) |
+| .sport | generic | SportAccord | [Details](https://www.iana.org/domains/root/db/sport.html) |
 | .spot | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/spot.html) |
 | .spreadbetting | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/spreadbetting.html) |
 | .sr | country-code | Telesur | [Details](https://www.iana.org/domains/root/db/sr.html) |
