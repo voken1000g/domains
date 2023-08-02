@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-08-01T00:38:35.807221, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-08-02T00:33:26.474948, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -892,7 +892,7 @@ Updated at 2023-08-01T00:38:35.807221, from [IANA Root Zone Database](http://www
 | .mu | country-code | Internet Direct Ltd | [Details](https://www.iana.org/domains/root/db/mu.html) |
 | .museum | sponsored | Museum Domain Management Association | [Details](https://www.iana.org/domains/root/db/museum.html) |
 | .music | generic | DotMusic Limited | [Details](https://www.iana.org/domains/root/db/music.html) |
-| .mutual | generic | Northwestern Mutual MU TLD Registry, LLC | [Details](https://www.iana.org/domains/root/db/mutual.html) |
+| .mutual | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mutual.html) |
 | .mutuelle | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mutuelle.html) |
 | .mv | country-code | Dhiraagu Pvt. Ltd. (DHIVEHINET) | [Details](https://www.iana.org/domains/root/db/mv.html) |
 | .mw | country-code | Malawi Sustainable Development Network Programme(Malawi SDNP) | [Details](https://www.iana.org/domains/root/db/mw.html) |
