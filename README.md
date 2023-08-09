@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-08-08T00:32:19.552707, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-08-09T00:34:33.824455, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -937,7 +937,7 @@ Updated at 2023-08-08T00:32:19.552707, from [IANA Root Zone Database](http://www
 | .nl | country-code | SIDN (Stichting Internet Domeinregistratie Nederland) | [Details](https://www.iana.org/domains/root/db/nl.html) |
 | .no | country-code | Norid A/S | [Details](https://www.iana.org/domains/root/db/no.html) |
 | .nokia | generic | Nokia Corporation | [Details](https://www.iana.org/domains/root/db/nokia.html) |
-| .northwesternmutual | generic | Northwestern Mutual Registry, LLC | [Details](https://www.iana.org/domains/root/db/northwesternmutual.html) |
+| .northwesternmutual | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/northwesternmutual.html) |
 | .norton | generic | Symantec Corporation | [Details](https://www.iana.org/domains/root/db/norton.html) |
 | .now | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/now.html) |
 | .nowruz | generic | Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti. | [Details](https://www.iana.org/domains/root/db/nowruz.html) |
