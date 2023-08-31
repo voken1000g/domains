@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-08-30T00:27:32.404995, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-08-31T00:27:31.476451, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -154,7 +154,7 @@ Updated at 2023-08-30T00:27:32.404995, from [IANA Root Zone Database](http://www
 | .best | generic | BestTLD Pty Ltd | [Details](https://www.iana.org/domains/root/db/best.html) |
 | .bestbuy | generic | BBY Solutions, Inc. | [Details](https://www.iana.org/domains/root/db/bestbuy.html) |
 | .bet | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/bet.html) |
-| .bf | country-code | ARCE-AutoritÈ de RÈgulation des Communications Electroniques | [Details](https://www.iana.org/domains/root/db/bf.html) |
+| .bf | country-code | Autorité de Régulation des Communications Electroniques et des Postes (ARCEP) | [Details](https://www.iana.org/domains/root/db/bf.html) |
 | .bg | country-code | Register.BG | [Details](https://www.iana.org/domains/root/db/bg.html) |
 | .bh | country-code | Telecommunications Regulatory Authority (TRA) | [Details](https://www.iana.org/domains/root/db/bh.html) |
 | .bharti | generic | Bharti Enterprises (Holding) Private Limited | [Details](https://www.iana.org/domains/root/db/bharti.html) |
