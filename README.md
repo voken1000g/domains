@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-08-31T00:27:31.476451, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-09-01T00:29:57.985499, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -93,7 +93,7 @@ Updated at 2023-08-31T00:27:31.476451, from [IANA Root Zone Database](http://www
 | .ar | country-code | Presidencia de la Nación – Secretaría Legal y Técnica | [Details](https://www.iana.org/domains/root/db/ar.html) |
 | .arab | generic | League of Arab States | [Details](https://www.iana.org/domains/root/db/arab.html) |
 | .aramco | generic | Aramco Services Company | [Details](https://www.iana.org/domains/root/db/aramco.html) |
-| .archi | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/archi.html) |
+| .archi | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/archi.html) |
 | .army | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/army.html) |
 | .arpa | infrastructure | Internet Architecture Board (IAB) | [Details](https://www.iana.org/domains/root/db/arpa.html) |
 | .art | generic | UK Creative Ideas Limited | [Details](https://www.iana.org/domains/root/db/art.html) |
@@ -1108,7 +1108,7 @@ Updated at 2023-08-31T00:27:31.476451, from [IANA Root Zone Database](http://www
 | .rw | country-code | Rwanda Internet Community and Technology  Alliance (RICTA) Ltd | [Details](https://www.iana.org/domains/root/db/rw.html) |
 | .rwe | generic | RWE AG | [Details](https://www.iana.org/domains/root/db/rwe.html) |
 | .ryukyu | generic | BRregistry, Inc. | [Details](https://www.iana.org/domains/root/db/ryukyu.html) |
-| .sa | country-code | Communications and Information Technology Commission | [Details](https://www.iana.org/domains/root/db/sa.html) |
+| .sa | country-code | Communications, Space and Technology Commission | [Details](https://www.iana.org/domains/root/db/sa.html) |
 | .saarland | generic | dotSaarland GmbH | [Details](https://www.iana.org/domains/root/db/saarland.html) |
 | .safe | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/safe.html) |
 | .safety | generic | Safety Registry Services, LLC. | [Details](https://www.iana.org/domains/root/db/safety.html) |
@@ -1532,7 +1532,7 @@ Updated at 2023-08-31T00:27:31.476451, from [IANA Root Zone Database](http://www
 | ‏.المغرب‎ | country-code | Agence Nationale de Réglementation des Télécommunications (ANRT) | [Details](https://www.iana.org/domains/root/db/xn--mgbc0a9azcg.html) |
 | ‏.ابوظبي‎ | generic | Abu Dhabi Systems and Information Centre | [Details](https://www.iana.org/domains/root/db/xn--mgbca7dzdo.html) |
 | ‏.البحرين‎ | country-code | Telecommunications Regulatory Authority (TRA) | [Details](https://www.iana.org/domains/root/db/xn--mgbcpq6gpa1a.html) |
-| ‏.السعودية‎ | country-code | Communications and Information Technology Commission | [Details](https://www.iana.org/domains/root/db/xn--mgberp4a5d4ar.html) |
+| ‏.السعودية‎ | country-code | Communications, Space and Technology Commission | [Details](https://www.iana.org/domains/root/db/xn--mgberp4a5d4ar.html) |
 | ‏.ڀارت‎ | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--mgbgu82a.html) |
 | ‏.كاثوليك‎ | generic | Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication) | [Details](https://www.iana.org/domains/root/db/xn--mgbi4ecexp.html) |
 | ‏.سودان‎ | country-code | Sudan Internet Society | [Details](https://www.iana.org/domains/root/db/xn--mgbpl2fh.html) |
