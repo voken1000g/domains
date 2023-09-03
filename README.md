@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-09-03T00:29:26.788528, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -153,7 +153,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .berlin | generic | dotBERLIN GmbH & Co. KG | [Details](https://www.iana.org/domains/root/db/berlin.html) |
 | .best | generic | BestTLD Pty Ltd | [Details](https://www.iana.org/domains/root/db/best.html) |
 | .bestbuy | generic | BBY Solutions, Inc. | [Details](https://www.iana.org/domains/root/db/bestbuy.html) |
-| .bet | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/bet.html) |
+| .bet | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/bet.html) |
 | .bf | country-code | Autorité de Régulation des Communications Electroniques et des Postes (ARCEP) | [Details](https://www.iana.org/domains/root/db/bf.html) |
 | .bg | country-code | Register.BG | [Details](https://www.iana.org/domains/root/db/bg.html) |
 | .bh | country-code | Telecommunications Regulatory Authority (TRA) | [Details](https://www.iana.org/domains/root/db/bh.html) |
@@ -164,17 +164,17 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .bike | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/bike.html) |
 | .bing | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/bing.html) |
 | .bingo | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/bingo.html) |
-| .bio | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/bio.html) |
+| .bio | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/bio.html) |
 | .biz | generic-restricted | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/biz.html) |
 | .bj | country-code | Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN) | [Details](https://www.iana.org/domains/root/db/bj.html) |
 | .bl | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/bl.html) |
-| .black | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/black.html) |
+| .black | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/black.html) |
 | .blackfriday | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/blackfriday.html) |
 | .blanco | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/blanco.html) |
 | .blockbuster | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/blockbuster.html) |
 | .blog | generic | Knock Knock WHOIS There, LLC | [Details](https://www.iana.org/domains/root/db/blog.html) |
 | .bloomberg | generic | Bloomberg IP Holdings LLC | [Details](https://www.iana.org/domains/root/db/bloomberg.html) |
-| .blue | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/blue.html) |
+| .blue | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/blue.html) |
 | .bm | country-code | Registry General Department, Ministry of Home Affairs | [Details](https://www.iana.org/domains/root/db/bm.html) |
 | .bms | generic | Bristol-Myers Squibb Company | [Details](https://www.iana.org/domains/root/db/bms.html) |
 | .bmw | generic | Bayerische Motoren Werke Aktiengesellschaft | [Details](https://www.iana.org/domains/root/db/bmw.html) |
@@ -568,7 +568,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .grainger | generic | Grainger Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/grainger.html) |
 | .graphics | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/graphics.html) |
 | .gratis | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/gratis.html) |
-| .green | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/green.html) |
+| .green | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/green.html) |
 | .gripe | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/gripe.html) |
 | .grocery | generic | Wal-Mart Stores, Inc. | [Details](https://www.iana.org/domains/root/db/grocery.html) |
 | .group | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/group.html) |
@@ -652,7 +652,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .inc | generic | Intercap Registry Inc. | [Details](https://www.iana.org/domains/root/db/inc.html) |
 | .industries | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/industries.html) |
 | .infiniti | generic | NISSAN MOTOR CO., LTD. | [Details](https://www.iana.org/domains/root/db/infiniti.html) |
-| .info | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/info.html) |
+| .info | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/info.html) |
 | .ing | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/ing.html) |
 | .ink | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/ink.html) |
 | .institute | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/institute.html) |
@@ -714,7 +714,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .ki | country-code | Ministry of Communications, Transport, and Tourism Development | [Details](https://www.iana.org/domains/root/db/ki.html) |
 | .kia | generic | KIA MOTORS CORPORATION | [Details](https://www.iana.org/domains/root/db/kia.html) |
 | .kids | generic | DotKids Foundation Limited | [Details](https://www.iana.org/domains/root/db/kids.html) |
-| .kim | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/kim.html) |
+| .kim | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/kim.html) |
 | .kinder | generic | Ferrero Trading Lux S.A. | [Details](https://www.iana.org/domains/root/db/kinder.html) |
 | .kindle | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/kindle.html) |
 | .kitchen | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/kitchen.html) |
@@ -761,7 +761,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .legal | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/legal.html) |
 | .lego | generic | LEGO Juris A/S | [Details](https://www.iana.org/domains/root/db/lego.html) |
 | .lexus | generic | TOYOTA MOTOR CORPORATION | [Details](https://www.iana.org/domains/root/db/lexus.html) |
-| .lgbt | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/lgbt.html) |
+| .lgbt | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/lgbt.html) |
 | .li | country-code | SWITCH The Swiss Education & Research Network | [Details](https://www.iana.org/domains/root/db/li.html) |
 | .liaison | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/liaison.html) |
 | .lidl | generic | Schwarz Domains und Services GmbH & Co. KG | [Details](https://www.iana.org/domains/root/db/lidl.html) |
@@ -781,7 +781,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .living | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/living.html) |
 | .lixil | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lixil.html) |
 | .lk | country-code | Council for Information TechnologyLK Domain Registrar | [Details](https://www.iana.org/domains/root/db/lk.html) |
-| .llc | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/llc.html) |
+| .llc | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/llc.html) |
 | .llp | generic | Intercap Registry Inc. | [Details](https://www.iana.org/domains/root/db/llp.html) |
 | .loan | generic | dot Loan Limited | [Details](https://www.iana.org/domains/root/db/loan.html) |
 | .loans | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/loans.html) |
@@ -791,7 +791,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .lol | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/lol.html) |
 | .london | generic | Dot London Domains Limited | [Details](https://www.iana.org/domains/root/db/london.html) |
 | .lotte | generic | Lotte Holdings Co., Ltd. | [Details](https://www.iana.org/domains/root/db/lotte.html) |
-| .lotto | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/lotto.html) |
+| .lotto | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/lotto.html) |
 | .love | generic | Merchant Law Group LLP | [Details](https://www.iana.org/domains/root/db/love.html) |
 | .lpl | generic | LPL Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/lpl.html) |
 | .lplfinancial | generic | LPL Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/lplfinancial.html) |
@@ -860,7 +860,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .mma | generic | MMA IARD | [Details](https://www.iana.org/domains/root/db/mma.html) |
 | .mn | country-code | Datacom Co., Ltd. | [Details](https://www.iana.org/domains/root/db/mn.html) |
 | .mo | country-code | Macao Post and Telecommunications Bureau (CTT) | [Details](https://www.iana.org/domains/root/db/mo.html) |
-| .mobi | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/mobi.html) |
+| .mobi | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/mobi.html) |
 | .mobile | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/mobile.html) |
 | .mobily | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mobily.html) |
 | .moda | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/moda.html) |
@@ -971,7 +971,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .oracle | generic | Oracle Corporation | [Details](https://www.iana.org/domains/root/db/oracle.html) |
 | .orange | generic | Orange Brand Services Limited | [Details](https://www.iana.org/domains/root/db/orange.html) |
 | .org | generic | Public Interest Registry (PIR) | [Details](https://www.iana.org/domains/root/db/org.html) |
-| .organic | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/organic.html) |
+| .organic | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/organic.html) |
 | .orientexpress | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/orientexpress.html) |
 | .origins | generic | The Estée Lauder Companies Inc. | [Details](https://www.iana.org/domains/root/db/origins.html) |
 | .osaka | generic | Osaka Registry Co., Ltd. | [Details](https://www.iana.org/domains/root/db/osaka.html) |
@@ -992,7 +992,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .pay | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/pay.html) |
 | .pccw | generic | PCCW Enterprises Limited | [Details](https://www.iana.org/domains/root/db/pccw.html) |
 | .pe | country-code | Red Cientifica Peruana | [Details](https://www.iana.org/domains/root/db/pe.html) |
-| .pet | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/pet.html) |
+| .pet | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/pet.html) |
 | .pf | country-code | Gouvernement de la Polynésie française | [Details](https://www.iana.org/domains/root/db/pf.html) |
 | .pfizer | generic | Pfizer Inc. | [Details](https://www.iana.org/domains/root/db/pfizer.html) |
 | .pg | country-code | PNG DNS AdministrationVice Chancellors OfficeThe Papua New Guinea University of Technology | [Details](https://www.iana.org/domains/root/db/pg.html) |
@@ -1012,7 +1012,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .pid | generic | Top Level Spectrum, Inc. | [Details](https://www.iana.org/domains/root/db/pid.html) |
 | .pin | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/pin.html) |
 | .ping | generic | Ping Registry Provider, Inc. | [Details](https://www.iana.org/domains/root/db/ping.html) |
-| .pink | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/pink.html) |
+| .pink | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/pink.html) |
 | .pioneer | generic | Pioneer Corporation | [Details](https://www.iana.org/domains/root/db/pioneer.html) |
 | .pizza | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/pizza.html) |
 | .pk | country-code | PKNIC | [Details](https://www.iana.org/domains/root/db/pk.html) |
@@ -1026,7 +1026,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .pn | country-code | Pitcairn Island Administration | [Details](https://www.iana.org/domains/root/db/pn.html) |
 | .pnc | generic | PNC Domain Co., LLC | [Details](https://www.iana.org/domains/root/db/pnc.html) |
 | .pohl | generic | Deutsche Vermögensberatung Aktiengesellschaft DVAG | [Details](https://www.iana.org/domains/root/db/pohl.html) |
-| .poker | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/poker.html) |
+| .poker | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/poker.html) |
 | .politie | generic | Politie Nederland | [Details](https://www.iana.org/domains/root/db/politie.html) |
 | .porn | generic | ICM Registry PN LLC | [Details](https://www.iana.org/domains/root/db/porn.html) |
 | .post | sponsored | Universal Postal Union | [Details](https://www.iana.org/domains/root/db/post.html) |
@@ -1035,12 +1035,12 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .praxi | generic | Praxi S.p.A. | [Details](https://www.iana.org/domains/root/db/praxi.html) |
 | .press | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/press.html) |
 | .prime | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/prime.html) |
-| .pro | generic-restricted | Afilias Limited | [Details](https://www.iana.org/domains/root/db/pro.html) |
+| .pro | generic-restricted | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/pro.html) |
 | .prod | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/prod.html) |
 | .productions | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/productions.html) |
 | .prof | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/prof.html) |
 | .progressive | generic | Progressive Casualty Insurance Company | [Details](https://www.iana.org/domains/root/db/progressive.html) |
-| .promo | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/promo.html) |
+| .promo | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/promo.html) |
 | .properties | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/properties.html) |
 | .property | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/property.html) |
 | .protection | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/protection.html) |
@@ -1066,7 +1066,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .realtor | generic | Real Estate Domains LLC | [Details](https://www.iana.org/domains/root/db/realtor.html) |
 | .realty | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/realty.html) |
 | .recipes | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/recipes.html) |
-| .red | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/red.html) |
+| .red | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/red.html) |
 | .redstone | generic | Redstone Haute Couture Co., Ltd. | [Details](https://www.iana.org/domains/root/db/redstone.html) |
 | .redumbrella | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/redumbrella.html) |
 | .rehab | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/rehab.html) |
@@ -1165,7 +1165,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .shaw | generic | Shaw Cablesystems G.P. | [Details](https://www.iana.org/domains/root/db/shaw.html) |
 | .shell | generic | Shell Information Technology International Inc | [Details](https://www.iana.org/domains/root/db/shell.html) |
 | .shia | generic | Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti. | [Details](https://www.iana.org/domains/root/db/shia.html) |
-| .shiksha | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/shiksha.html) |
+| .shiksha | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/shiksha.html) |
 | .shoes | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/shoes.html) |
 | .shop | generic | GMO Registry, Inc. | [Details](https://www.iana.org/domains/root/db/shop.html) |
 | .shopping | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/shopping.html) |
@@ -1180,7 +1180,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .site | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/site.html) |
 | .sj | country-code | Norid A/S | [Details](https://www.iana.org/domains/root/db/sj.html) |
 | .sk | country-code | SK-NIC, a.s. | [Details](https://www.iana.org/domains/root/db/sk.html) |
-| .ski | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/ski.html) |
+| .ski | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/ski.html) |
 | .skin | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/skin.html) |
 | .sky | generic | Sky International AG | [Details](https://www.iana.org/domains/root/db/sky.html) |
 | .skype | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/skype.html) |
@@ -1384,7 +1384,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .wanggou | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/wanggou.html) |
 | .warman | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/warman.html) |
 | .watch | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/watch.html) |
-| .watches | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/watches.html) |
+| .watches | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/watches.html) |
 | .weather | generic | International Business Machines Corporation | [Details](https://www.iana.org/domains/root/db/weather.html) |
 | .weatherchannel | generic | International Business Machines Corporation | [Details](https://www.iana.org/domains/root/db/weatherchannel.html) |
 | .webcam | generic | dot Webcam Limited | [Details](https://www.iana.org/domains/root/db/webcam.html) |
@@ -1442,7 +1442,7 @@ Updated at 2023-09-02T00:26:25.079022, from [IANA Root Zone Database](http://www
 | .公司 | generic | China Internet Network Information Center(CNNIC) | [Details](https://www.iana.org/domains/root/db/xn--55qx5d.html) |
 | .香格里拉 | generic | Shangri-La International Hotel Management Limited | [Details](https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html) |
 | .网站 | generic | Global Website TLD Asia Limited | [Details](https://www.iana.org/domains/root/db/xn--5tzm5g.html) |
-| .移动 | generic | Afilias Limited | [Details](https://www.iana.org/domains/root/db/xn--6frz82g.html) |
+| .移动 | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/xn--6frz82g.html) |
 | .我爱你 | generic | Tycoon Treasure Limited | [Details](https://www.iana.org/domains/root/db/xn--6qq986b3xl.html) |
 | .москва | generic | Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID) | [Details](https://www.iana.org/domains/root/db/xn--80adxhks.html) |
 | .испытание | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--80akhbyknj4f.html) |
