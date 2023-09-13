@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-09-12T00:26:37.753708, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-09-13T00:28:05.920051, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1309,7 +1309,7 @@ Updated at 2023-09-12T00:26:37.753708, from [IANA Root Zone Database](http://www
 | .trade | generic | Elite Registry Limited | [Details](https://www.iana.org/domains/root/db/trade.html) |
 | .trading | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/trading.html) |
 | .training | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/training.html) |
-| .travel | sponsored | Dog	Beach, LLC | [Details](https://www.iana.org/domains/root/db/travel.html) |
+| .travel | sponsored | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/travel.html) |
 | .travelchannel | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/travelchannel.html) |
 | .travelers | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/travelers.html) |
 | .travelersinsurance | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/travelersinsurance.html) |
