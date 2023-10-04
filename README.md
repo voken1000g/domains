@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-10-03T00:28:40.994370, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-10-04T00:28:43.637421, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1439,7 +1439,7 @@ Updated at 2023-10-03T00:28:40.994370, from [IANA Root Zone Database](http://www
 | ‏.موقع‎ | generic | Helium TLDs Ltd | [Details](https://www.iana.org/domains/root/db/xn--4gbrim.html) |
 | .বাংলা | country-code | Posts and Telecommunications Division | [Details](https://www.iana.org/domains/root/db/xn--54b7fta0cc.html) |
 | .公益 | generic | China Organizational Name Administration Center | [Details](https://www.iana.org/domains/root/db/xn--55qw42g.html) |
-| .公司 | generic | China Internet Network Information Center(CNNIC) | [Details](https://www.iana.org/domains/root/db/xn--55qx5d.html) |
+| .公司 | generic | China Internet Network Information Center (CNNIC) | [Details](https://www.iana.org/domains/root/db/xn--55qx5d.html) |
 | .香格里拉 | generic | Shangri-La International Hotel Management Limited | [Details](https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html) |
 | .网站 | generic | Global Website TLD Asia Limited | [Details](https://www.iana.org/domains/root/db/xn--5tzm5g.html) |
 | .移动 | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/xn--6frz82g.html) |
@@ -1500,7 +1500,7 @@ Updated at 2023-10-03T00:28:40.994370, from [IANA Root Zone Database](http://www
 | .网店 | generic | Zodiac Taurus Ltd. | [Details](https://www.iana.org/domains/root/db/xn--hxt814e.html) |
 | .संगठन | generic | Public Interest Registry | [Details](https://www.iana.org/domains/root/db/xn--i1b6b1a6a2e.html) |
 | .餐厅 | generic | Internet DotTrademark Organisation Limited | [Details](https://www.iana.org/domains/root/db/xn--imr513n.html) |
-| .网络 | generic | China Internet Network Information Center(CNNIC) | [Details](https://www.iana.org/domains/root/db/xn--io0a7i.html) |
+| .网络 | generic | China Internet Network Information Center (CNNIC) | [Details](https://www.iana.org/domains/root/db/xn--io0a7i.html) |
 | .ком | generic | VeriSign Sarl | [Details](https://www.iana.org/domains/root/db/xn--j1aef.html) |
 | .укр | country-code | Ukrainian Network Information Centre (UANIC), Inc. | [Details](https://www.iana.org/domains/root/db/xn--j1amh.html) |
 | .香港 | country-code | Hong Kong Internet Registration Corporation Ltd. | [Details](https://www.iana.org/domains/root/db/xn--j6w193g.html) |
