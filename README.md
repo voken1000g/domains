@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-10-18T00:28:45.282367, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-10-19T00:28:31.907224, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -284,7 +284,7 @@ Updated at 2023-10-18T00:28:45.282367, from [IANA Root Zone Database](http://www
 | .citi | generic | Citigroup Inc. | [Details](https://www.iana.org/domains/root/db/citi.html) |
 | .citic | generic | CITIC Group Corporation | [Details](https://www.iana.org/domains/root/db/citic.html) |
 | .city | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/city.html) |
-| .cityeats | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/cityeats.html) |
+| .cityeats | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/cityeats.html) |
 | .ck | country-code | Telecom Cook Islands Ltd. | [Details](https://www.iana.org/domains/root/db/ck.html) |
 | .cl | country-code | NIC Chile (University of Chile) | [Details](https://www.iana.org/domains/root/db/cl.html) |
 | .claims | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/claims.html) |
@@ -500,7 +500,7 @@ Updated at 2023-10-18T00:28:45.282367, from [IANA Root Zone Database](http://www
 | .fresenius | generic | Fresenius Immobilien-Verwaltungs-GmbH | [Details](https://www.iana.org/domains/root/db/fresenius.html) |
 | .frl | generic | FRLregistry B.V. | [Details](https://www.iana.org/domains/root/db/frl.html) |
 | .frogans | generic | OP3FT | [Details](https://www.iana.org/domains/root/db/frogans.html) |
-| .frontdoor | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/frontdoor.html) |
+| .frontdoor | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/frontdoor.html) |
 | .frontier | generic | Frontier Communications Corporation | [Details](https://www.iana.org/domains/root/db/frontier.html) |
 | .ftr | generic | Frontier Communications Corporation | [Details](https://www.iana.org/domains/root/db/ftr.html) |
 | .fujitsu | generic | Fujitsu Limited | [Details](https://www.iana.org/domains/root/db/fujitsu.html) |
