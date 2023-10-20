@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-10-19T00:28:31.907224, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-10-20T00:28:34.319007, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -368,7 +368,7 @@ Updated at 2023-10-19T00:28:31.907224, from [IANA Root Zone Database](http://www
 | .democrat | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/democrat.html) |
 | .dental | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/dental.html) |
 | .dentist | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/dentist.html) |
-| .desi | generic | Desi Networks LLC | [Details](https://www.iana.org/domains/root/db/desi.html) |
+| .desi | generic | Emergency Back-End Registry Operator Program - ICANN | [Details](https://www.iana.org/domains/root/db/desi.html) |
 | .design | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/design.html) |
 | .dev | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/dev.html) |
 | .dhl | generic | Deutsche Post AG | [Details](https://www.iana.org/domains/root/db/dhl.html) |
