@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-10-24T00:28:30.053861, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-10-25T00:28:28.931769, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -257,7 +257,7 @@ Updated at 2023-10-24T00:28:30.053861, from [IANA Root Zone Database](http://www
 | .cd | country-code | Office Congolais des Postes et Télécommunications - OCPT | [Details](https://www.iana.org/domains/root/db/cd.html) |
 | .ceb | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/ceb.html) |
 | .center | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/center.html) |
-| .ceo | generic | CEOTLD Pty Ltd | [Details](https://www.iana.org/domains/root/db/ceo.html) |
+| .ceo | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/ceo.html) |
 | .cern | generic | European Organization for Nuclear Research ("CERN") | [Details](https://www.iana.org/domains/root/db/cern.html) |
 | .cf | country-code | Societe Centrafricaine de Telecommunications (SOCATEL) | [Details](https://www.iana.org/domains/root/db/cf.html) |
 | .cfa | generic | CFA Institute | [Details](https://www.iana.org/domains/root/db/cfa.html) |
