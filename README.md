@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-10-25T00:28:28.931769, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-10-26T00:27:37.954280, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -252,7 +252,7 @@ Updated at 2023-10-25T00:28:28.931769, from [IANA Root Zone Database](http://www
 | .cba | generic | COMMONWEALTH BANK OF AUSTRALIA | [Details](https://www.iana.org/domains/root/db/cba.html) |
 | .cbn | generic | The Christian Broadcasting Network, Inc. | [Details](https://www.iana.org/domains/root/db/cbn.html) |
 | .cbre | generic | CBRE, Inc. | [Details](https://www.iana.org/domains/root/db/cbre.html) |
-| .cbs | generic | CBS Domains Inc. | [Details](https://www.iana.org/domains/root/db/cbs.html) |
+| .cbs | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/cbs.html) |
 | .cc | country-code | eNIC Cocos (Keeling) Islands Pty.Ltd. d/b/a Island Internet Services | [Details](https://www.iana.org/domains/root/db/cc.html) |
 | .cd | country-code | Office Congolais des Postes et Télécommunications - OCPT | [Details](https://www.iana.org/domains/root/db/cd.html) |
 | .ceb | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/ceb.html) |
@@ -1171,7 +1171,7 @@ Updated at 2023-10-25T00:28:28.931769, from [IANA Root Zone Database](http://www
 | .shopping | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/shopping.html) |
 | .shouji | generic | QIHOO 360 TECHNOLOGY CO. LTD. | [Details](https://www.iana.org/domains/root/db/shouji.html) |
 | .show | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/show.html) |
-| .showtime | generic | CBS Domains Inc. | [Details](https://www.iana.org/domains/root/db/showtime.html) |
+| .showtime | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/showtime.html) |
 | .shriram | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/shriram.html) |
 | .si | country-code | Academic and Research Network of Slovenia (ARNES) | [Details](https://www.iana.org/domains/root/db/si.html) |
 | .silk | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/silk.html) |
