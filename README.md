@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-11-01T00:30:48.580534, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-11-02T00:28:35.525413, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1042,7 +1042,7 @@ Updated at 2023-11-01T00:30:48.580534, from [IANA Root Zone Database](http://www
 | .progressive | generic | Progressive Casualty Insurance Company | [Details](https://www.iana.org/domains/root/db/progressive.html) |
 | .promo | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/promo.html) |
 | .properties | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/properties.html) |
-| .property | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/property.html) |
+| .property | generic | Digital Property Infrastructure Limited | [Details](https://www.iana.org/domains/root/db/property.html) |
 | .protection | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/protection.html) |
 | .pru | generic | Prudential Financial, Inc. | [Details](https://www.iana.org/domains/root/db/pru.html) |
 | .prudential | generic | Prudential Financial, Inc. | [Details](https://www.iana.org/domains/root/db/prudential.html) |
