@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-11-02T00:28:35.525413, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-11-03T00:29:06.083634, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -715,7 +715,7 @@ Updated at 2023-11-02T00:28:35.525413, from [IANA Root Zone Database](http://www
 | .kia | generic | KIA MOTORS CORPORATION | [Details](https://www.iana.org/domains/root/db/kia.html) |
 | .kids | generic | DotKids Foundation Limited | [Details](https://www.iana.org/domains/root/db/kids.html) |
 | .kim | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/kim.html) |
-| .kinder | generic | Ferrero Trading Lux S.A. | [Details](https://www.iana.org/domains/root/db/kinder.html) |
+| .kinder | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/kinder.html) |
 | .kindle | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/kindle.html) |
 | .kitchen | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/kitchen.html) |
 | .kiwi | generic | DOT KIWI LIMITED | [Details](https://www.iana.org/domains/root/db/kiwi.html) |
@@ -1094,7 +1094,7 @@ Updated at 2023-11-02T00:28:35.525413, from [IANA Root Zone Database](http://www
 | .rip | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/rip.html) |
 | .rmit | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/rmit.html) |
 | .ro | country-code | National Institute for R&D in Informatics | [Details](https://www.iana.org/domains/root/db/ro.html) |
-| .rocher | generic | Ferrero Trading Lux S.A. | [Details](https://www.iana.org/domains/root/db/rocher.html) |
+| .rocher | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/rocher.html) |
 | .rocks | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/rocks.html) |
 | .rodeo | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/rodeo.html) |
 | .rogers | generic | Rogers Communications Canada Inc. | [Details](https://www.iana.org/domains/root/db/rogers.html) |
