@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-11-08T00:28:55.261479, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-11-09T00:28:59.205705, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
