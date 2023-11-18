@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-11-17T00:30:05.023425, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-11-18T00:29:30.627559, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -433,7 +433,7 @@ Updated at 2023-11-17T00:30:05.023425, from [IANA Root Zone Database](http://www
 | .estate | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/estate.html) |
 | .esurance | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/esurance.html) |
 | .et | country-code | Ethio telecom | [Details](https://www.iana.org/domains/root/db/et.html) |
-| .etisalat | generic | Emirates Telecommunications Corporation (trading as Etisalat) | [Details](https://www.iana.org/domains/root/db/etisalat.html) |
+| .etisalat | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/etisalat.html) |
 | .eu | country-code | EURid vzw/asbl | [Details](https://www.iana.org/domains/root/db/eu.html) |
 | .eurovision | generic | European Broadcasting Union (EBU) | [Details](https://www.iana.org/domains/root/db/eurovision.html) |
 | .eus | generic | Puntueus Fundazioa | [Details](https://www.iana.org/domains/root/db/eus.html) |
@@ -1520,7 +1520,7 @@ Updated at 2023-11-17T00:30:05.023425, from [IANA Root Zone Database](http://www
 | ‏.ارامكو‎ | generic | Aramco Services Company | [Details](https://www.iana.org/domains/root/db/xn--mgba3a3ejt.html) |
 | ‏.ایران‎ | country-code | Institute for Research in Fundamental Sciences (IPM) | [Details](https://www.iana.org/domains/root/db/xn--mgba3a4f16a.html) |
 | ‏.العليان‎ | generic | Crescent Holding GmbH | [Details](https://www.iana.org/domains/root/db/xn--mgba7c0bbn0a.html) |
-| ‏.اتصالات‎ | generic | Emirates Telecommunications Corporation (trading as Etisalat) | [Details](https://www.iana.org/domains/root/db/xn--mgbaakc7dvf.html) |
+| ‏.اتصالات‎ | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--mgbaakc7dvf.html) |
 | ‏.امارات‎ | country-code | Telecommunications and Digital Government Regulatory Authority (TDRA) | [Details](https://www.iana.org/domains/root/db/xn--mgbaam7a8h.html) |
 | ‏.بازار‎ | generic | CORE Association | [Details](https://www.iana.org/domains/root/db/xn--mgbab2bd.html) |
 | ‏.موريتانيا‎ | country-code | Université de Nouakchott Al Aasriya | [Details](https://www.iana.org/domains/root/db/xn--mgbah1a3hjkrd.html) |
