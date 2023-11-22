@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-11-21T00:31:05.383446, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-11-22T00:31:41.979690, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1369,7 +1369,7 @@ Updated at 2023-11-21T00:31:05.383446, from [IANA Root Zone Database](http://www
 | .vlaanderen | generic | DNS.be vzw | [Details](https://www.iana.org/domains/root/db/vlaanderen.html) |
 | .vn | country-code | Viet Nam Internet Network Information Center (VNNIC) | [Details](https://www.iana.org/domains/root/db/vn.html) |
 | .vodka | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/vodka.html) |
-| .volkswagen | generic | Volkswagen Group of America Inc. | [Details](https://www.iana.org/domains/root/db/volkswagen.html) |
+| .volkswagen | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/volkswagen.html) |
 | .volvo | generic | Volvo Holding Sverige Aktiebolag | [Details](https://www.iana.org/domains/root/db/volvo.html) |
 | .vote | generic | Monolith Registry LLC | [Details](https://www.iana.org/domains/root/db/vote.html) |
 | .voting | generic | Valuetainment Corp. | [Details](https://www.iana.org/domains/root/db/voting.html) |
