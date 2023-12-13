@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2023-12-12T00:31:02.921029, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2023-12-13T00:30:41.538821, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1130,7 +1130,7 @@ Updated at 2023-12-12T00:31:02.921029, from [IANA Root Zone Database](http://www
 | .sbi | generic | STATE BANK OF INDIA | [Details](https://www.iana.org/domains/root/db/sbi.html) |
 | .sbs | generic | SPECIAL BROADCASTING SERVICE CORPORATION | [Details](https://www.iana.org/domains/root/db/sbs.html) |
 | .sc | country-code | VCS Pty Ltd | [Details](https://www.iana.org/domains/root/db/sc.html) |
-| .sca | generic | SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ) | [Details](https://www.iana.org/domains/root/db/sca.html) |
+| .sca | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/sca.html) |
 | .scb | generic | The Siam Commercial Bank Public Company Limited ("SCB") | [Details](https://www.iana.org/domains/root/db/scb.html) |
 | .schaeffler | generic | Schaeffler Technologies AG & Co. KG | [Details](https://www.iana.org/domains/root/db/schaeffler.html) |
 | .schmidt | generic | SCHMIDT GROUPE S.A.S. | [Details](https://www.iana.org/domains/root/db/schmidt.html) |
