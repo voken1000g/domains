@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-01-04T00:30:46.952082, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-01-05T00:30:51.315686, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -592,7 +592,7 @@ Updated at 2024-01-04T00:30:46.952082, from [IANA Root Zone Database](http://www
 | .hdfcbank | generic | HDFC Bank Limited | [Details](https://www.iana.org/domains/root/db/hdfcbank.html) |
 | .health | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/health.html) |
 | .healthcare | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/healthcare.html) |
-| .help | generic | UNR Corp. | [Details](https://www.iana.org/domains/root/db/help.html) |
+| .help | generic | Innovation Service Ltd | [Details](https://www.iana.org/domains/root/db/help.html) |
 | .helsinki | generic | City of Helsinki | [Details](https://www.iana.org/domains/root/db/helsinki.html) |
 | .here | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/here.html) |
 | .hermes | generic | Hermes International | [Details](https://www.iana.org/domains/root/db/hermes.html) |
