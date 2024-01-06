@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-01-05T00:30:51.315686, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-01-06T00:30:20.866110, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1299,7 +1299,7 @@ Updated at 2024-01-05T00:30:51.315686, from [IANA Root Zone Database](http://www
 | .top | generic | Jiangsu Bangning Science & Technology Co.,Ltd. | [Details](https://www.iana.org/domains/root/db/top.html) |
 | .toray | generic | Toray Industries, Inc. | [Details](https://www.iana.org/domains/root/db/toray.html) |
 | .toshiba | generic | TOSHIBA Corporation | [Details](https://www.iana.org/domains/root/db/toshiba.html) |
-| .total | generic | Total SA | [Details](https://www.iana.org/domains/root/db/total.html) |
+| .total | generic | TotalEnergies SE | [Details](https://www.iana.org/domains/root/db/total.html) |
 | .tours | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/tours.html) |
 | .town | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/town.html) |
 | .toyota | generic | TOYOTA MOTOR CORPORATION | [Details](https://www.iana.org/domains/root/db/toyota.html) |
