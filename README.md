@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-01-09T00:31:31.420769, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-01-10T00:31:14.342498, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -380,7 +380,7 @@ Updated at 2024-01-09T00:31:31.420769, from [IANA Root Zone Database](http://www
 | .discount | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/discount.html) |
 | .discover | generic | Discover Financial Services | [Details](https://www.iana.org/domains/root/db/discover.html) |
 | .dish | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/dish.html) |
-| .diy | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/diy.html) |
+| .diy | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/diy.html) |
 | .dj | country-code | Djibouti Telecom S.A | [Details](https://www.iana.org/domains/root/db/dj.html) |
 | .dk | country-code | Dansk Internet Forum | [Details](https://www.iana.org/domains/root/db/dk.html) |
 | .dm | country-code | DotDM Corporation | [Details](https://www.iana.org/domains/root/db/dm.html) |
@@ -486,7 +486,7 @@ Updated at 2024-01-09T00:31:31.420769, from [IANA Root Zone Database](http://www
 | .fm | country-code | FSM Telecommunications Corporation | [Details](https://www.iana.org/domains/root/db/fm.html) |
 | .fo | country-code | FO Council | [Details](https://www.iana.org/domains/root/db/fo.html) |
 | .foo | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/foo.html) |
-| .food | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/food.html) |
+| .food | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/food.html) |
 | .foodnetwork | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/foodnetwork.html) |
 | .football | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/football.html) |
 | .ford | generic | Ford Motor Company | [Details](https://www.iana.org/domains/root/db/ford.html) |
@@ -767,7 +767,7 @@ Updated at 2024-01-09T00:31:31.420769, from [IANA Root Zone Database](http://www
 | .lidl | generic | Schwarz Domains und Services GmbH & Co. KG | [Details](https://www.iana.org/domains/root/db/lidl.html) |
 | .life | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/life.html) |
 | .lifeinsurance | generic | American Council of Life Insurers | [Details](https://www.iana.org/domains/root/db/lifeinsurance.html) |
-| .lifestyle | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/lifestyle.html) |
+| .lifestyle | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/lifestyle.html) |
 | .lighting | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/lighting.html) |
 | .like | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/like.html) |
 | .lilly | generic | Eli Lilly and Company | [Details](https://www.iana.org/domains/root/db/lilly.html) |
@@ -778,7 +778,7 @@ Updated at 2024-01-09T00:31:31.420769, from [IANA Root Zone Database](http://www
 | .link | generic | Nova Registry Ltd. | [Details](https://www.iana.org/domains/root/db/link.html) |
 | .lipsy | generic | Lipsy Ltd | [Details](https://www.iana.org/domains/root/db/lipsy.html) |
 | .live | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/live.html) |
-| .living | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/living.html) |
+| .living | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/living.html) |
 | .lixil | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lixil.html) |
 | .lk | country-code | Council for Information TechnologyLK Domain Registrar | [Details](https://www.iana.org/domains/root/db/lk.html) |
 | .llc | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/llc.html) |
@@ -1341,7 +1341,7 @@ Updated at 2024-01-09T00:31:31.420769, from [IANA Root Zone Database](http://www
 | .uz | country-code | Single Integrator for Creation and Support of State Information Systems UZINFOCOM | [Details](https://www.iana.org/domains/root/db/uz.html) |
 | .va | country-code | Holy See - Vatican City State | [Details](https://www.iana.org/domains/root/db/va.html) |
 | .vacations | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/vacations.html) |
-| .vana | generic | Lifestyle Domain Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/vana.html) |
+| .vana | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/vana.html) |
 | .vanguard | generic | The Vanguard Group, Inc. | [Details](https://www.iana.org/domains/root/db/vanguard.html) |
 | .vc | country-code | Ministry of Telecommunications, Science, Technology and Industry | [Details](https://www.iana.org/domains/root/db/vc.html) |
 | .ve | country-code | Comisión Nacional de Telecomunicaciones (CONATEL) | [Details](https://www.iana.org/domains/root/db/ve.html) |
