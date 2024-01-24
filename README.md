@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-01-23T00:31:44.015696, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-01-24T00:31:55.122728, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -125,7 +125,7 @@ Updated at 2024-01-23T00:31:44.015696, from [IANA Root Zone Database](http://www
 | .baby | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/baby.html) |
 | .baidu | generic | Baidu, Inc. | [Details](https://www.iana.org/domains/root/db/baidu.html) |
 | .banamex | generic | Citigroup Inc. | [Details](https://www.iana.org/domains/root/db/banamex.html) |
-| .bananarepublic | generic | The Gap, Inc. | [Details](https://www.iana.org/domains/root/db/bananarepublic.html) |
+| .bananarepublic | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/bananarepublic.html) |
 | .band | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/band.html) |
 | .bank | generic | fTLD Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/bank.html) |
 | .bar | generic | Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable | [Details](https://www.iana.org/domains/root/db/bar.html) |
@@ -785,7 +785,7 @@ Updated at 2024-01-23T00:31:44.015696, from [IANA Root Zone Database](http://www
 | .llp | generic | Intercap Registry Inc. | [Details](https://www.iana.org/domains/root/db/llp.html) |
 | .loan | generic | dot Loan Limited | [Details](https://www.iana.org/domains/root/db/loan.html) |
 | .loans | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/loans.html) |
-| .locker | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/locker.html) |
+| .locker | generic | Orange Domains LLC | [Details](https://www.iana.org/domains/root/db/locker.html) |
 | .locus | generic | Locus Analytics LLC | [Details](https://www.iana.org/domains/root/db/locus.html) |
 | .loft | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/loft.html) |
 | .lol | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/lol.html) |
@@ -957,7 +957,7 @@ Updated at 2024-01-23T00:31:44.015696, from [IANA Root Zone Database](http://www
 | .okinawa | generic | BRregistry, Inc. | [Details](https://www.iana.org/domains/root/db/okinawa.html) |
 | .olayan | generic | Crescent Holding GmbH | [Details](https://www.iana.org/domains/root/db/olayan.html) |
 | .olayangroup | generic | Crescent Holding GmbH | [Details](https://www.iana.org/domains/root/db/olayangroup.html) |
-| .oldnavy | generic | The Gap, Inc. | [Details](https://www.iana.org/domains/root/db/oldnavy.html) |
+| .oldnavy | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/oldnavy.html) |
 | .ollo | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/ollo.html) |
 | .om | country-code | Telecommunications Regulatory Authority (TRA) | [Details](https://www.iana.org/domains/root/db/om.html) |
 | .omega | generic | The Swatch Group Ltd | [Details](https://www.iana.org/domains/root/db/omega.html) |
