@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-01-24T00:31:55.122728, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-01-25T00:31:51.624478, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -296,7 +296,7 @@ Updated at 2024-01-24T00:31:55.122728, from [IANA Root Zone Database](http://www
 | .cloud | generic | ARUBA PEC S.p.A. | [Details](https://www.iana.org/domains/root/db/cloud.html) |
 | .club | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/club.html) |
 | .clubmed | generic | Club Méditerranée S.A. | [Details](https://www.iana.org/domains/root/db/clubmed.html) |
-| .cm | country-code | Cameroon Telecommunications (CAMTEL) | [Details](https://www.iana.org/domains/root/db/cm.html) |
+| .cm | country-code | Agence Nationale des Technologies de l'Information et de la Communication (ANTIC) | [Details](https://www.iana.org/domains/root/db/cm.html) |
 | .cn | country-code | China Internet Network Information Center (CNNIC) | [Details](https://www.iana.org/domains/root/db/cn.html) |
 | .co | country-code | Ministry of Information and Communications Technologies (MinTIC) | [Details](https://www.iana.org/domains/root/db/co.html) |
 | .coach | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/coach.html) |
@@ -752,7 +752,7 @@ Updated at 2024-01-24T00:31:55.122728, from [IANA Root Zone Database](http://www
 | .latrobe | generic | La Trobe University | [Details](https://www.iana.org/domains/root/db/latrobe.html) |
 | .law | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/law.html) |
 | .lawyer | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/lawyer.html) |
-| .lb | country-code | Caretaker Operations | [Details](https://www.iana.org/domains/root/db/lb.html) |
+| .lb | country-code | Internet Society Lebanon | [Details](https://www.iana.org/domains/root/db/lb.html) |
 | .lc | country-code | University of Puerto Rico | [Details](https://www.iana.org/domains/root/db/lc.html) |
 | .lds | generic | IRI Domain Management, LLC | [Details](https://www.iana.org/domains/root/db/lds.html) |
 | .lease | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/lease.html) |
