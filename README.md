@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-02-05T00:30:33.688423, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-02-06T00:28:58.100162, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -711,7 +711,7 @@ Updated at 2024-02-05T00:30:33.688423, from [IANA Root Zone Database](http://www
 | .kfh | generic | Kuwait Finance House | [Details](https://www.iana.org/domains/root/db/kfh.html) |
 | .kg | country-code | AsiaInfo Telecommunication Enterprise | [Details](https://www.iana.org/domains/root/db/kg.html) |
 | .kh | country-code | Telecommunication Regulator of Cambodia (TRC) | [Details](https://www.iana.org/domains/root/db/kh.html) |
-| .ki | country-code | Ministry of Communications, Transport, and Tourism Development | [Details](https://www.iana.org/domains/root/db/ki.html) |
+| .ki | country-code | Ministry of Information, Communications and Transport (MICT) | [Details](https://www.iana.org/domains/root/db/ki.html) |
 | .kia | generic | KIA MOTORS CORPORATION | [Details](https://www.iana.org/domains/root/db/kia.html) |
 | .kids | generic | DotKids Foundation Limited | [Details](https://www.iana.org/domains/root/db/kids.html) |
 | .kim | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/kim.html) |
