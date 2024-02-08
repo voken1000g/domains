@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-02-08T00:29:04.873427, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -305,7 +305,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .college | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/college.html) |
 | .cologne | generic | dotKoeln GmbH | [Details](https://www.iana.org/domains/root/db/cologne.html) |
 | .com | generic | VeriSign Global Registry Services | [Details](https://www.iana.org/domains/root/db/com.html) |
-| .comcast | generic | Comcast IP Holdings I, LLC | [Details](https://www.iana.org/domains/root/db/comcast.html) |
+| .comcast | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/comcast.html) |
 | .commbank | generic | COMMONWEALTH BANK OF AUSTRALIA | [Details](https://www.iana.org/domains/root/db/commbank.html) |
 | .community | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/community.html) |
 | .company | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/company.html) |
@@ -616,7 +616,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .honeywell | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/honeywell.html) |
 | .horse | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/horse.html) |
 | .hospital | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/hospital.html) |
-| .host | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/host.html) |
+| .host | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/host.html) |
 | .hosting | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/hosting.html) |
 | .hot | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/hot.html) |
 | .hoteles | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/hoteles.html) |
@@ -964,7 +964,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .one | generic | One.com A/S | [Details](https://www.iana.org/domains/root/db/one.html) |
 | .ong | generic | Public Interest Registry | [Details](https://www.iana.org/domains/root/db/ong.html) |
 | .onl | generic | iRegistry GmbH | [Details](https://www.iana.org/domains/root/db/onl.html) |
-| .online | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/online.html) |
+| .online | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/online.html) |
 | .onyourside | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/onyourside.html) |
 | .ooo | generic | INFIBEAM INCORPORATION LIMITED | [Details](https://www.iana.org/domains/root/db/ooo.html) |
 | .open | generic | American Express Travel Related Services Company, Inc. | [Details](https://www.iana.org/domains/root/db/open.html) |
@@ -1033,7 +1033,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .pr | country-code | Gauss Research Laboratory Inc. | [Details](https://www.iana.org/domains/root/db/pr.html) |
 | .pramerica | generic | Prudential Financial, Inc. | [Details](https://www.iana.org/domains/root/db/pramerica.html) |
 | .praxi | generic | Praxi S.p.A. | [Details](https://www.iana.org/domains/root/db/praxi.html) |
-| .press | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/press.html) |
+| .press | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/press.html) |
 | .prime | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/prime.html) |
 | .pro | generic-restricted | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/pro.html) |
 | .prod | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/prod.html) |
@@ -1177,7 +1177,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .silk | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/silk.html) |
 | .sina | generic | Sina Corporation | [Details](https://www.iana.org/domains/root/db/sina.html) |
 | .singles | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/singles.html) |
-| .site | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/site.html) |
+| .site | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/site.html) |
 | .sj | country-code | Norid A/S | [Details](https://www.iana.org/domains/root/db/sj.html) |
 | .sk | country-code | SK-NIC, a.s. | [Details](https://www.iana.org/domains/root/db/sk.html) |
 | .ski | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/ski.html) |
@@ -1203,7 +1203,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .sony | generic | Sony Corporation | [Details](https://www.iana.org/domains/root/db/sony.html) |
 | .soy | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/soy.html) |
 | .spa | generic | Asia Spa and Wellness Promotion Council Limited | [Details](https://www.iana.org/domains/root/db/spa.html) |
-| .space | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/space.html) |
+| .space | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/space.html) |
 | .spiegel | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/spiegel.html) |
 | .sport | generic | SportAccord | [Details](https://www.iana.org/domains/root/db/sport.html) |
 | .spot | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/spot.html) |
@@ -1224,7 +1224,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .stcgroup | generic | Saudi Telecom Company | [Details](https://www.iana.org/domains/root/db/stcgroup.html) |
 | .stockholm | generic | Stockholms kommun | [Details](https://www.iana.org/domains/root/db/stockholm.html) |
 | .storage | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/storage.html) |
-| .store | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/store.html) |
+| .store | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/store.html) |
 | .stream | generic | dot Stream Limited | [Details](https://www.iana.org/domains/root/db/stream.html) |
 | .studio | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/studio.html) |
 | .study | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/study.html) |
@@ -1262,7 +1262,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .td | country-code | l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC) | [Details](https://www.iana.org/domains/root/db/td.html) |
 | .tdk | generic | TDK Corporation | [Details](https://www.iana.org/domains/root/db/tdk.html) |
 | .team | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/team.html) |
-| .tech | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/tech.html) |
+| .tech | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/tech.html) |
 | .technology | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/technology.html) |
 | .tel | sponsored | Telnames Ltd. | [Details](https://www.iana.org/domains/root/db/tel.html) |
 | .telecity | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/telecity.html) |
@@ -1333,7 +1333,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .um | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/um.html) |
 | .unicom | generic | China United Network Communications Corporation Limited | [Details](https://www.iana.org/domains/root/db/unicom.html) |
 | .university | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/university.html) |
-| .uno | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/uno.html) |
+| .uno | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/uno.html) |
 | .uol | generic | UBN INTERNET LTDA. | [Details](https://www.iana.org/domains/root/db/uol.html) |
 | .ups | generic | UPS Market Driver, Inc. | [Details](https://www.iana.org/domains/root/db/ups.html) |
 | .us | country-code | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/us.html) |
@@ -1389,7 +1389,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .weatherchannel | generic | International Business Machines Corporation | [Details](https://www.iana.org/domains/root/db/weatherchannel.html) |
 | .webcam | generic | dot Webcam Limited | [Details](https://www.iana.org/domains/root/db/webcam.html) |
 | .weber | generic | Saint-Gobain Weber SA | [Details](https://www.iana.org/domains/root/db/weber.html) |
-| .website | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/website.html) |
+| .website | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/website.html) |
 | .wed | generic | Emergency Back-End Registry Operator Program - ICANN | [Details](https://www.iana.org/domains/root/db/wed.html) |
 | .wedding | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/wedding.html) |
 | .weibo | generic | Sina Corporation | [Details](https://www.iana.org/domains/root/db/weibo.html) |
@@ -1415,7 +1415,7 @@ Updated at 2024-02-07T00:27:54.624900, from [IANA Root Zone Database](http://www
 | .wtf | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/wtf.html) |
 | .xbox | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/xbox.html) |
 | .xerox | generic | Xerox DNHC LLC | [Details](https://www.iana.org/domains/root/db/xerox.html) |
-| .xfinity | generic | Comcast IP Holdings I, LLC | [Details](https://www.iana.org/domains/root/db/xfinity.html) |
+| .xfinity | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xfinity.html) |
 | .xihuan | generic | QIHOO 360 TECHNOLOGY CO. LTD. | [Details](https://www.iana.org/domains/root/db/xihuan.html) |
 | .xin | generic | Elegant Leader Limited | [Details](https://www.iana.org/domains/root/db/xin.html) |
 | .测试 | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--0zwm56d.html) |
