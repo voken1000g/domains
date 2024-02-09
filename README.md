@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-02-08T00:29:04.873427, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-02-09T00:28:36.036464, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -505,7 +505,7 @@ Updated at 2024-02-08T00:29:04.873427, from [IANA Root Zone Database](http://www
 | .ftr | generic | Frontier Communications Corporation | [Details](https://www.iana.org/domains/root/db/ftr.html) |
 | .fujitsu | generic | Fujitsu Limited | [Details](https://www.iana.org/domains/root/db/fujitsu.html) |
 | .fujixerox | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/fujixerox.html) |
-| .fun | generic | Radix FZC | [Details](https://www.iana.org/domains/root/db/fun.html) |
+| .fun | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/fun.html) |
 | .fund | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/fund.html) |
 | .furniture | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/furniture.html) |
 | .futbol | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/futbol.html) |
