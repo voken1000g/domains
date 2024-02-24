@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-02-23T00:28:46.120695, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-02-24T00:27:21.399061, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -951,7 +951,7 @@ Updated at 2024-02-23T00:28:46.120695, from [IANA Root Zone Database](http://www
 | .nyc | generic | The City of New York by and through the New York City Department of Information Technology & Telecommunications | [Details](https://www.iana.org/domains/root/db/nyc.html) |
 | .nz | country-code | InternetNZ | [Details](https://www.iana.org/domains/root/db/nz.html) |
 | .obi | generic | OBI Group Holding SE & Co. KGaA | [Details](https://www.iana.org/domains/root/db/obi.html) |
-| .observer | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/observer.html) |
+| .observer | generic | Fegistry, LLC | [Details](https://www.iana.org/domains/root/db/observer.html) |
 | .off | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/off.html) |
 | .office | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/office.html) |
 | .okinawa | generic | BRregistry, Inc. | [Details](https://www.iana.org/domains/root/db/okinawa.html) |
@@ -1064,7 +1064,7 @@ Updated at 2024-02-23T00:28:46.120695, from [IANA Root Zone Database](http://www
 | .read | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/read.html) |
 | .realestate | generic | dotRealEstate LLC | [Details](https://www.iana.org/domains/root/db/realestate.html) |
 | .realtor | generic | Real Estate Domains LLC | [Details](https://www.iana.org/domains/root/db/realtor.html) |
-| .realty | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/realty.html) |
+| .realty | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/realty.html) |
 | .recipes | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/recipes.html) |
 | .red | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/red.html) |
 | .redstone | generic | Redstone Haute Couture Co., Ltd. | [Details](https://www.iana.org/domains/root/db/redstone.html) |
