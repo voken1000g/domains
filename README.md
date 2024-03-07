@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-03-06T00:29:31.961974, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-03-07T00:23:35.171415, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -575,7 +575,7 @@ Updated at 2024-03-06T00:29:31.961974, from [IANA Root Zone Database](http://www
 | .gs | country-code | Government of South Georgia and South Sandwich Islands (GSGSSI) | [Details](https://www.iana.org/domains/root/db/gs.html) |
 | .gt | country-code | Universidad del Valle de Guatemala | [Details](https://www.iana.org/domains/root/db/gt.html) |
 | .gu | country-code | University of Guam | [Details](https://www.iana.org/domains/root/db/gu.html) |
-| .guardian | generic | The Guardian Life Insurance Company of America | [Details](https://www.iana.org/domains/root/db/guardian.html) |
+| .guardian | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/guardian.html) |
 | .gucci | generic | Guccio Gucci S.p.a. | [Details](https://www.iana.org/domains/root/db/gucci.html) |
 | .guge | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/guge.html) |
 | .guide | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/guide.html) |
