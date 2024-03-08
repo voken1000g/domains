@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-03-07T00:23:35.171415, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-03-08T00:29:20.387417, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1574,7 +1574,7 @@ Updated at 2024-03-07T00:23:35.171415, from [IANA Root Zone Database](http://www
 | .vermögensberater | generic | Deutsche Vermögensberatung Aktiengesellschaft DVAG | [Details](https://www.iana.org/domains/root/db/xn--vermgensberater-ctb.html) |
 | .vermögensberatung | generic | Deutsche Vermögensberatung Aktiengesellschaft DVAG | [Details](https://www.iana.org/domains/root/db/xn--vermgensberatung-pwb.html) |
 | .企业 | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/xn--vhquv.html) |
-| .信息 | generic | Beijing Tele-info Network Technology Co., Ltd. | [Details](https://www.iana.org/domains/root/db/xn--vuq861b.html) |
+| .信息 | generic | Beijing Tele-info Technology Co., Ltd. | [Details](https://www.iana.org/domains/root/db/xn--vuq861b.html) |
 | .嘉里大酒店 | generic | Kerry Trading Co. Limited | [Details](https://www.iana.org/domains/root/db/xn--w4r85el8fhu5dnra.html) |
 | .嘉里 | generic | Kerry Trading Co. Limited | [Details](https://www.iana.org/domains/root/db/xn--w4rs40l.html) |
 | ‏.مصر‎ | country-code | National Telecommunication Regulatory Authority - NTRA | [Details](https://www.iana.org/domains/root/db/xn--wgbh1c.html) |
