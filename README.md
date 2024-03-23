@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-03-22T00:29:06.155850, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-03-23T00:28:41.998691, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -736,7 +736,7 @@ Updated at 2024-03-22T00:29:06.155850, from [IANA Root Zone Database](http://www
 | .kyoto | generic | Academic Institution: Kyoto Jyoho Gakuen | [Details](https://www.iana.org/domains/root/db/kyoto.html) |
 | .kz | country-code | Association of IT Companies of Kazakhstan | [Details](https://www.iana.org/domains/root/db/kz.html) |
 | .la | country-code | Lao National Internet Center (LANIC),Ministry of Technology and Communications | [Details](https://www.iana.org/domains/root/db/la.html) |
-| .lacaixa | generic | CAIXA D'ESTALVIS I PENSIONS DE BARCELONA | [Details](https://www.iana.org/domains/root/db/lacaixa.html) |
+| .lacaixa | generic | Fundación Bancaria Caixa d'Estalvis i Pensions de Barcelona, "la Caixa" | [Details](https://www.iana.org/domains/root/db/lacaixa.html) |
 | .ladbrokes | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/ladbrokes.html) |
 | .lamborghini | generic | Automobili Lamborghini S.p.A. | [Details](https://www.iana.org/domains/root/db/lamborghini.html) |
 | .lamer | generic | The Estée Lauder Companies Inc. | [Details](https://www.iana.org/domains/root/db/lamer.html) |
