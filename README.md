@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-03-27T00:28:44.318430, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-03-28T00:29:30.259243, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -114,7 +114,7 @@ Updated at 2024-03-27T00:28:44.318430, from [IANA Root Zone Database](http://www
 | .author | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/author.html) |
 | .auto | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/auto.html) |
 | .autos | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/autos.html) |
-| .avianca | generic | Avianca Holdings S.A. | [Details](https://www.iana.org/domains/root/db/avianca.html) |
+| .avianca | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/avianca.html) |
 | .aw | country-code | SETAR | [Details](https://www.iana.org/domains/root/db/aw.html) |
 | .aws | generic | AWS Registry LLC | [Details](https://www.iana.org/domains/root/db/aws.html) |
 | .ax | country-code | Ålands landskapsregering | [Details](https://www.iana.org/domains/root/db/ax.html) |
