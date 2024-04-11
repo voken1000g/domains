@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-04-10T00:29:40.979758, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-04-11T00:30:31.651168, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -542,7 +542,7 @@ Updated at 2024-04-10T00:29:40.979758, from [IANA Root Zone Database](http://www
 | .glade | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/glade.html) |
 | .glass | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/glass.html) |
 | .gle | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/gle.html) |
-| .global | generic | Dot Global Domain Registry Limited | [Details](https://www.iana.org/domains/root/db/global.html) |
+| .global | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/global.html) |
 | .globo | generic | Globo Comunicação e Participações S.A | [Details](https://www.iana.org/domains/root/db/globo.html) |
 | .gm | country-code | GM-NIC | [Details](https://www.iana.org/domains/root/db/gm.html) |
 | .gmail | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/gmail.html) |
