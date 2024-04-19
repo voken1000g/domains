@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-04-18T00:29:43.100142, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-04-19T00:30:10.117666, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -90,7 +90,7 @@ Updated at 2024-04-18T00:29:43.100142, from [IANA Root Zone Database](http://www
 | .apple | generic | Apple Inc. | [Details](https://www.iana.org/domains/root/db/apple.html) |
 | .aq | country-code | Antarctica Network Information Centre Limited | [Details](https://www.iana.org/domains/root/db/aq.html) |
 | .aquarelle | generic | Aquarelle.com | [Details](https://www.iana.org/domains/root/db/aquarelle.html) |
-| .ar | country-code | Presidencia de la Nacion , Secretaria Legal y Tecnica | [Details](https://www.iana.org/domains/root/db/ar.html) |
+| .ar | country-code | Presidencia de la Nación , Secretaría Legal y Técnica | [Details](https://www.iana.org/domains/root/db/ar.html) |
 | .arab | generic | League of Arab States | [Details](https://www.iana.org/domains/root/db/arab.html) |
 | .aramco | generic | Aramco Services Company | [Details](https://www.iana.org/domains/root/db/aramco.html) |
 | .archi | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/archi.html) |
