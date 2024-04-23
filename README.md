@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-04-22T00:31:39.293666, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-04-23T00:30:31.613275, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1551,7 +1551,7 @@ Updated at 2024-04-22T00:31:39.293666, from [IANA Root Zone Database](http://www
 | .健康 | generic | Stable Tone Limited | [Details](https://www.iana.org/domains/root/db/xn--nyqy26a.html) |
 | .ไทย | country-code | Thai Network Information Center Foundation | [Details](https://www.iana.org/domains/root/db/xn--o3cw4h.html) |
 | ‏.سورية‎ | country-code | National Agency for Network Services (NANS) | [Details](https://www.iana.org/domains/root/db/xn--ogbpf8fl.html) |
-| .招聘 | generic | Dot Trademark TLD Holding Company Limited | [Details](https://www.iana.org/domains/root/db/xn--otu796d.html) |
+| .招聘 | generic | Jiang Yu Liang Cai Technology Company Limited | [Details](https://www.iana.org/domains/root/db/xn--otu796d.html) |
 | .рус | generic | Rusnames Limited | [Details](https://www.iana.org/domains/root/db/xn--p1acf.html) |
 | .рф | country-code | Coordination Center for TLD RU | [Details](https://www.iana.org/domains/root/db/xn--p1ai.html) |
 | .珠宝 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--pbt977c.html) |
