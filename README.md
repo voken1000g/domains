@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-04-23T00:30:31.613275, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-04-24T00:30:28.067941, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -686,7 +686,7 @@ Updated at 2024-04-23T00:30:31.613275, from [IANA Root Zone Database](http://www
 | .jeep | generic | FCA US LLC. | [Details](https://www.iana.org/domains/root/db/jeep.html) |
 | .jetzt | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/jetzt.html) |
 | .jewelry | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/jewelry.html) |
-| .jio | generic | Affinity Names, Inc. | [Details](https://www.iana.org/domains/root/db/jio.html) |
+| .jio | generic | Reliance Industries Limited | [Details](https://www.iana.org/domains/root/db/jio.html) |
 | .jlc | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/jlc.html) |
 | .jll | generic | Jones Lang LaSalle Incorporated | [Details](https://www.iana.org/domains/root/db/jll.html) |
 | .jm | country-code | University of West Indies | [Details](https://www.iana.org/domains/root/db/jm.html) |
