@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-04-25T00:33:02.632208, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-04-26T00:30:27.837845, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -404,7 +404,7 @@ Updated at 2024-04-25T00:33:02.632208, from [IANA Root Zone Database](http://www
 | .dupont | generic | DuPont Specialty Products USA, LLC | [Details](https://www.iana.org/domains/root/db/dupont.html) |
 | .durban | generic | ZA Central Registry NPC trading as ZA Central Registry | [Details](https://www.iana.org/domains/root/db/durban.html) |
 | .dvag | generic | Deutsche Vermögensberatung Aktiengesellschaft DVAG | [Details](https://www.iana.org/domains/root/db/dvag.html) |
-| .dvr | generic | Hughes Satellite Systems Corporation | [Details](https://www.iana.org/domains/root/db/dvr.html) |
+| .dvr | generic | DISH Technologies L.L.C. | [Details](https://www.iana.org/domains/root/db/dvr.html) |
 | .dz | country-code | CERIST | [Details](https://www.iana.org/domains/root/db/dz.html) |
 | .earth | generic | Interlink Systems Innovation Institute K.K. | [Details](https://www.iana.org/domains/root/db/earth.html) |
 | .eat | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/eat.html) |
@@ -1185,7 +1185,7 @@ Updated at 2024-04-25T00:33:02.632208, from [IANA Root Zone Database](http://www
 | .sky | generic | Sky International AG | [Details](https://www.iana.org/domains/root/db/sky.html) |
 | .skype | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/skype.html) |
 | .sl | country-code | Sierratel | [Details](https://www.iana.org/domains/root/db/sl.html) |
-| .sling | generic | Hughes Satellite Systems Corporation | [Details](https://www.iana.org/domains/root/db/sling.html) |
+| .sling | generic | DISH Technologies L.L.C. | [Details](https://www.iana.org/domains/root/db/sling.html) |
 | .sm | country-code | Telecom Italia San Marino S.p.A. | [Details](https://www.iana.org/domains/root/db/sm.html) |
 | .smart | generic | Smart Communications, Inc. (SMART) | [Details](https://www.iana.org/domains/root/db/smart.html) |
 | .smile | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/smile.html) |
