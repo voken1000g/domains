@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-04-29T00:31:10.835067, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-04-30T00:29:39.123668, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -261,7 +261,7 @@ Updated at 2024-04-29T00:31:10.835067, from [IANA Root Zone Database](http://www
 | .cern | generic | European Organization for Nuclear Research ("CERN") | [Details](https://www.iana.org/domains/root/db/cern.html) |
 | .cf | country-code | Societe Centrafricaine de Telecommunications (SOCATEL) | [Details](https://www.iana.org/domains/root/db/cf.html) |
 | .cfa | generic | CFA Institute | [Details](https://www.iana.org/domains/root/db/cfa.html) |
-| .cfd | generic | DOTCFD REGISTRY LTD | [Details](https://www.iana.org/domains/root/db/cfd.html) |
+| .cfd | generic | Shortdot SA | [Details](https://www.iana.org/domains/root/db/cfd.html) |
 | .cg | country-code | Interpoint Switzerland | [Details](https://www.iana.org/domains/root/db/cg.html) |
 | .ch | country-code | SWITCH The Swiss Education & Research Network | [Details](https://www.iana.org/domains/root/db/ch.html) |
 | .chanel | generic | Chanel International B.V. | [Details](https://www.iana.org/domains/root/db/chanel.html) |
