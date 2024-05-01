@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-04-30T00:29:39.123668, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-05-01T00:33:19.402091, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -966,7 +966,7 @@ Updated at 2024-04-30T00:29:39.123668, from [IANA Root Zone Database](http://www
 | .onl | generic | iRegistry GmbH | [Details](https://www.iana.org/domains/root/db/onl.html) |
 | .online | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/online.html) |
 | .onyourside | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/onyourside.html) |
-| .ooo | generic | INFIBEAM INCORPORATION LIMITED | [Details](https://www.iana.org/domains/root/db/ooo.html) |
+| .ooo | generic | INFIBEAM AVENUES LIMITED | [Details](https://www.iana.org/domains/root/db/ooo.html) |
 | .open | generic | American Express Travel Related Services Company, Inc. | [Details](https://www.iana.org/domains/root/db/open.html) |
 | .oracle | generic | Oracle Corporation | [Details](https://www.iana.org/domains/root/db/oracle.html) |
 | .orange | generic | Orange Brand Services Limited | [Details](https://www.iana.org/domains/root/db/orange.html) |
@@ -1128,7 +1128,7 @@ Updated at 2024-04-30T00:29:39.123668, from [IANA Root Zone Database](http://www
 | .saxo | generic | Saxo Bank A/S | [Details](https://www.iana.org/domains/root/db/saxo.html) |
 | .sb | country-code | Solomon Telekom Company Limited | [Details](https://www.iana.org/domains/root/db/sb.html) |
 | .sbi | generic | STATE BANK OF INDIA | [Details](https://www.iana.org/domains/root/db/sbi.html) |
-| .sbs | generic | SPECIAL BROADCASTING SERVICE CORPORATION | [Details](https://www.iana.org/domains/root/db/sbs.html) |
+| .sbs | generic | Shortdot SA | [Details](https://www.iana.org/domains/root/db/sbs.html) |
 | .sc | country-code | VCS Pty Ltd | [Details](https://www.iana.org/domains/root/db/sc.html) |
 | .sca | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/sca.html) |
 | .scb | generic | The Siam Commercial Bank Public Company Limited ("SCB") | [Details](https://www.iana.org/domains/root/db/scb.html) |
