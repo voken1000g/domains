@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-05-08T00:25:19.590232, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-05-09T00:30:57.487603, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -955,8 +955,8 @@ Updated at 2024-05-08T00:25:19.590232, from [IANA Root Zone Database](http://www
 | .off | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/off.html) |
 | .office | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/office.html) |
 | .okinawa | generic | BRregistry, Inc. | [Details](https://www.iana.org/domains/root/db/okinawa.html) |
-| .olayan | generic | Crescent Holding GmbH | [Details](https://www.iana.org/domains/root/db/olayan.html) |
-| .olayangroup | generic | Crescent Holding GmbH | [Details](https://www.iana.org/domains/root/db/olayangroup.html) |
+| .olayan | generic | Competrol (Luxembourg) Sarl | [Details](https://www.iana.org/domains/root/db/olayan.html) |
+| .olayangroup | generic | Competrol (Luxembourg) Sarl | [Details](https://www.iana.org/domains/root/db/olayangroup.html) |
 | .oldnavy | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/oldnavy.html) |
 | .ollo | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/ollo.html) |
 | .om | country-code | Telecommunications Regulatory Authority (TRA) | [Details](https://www.iana.org/domains/root/db/om.html) |
@@ -1519,7 +1519,7 @@ Updated at 2024-05-08T00:25:19.590232, from [IANA Root Zone Database](http://www
 | ‏.عمان‎ | country-code | Telecommunications Regulatory Authority (TRA) | [Details](https://www.iana.org/domains/root/db/xn--mgb9awbf.html) |
 | ‏.ارامكو‎ | generic | Aramco Services Company | [Details](https://www.iana.org/domains/root/db/xn--mgba3a3ejt.html) |
 | ‏.ایران‎ | country-code | Institute for Research in Fundamental Sciences (IPM) | [Details](https://www.iana.org/domains/root/db/xn--mgba3a4f16a.html) |
-| ‏.العليان‎ | generic | Crescent Holding GmbH | [Details](https://www.iana.org/domains/root/db/xn--mgba7c0bbn0a.html) |
+| ‏.العليان‎ | generic | Competrol (Luxembourg) Sarl | [Details](https://www.iana.org/domains/root/db/xn--mgba7c0bbn0a.html) |
 | ‏.اتصالات‎ | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--mgbaakc7dvf.html) |
 | ‏.امارات‎ | country-code | Telecommunications and Digital Government Regulatory Authority (TDRA) | [Details](https://www.iana.org/domains/root/db/xn--mgbaam7a8h.html) |
 | ‏.بازار‎ | generic | CORE Association | [Details](https://www.iana.org/domains/root/db/xn--mgbab2bd.html) |
