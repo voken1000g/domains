@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-05-15T00:31:18.379711, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-05-16T00:31:13.378446, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -84,7 +84,7 @@ Updated at 2024-05-15T00:31:18.379711, from [IANA Root Zone Database](http://www
 | .anquan | generic | QIHOO 360 TECHNOLOGY CO. LTD. | [Details](https://www.iana.org/domains/root/db/anquan.html) |
 | .anz | generic | Australia and New Zealand Banking Group Limited | [Details](https://www.iana.org/domains/root/db/anz.html) |
 | .ao | country-code | Ministry of Telecommunications and Information Technologies (MTTI) | [Details](https://www.iana.org/domains/root/db/ao.html) |
-| .aol | generic | OATH Inc. | [Details](https://www.iana.org/domains/root/db/aol.html) |
+| .aol | generic | Yahoo Inc. | [Details](https://www.iana.org/domains/root/db/aol.html) |
 | .apartments | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/apartments.html) |
 | .app | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/app.html) |
 | .apple | generic | Apple Inc. | [Details](https://www.iana.org/domains/root/db/apple.html) |
@@ -1591,7 +1591,7 @@ Updated at 2024-05-15T00:31:18.379711, from [IANA Root Zone Database](http://www
 | .xxx | sponsored | ICM Registry LLC | [Details](https://www.iana.org/domains/root/db/xxx.html) |
 | .xyz | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/xyz.html) |
 | .yachts | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/yachts.html) |
-| .yahoo | generic | OATH INC | [Details](https://www.iana.org/domains/root/db/yahoo.html) |
+| .yahoo | generic | Yahoo Inc. | [Details](https://www.iana.org/domains/root/db/yahoo.html) |
 | .yamaxun | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/yamaxun.html) |
 | .yandex | generic | Yandex Europe B.V. | [Details](https://www.iana.org/domains/root/db/yandex.html) |
 | .ye | country-code | TeleYemen | [Details](https://www.iana.org/domains/root/db/ye.html) |
