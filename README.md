@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-06-12T00:32:55.891540, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-06-13T00:32:48.591616, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -905,7 +905,7 @@ Updated at 2024-06-12T00:32:55.891540, from [IANA Root Zone Database](http://www
 | .nagoya | generic | GMO Registry, Inc. | [Details](https://www.iana.org/domains/root/db/nagoya.html) |
 | .name | generic-restricted | VeriSign Information Services, Inc. | [Details](https://www.iana.org/domains/root/db/name.html) |
 | .nationwide | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/nationwide.html) |
-| .natura | generic | NATURA COSMÉTICOS S.A. | [Details](https://www.iana.org/domains/root/db/natura.html) |
+| .natura | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/natura.html) |
 | .navy | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/navy.html) |
 | .nba | generic | NBA REGISTRY, LLC | [Details](https://www.iana.org/domains/root/db/nba.html) |
 | .nc | country-code | Office des Postes et Telecommunications | [Details](https://www.iana.org/domains/root/db/nc.html) |
