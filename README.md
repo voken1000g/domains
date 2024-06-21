@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-06-20T00:32:18.426429, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-06-21T00:32:16.651142, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -792,7 +792,7 @@ Updated at 2024-06-20T00:32:18.426429, from [IANA Root Zone Database](http://www
 | .london | generic | Dot London Domains Limited | [Details](https://www.iana.org/domains/root/db/london.html) |
 | .lotte | generic | Lotte Holdings Co., Ltd. | [Details](https://www.iana.org/domains/root/db/lotte.html) |
 | .lotto | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/lotto.html) |
-| .love | generic | Merchant Law Group LLP | [Details](https://www.iana.org/domains/root/db/love.html) |
+| .love | generic | Waterford Limited | [Details](https://www.iana.org/domains/root/db/love.html) |
 | .lpl | generic | LPL Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/lpl.html) |
 | .lplfinancial | generic | LPL Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/lplfinancial.html) |
 | .lr | country-code | Data Technology Solutions, Inc. | [Details](https://www.iana.org/domains/root/db/lr.html) |
