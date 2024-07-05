@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-07-04T00:33:13.257137, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-07-05T00:33:08.186083, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -940,7 +940,7 @@ Updated at 2024-07-04T00:33:13.257137, from [IANA Root Zone Database](http://www
 | .northwesternmutual | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/northwesternmutual.html) |
 | .norton | generic | Symantec Corporation | [Details](https://www.iana.org/domains/root/db/norton.html) |
 | .now | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/now.html) |
-| .nowruz | generic | Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti. | [Details](https://www.iana.org/domains/root/db/nowruz.html) |
+| .nowruz | generic | Emergency Back-End Registry Operator Program - ICANN | [Details](https://www.iana.org/domains/root/db/nowruz.html) |
 | .nowtv | generic | Starbucks (HK) Limited | [Details](https://www.iana.org/domains/root/db/nowtv.html) |
 | .np | country-code | Mercantile Communications Pvt. Ltd. | [Details](https://www.iana.org/domains/root/db/np.html) |
 | .nr | country-code | CENPAC NET | [Details](https://www.iana.org/domains/root/db/nr.html) |
