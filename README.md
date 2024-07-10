@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-07-09T00:33:47.651422, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-07-10T00:34:12.636723, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1162,7 +1162,7 @@ Updated at 2024-07-09T00:33:47.651422, from [IANA Root Zone Database](http://www
 | .sh | country-code | Government of St. Helena | [Details](https://www.iana.org/domains/root/db/sh.html) |
 | .shangrila | generic | Shangri-La International Hotel Management Limited | [Details](https://www.iana.org/domains/root/db/shangrila.html) |
 | .sharp | generic | Sharp Corporation | [Details](https://www.iana.org/domains/root/db/sharp.html) |
-| .shaw | generic | Shaw Cablesystems G.P. | [Details](https://www.iana.org/domains/root/db/shaw.html) |
+| .shaw | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/shaw.html) |
 | .shell | generic | Shell Information Technology International Inc | [Details](https://www.iana.org/domains/root/db/shell.html) |
 | .shia | generic | Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti. | [Details](https://www.iana.org/domains/root/db/shia.html) |
 | .shiksha | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/shiksha.html) |
