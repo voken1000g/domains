@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-07-12T00:33:38.939289, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-07-13T00:34:12.284370, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -984,7 +984,7 @@ Updated at 2024-07-12T00:33:38.939289, from [IANA Root Zone Database](http://www
 | .panasonic | generic | Panasonic Corporation | [Details](https://www.iana.org/domains/root/db/panasonic.html) |
 | .panerai | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/panerai.html) |
 | .paris | generic | City of Paris | [Details](https://www.iana.org/domains/root/db/paris.html) |
-| .pars | generic | Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti. | [Details](https://www.iana.org/domains/root/db/pars.html) |
+| .pars | generic | Emergency Back-End Registry Operator Program - ICANN | [Details](https://www.iana.org/domains/root/db/pars.html) |
 | .partners | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/partners.html) |
 | .parts | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/parts.html) |
 | .party | generic | Blue Sky Registry Limited | [Details](https://www.iana.org/domains/root/db/party.html) |
@@ -1164,7 +1164,7 @@ Updated at 2024-07-12T00:33:38.939289, from [IANA Root Zone Database](http://www
 | .sharp | generic | Sharp Corporation | [Details](https://www.iana.org/domains/root/db/sharp.html) |
 | .shaw | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/shaw.html) |
 | .shell | generic | Shell Information Technology International Inc | [Details](https://www.iana.org/domains/root/db/shell.html) |
-| .shia | generic | Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti. | [Details](https://www.iana.org/domains/root/db/shia.html) |
+| .shia | generic | Emergency Back-End Registry Operator Program - ICANN | [Details](https://www.iana.org/domains/root/db/shia.html) |
 | .shiksha | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/shiksha.html) |
 | .shoes | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/shoes.html) |
 | .shop | generic | GMO Registry, Inc. | [Details](https://www.iana.org/domains/root/db/shop.html) |
@@ -1258,7 +1258,7 @@ Updated at 2024-07-12T00:33:38.939289, from [IANA Root Zone Database](http://www
 | .tax | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/tax.html) |
 | .taxi | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/taxi.html) |
 | .tc | country-code | Melrex TC | [Details](https://www.iana.org/domains/root/db/tc.html) |
-| .tci | generic | Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti. | [Details](https://www.iana.org/domains/root/db/tci.html) |
+| .tci | generic | Emergency Back-End Registry Operator Program - ICANN | [Details](https://www.iana.org/domains/root/db/tci.html) |
 | .td | country-code | l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC) | [Details](https://www.iana.org/domains/root/db/td.html) |
 | .tdk | generic | TDK Corporation | [Details](https://www.iana.org/domains/root/db/tdk.html) |
 | .team | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/team.html) |
@@ -1536,7 +1536,7 @@ Updated at 2024-07-12T00:33:38.939289, from [IANA Root Zone Database](http://www
 | ‏.ڀارت‎ | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--mgbgu82a.html) |
 | ‏.كاثوليك‎ | generic | Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication) | [Details](https://www.iana.org/domains/root/db/xn--mgbi4ecexp.html) |
 | ‏.سودان‎ | country-code | Sudan Internet Society | [Details](https://www.iana.org/domains/root/db/xn--mgbpl2fh.html) |
-| ‏.همراه‎ | generic | Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti. | [Details](https://www.iana.org/domains/root/db/xn--mgbt3dhd.html) |
+| ‏.همراه‎ | generic | Emergency Back-End Registry Operator Program - ICANN | [Details](https://www.iana.org/domains/root/db/xn--mgbt3dhd.html) |
 | ‏.عراق‎ | country-code | Communications and Media Commission (CMC) | [Details](https://www.iana.org/domains/root/db/xn--mgbtx2b.html) |
 | ‏.مليسيا‎ | country-code | MYNIC Berhad | [Details](https://www.iana.org/domains/root/db/xn--mgbx4cd0ab.html) |
 | .澳門 | country-code | Macao Post and Telecommunications Bureau (CTT) | [Details](https://www.iana.org/domains/root/db/xn--mix891f.html) |
