@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-07-16T00:34:17.416319, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-07-17T00:34:35.305339, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1341,7 +1341,7 @@ Updated at 2024-07-16T00:34:17.416319, from [IANA Root Zone Database](http://www
 | .uz | country-code | Single Integrator for Creation and Support of State Information Systems UZINFOCOM | [Details](https://www.iana.org/domains/root/db/uz.html) |
 | .va | country-code | Holy See - Vatican City State | [Details](https://www.iana.org/domains/root/db/va.html) |
 | .vacations | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/vacations.html) |
-| .vana | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/vana.html) |
+| .vana | generic | D3 Registry LLC | [Details](https://www.iana.org/domains/root/db/vana.html) |
 | .vanguard | generic | The Vanguard Group, Inc. | [Details](https://www.iana.org/domains/root/db/vanguard.html) |
 | .vc | country-code | Ministry of Telecommunications, Science, Technology and Industry | [Details](https://www.iana.org/domains/root/db/vc.html) |
 | .ve | country-code | Comisión Nacional de Telecomunicaciones (CONATEL) | [Details](https://www.iana.org/domains/root/db/ve.html) |
