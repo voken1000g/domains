@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-09-25T00:39:33.855611, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-09-26T00:38:38.881194, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -346,7 +346,7 @@ Updated at 2024-09-25T00:39:33.855611, from [IANA Root Zone Database](http://www
 | .cymru | generic | Nominet UK | [Details](https://www.iana.org/domains/root/db/cymru.html) |
 | .cyou | generic | Shortdot SA | [Details](https://www.iana.org/domains/root/db/cyou.html) |
 | .cz | country-code | CZ.NIC, z.s.p.o | [Details](https://www.iana.org/domains/root/db/cz.html) |
-| .dabur | generic | Dabur India Limited | [Details](https://www.iana.org/domains/root/db/dabur.html) |
+| .dabur | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/dabur.html) |
 | .dad | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/dad.html) |
 | .dance | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/dance.html) |
 | .data | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/data.html) |
