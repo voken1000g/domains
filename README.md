@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-10-11T00:39:10.182728, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-10-12T00:38:03.392428, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -927,7 +927,7 @@ Updated at 2024-10-11T00:39:10.182728, from [IANA Root Zone Database](http://www
 | .ng | country-code | Nigeria Internet Registration Association | [Details](https://www.iana.org/domains/root/db/ng.html) |
 | .ngo | generic | Public Interest Registry | [Details](https://www.iana.org/domains/root/db/ngo.html) |
 | .nhk | generic | Japan Broadcasting Corporation (NHK) | [Details](https://www.iana.org/domains/root/db/nhk.html) |
-| .ni | country-code | Universidad Nacional del IngernieriaCentro de Computo | [Details](https://www.iana.org/domains/root/db/ni.html) |
+| .ni | country-code | Universidad Nacional del Ingernieria. Division de Tecnologias de la Informacion. | [Details](https://www.iana.org/domains/root/db/ni.html) |
 | .nico | generic | DWANGO Co., Ltd. | [Details](https://www.iana.org/domains/root/db/nico.html) |
 | .nike | generic | NIKE, Inc. | [Details](https://www.iana.org/domains/root/db/nike.html) |
 | .nikon | generic | NIKON CORPORATION | [Details](https://www.iana.org/domains/root/db/nikon.html) |
