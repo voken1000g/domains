@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-10-28T00:42:06.398269, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-10-29T00:41:02.606133, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -894,7 +894,7 @@ Updated at 2024-10-28T00:42:06.398269, from [IANA Root Zone Database](http://www
 | .music | generic | DotMusic Limited | [Details](https://www.iana.org/domains/root/db/music.html) |
 | .mutual | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mutual.html) |
 | .mutuelle | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mutuelle.html) |
-| .mv | country-code | Dhiraagu Pvt. Ltd. (DHIVEHINET) | [Details](https://www.iana.org/domains/root/db/mv.html) |
+| .mv | country-code | Dhivehi Raajjeyge Gulhun PLC | [Details](https://www.iana.org/domains/root/db/mv.html) |
 | .mw | country-code | Malawi Sustainable Development Network Programme(Malawi SDNP) | [Details](https://www.iana.org/domains/root/db/mw.html) |
 | .mx | country-code | NIC-MexicoITESM - Campus Monterrey | [Details](https://www.iana.org/domains/root/db/mx.html) |
 | .my | country-code | MYNIC Berhad | [Details](https://www.iana.org/domains/root/db/my.html) |
