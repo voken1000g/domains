@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-11-26T00:42:13.221042, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-11-27T00:42:26.592365, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1182,7 +1182,7 @@ Updated at 2024-11-26T00:42:13.221042, from [IANA Root Zone Database](http://www
 | .sk | country-code | SK-NIC, a.s. | [Details](https://www.iana.org/domains/root/db/sk.html) |
 | .ski | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/ski.html) |
 | .skin | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/skin.html) |
-| .sky | generic | Sky International AG | [Details](https://www.iana.org/domains/root/db/sky.html) |
+| .sky | generic | Sky UK Limited | [Details](https://www.iana.org/domains/root/db/sky.html) |
 | .skype | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/skype.html) |
 | .sl | country-code | Sierratel | [Details](https://www.iana.org/domains/root/db/sl.html) |
 | .sling | generic | DISH Technologies L.L.C. | [Details](https://www.iana.org/domains/root/db/sling.html) |
