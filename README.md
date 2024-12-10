@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-12-09T00:45:19.786155, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-12-10T00:44:24.007292, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1426,7 +1426,7 @@ Updated at 2024-12-09T00:45:19.786155, from [IANA Root Zone Database](http://www
 | .ಭಾರತ | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--2scrj9c.html) |
 | .慈善 | generic | Excellent First Limited | [Details](https://www.iana.org/domains/root/db/xn--30rr7y.html) |
 | .集团 | generic | Eagle Horizon Limited | [Details](https://www.iana.org/domains/root/db/xn--3bst00m.html) |
-| .在线 | generic | TLD REGISTRY LIMITED | [Details](https://www.iana.org/domains/root/db/xn--3ds443g.html) |
+| .在线 | generic | Beijing Tld Registry Technology Limited | [Details](https://www.iana.org/domains/root/db/xn--3ds443g.html) |
 | .한국 | country-code | KISA (Korea Internet & Security Agency) | [Details](https://www.iana.org/domains/root/db/xn--3e0b707e.html) |
 | .ଭାରତ | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--3hcrj9c.html) |
 | .大众汽车 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--3oq18vl8pn36a.html) |
