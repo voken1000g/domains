@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-12-17T00:43:26.363840, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-12-18T00:41:51.414221, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -99,7 +99,7 @@ Updated at 2024-12-17T00:43:26.363840, from [IANA Root Zone Database](http://www
 | .art | generic | UK Creative Ideas Limited | [Details](https://www.iana.org/domains/root/db/art.html) |
 | .arte | generic | Association Relative à la Télévision Européenne G.E.I.E. | [Details](https://www.iana.org/domains/root/db/arte.html) |
 | .as | country-code | AS Domain Registry | [Details](https://www.iana.org/domains/root/db/as.html) |
-| .asda | generic | Wal-Mart Stores, Inc. | [Details](https://www.iana.org/domains/root/db/asda.html) |
+| .asda | generic | Asda Stores Limited | [Details](https://www.iana.org/domains/root/db/asda.html) |
 | .asia | sponsored | DotAsia Organisation Ltd. | [Details](https://www.iana.org/domains/root/db/asia.html) |
 | .associates | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/associates.html) |
 | .at | country-code | nic.at GmbH | [Details](https://www.iana.org/domains/root/db/at.html) |
