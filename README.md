@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2024-12-18T00:41:51.414221, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2024-12-19T00:42:13.271472, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -813,7 +813,7 @@ Updated at 2024-12-18T00:41:51.414221, from [IANA Root Zone Database](http://www
 | .maif | generic | Mutuelle Assurance Instituteur France (MAIF) | [Details](https://www.iana.org/domains/root/db/maif.html) |
 | .maison | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/maison.html) |
 | .makeup | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/makeup.html) |
-| .man | generic | MAN SE | [Details](https://www.iana.org/domains/root/db/man.html) |
+| .man | generic | MAN Truck & Bus SE | [Details](https://www.iana.org/domains/root/db/man.html) |
 | .management | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/management.html) |
 | .mango | generic | PUNTO FA S.L. | [Details](https://www.iana.org/domains/root/db/mango.html) |
 | .map | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/map.html) |
