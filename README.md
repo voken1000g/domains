@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-01-11T00:40:33.093727, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-01-12T00:44:34.548296, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -938,7 +938,7 @@ Updated at 2025-01-11T00:40:33.093727, from [IANA Root Zone Database](http://www
 | .no | country-code | Norid A/S | [Details](https://www.iana.org/domains/root/db/no.html) |
 | .nokia | generic | Nokia Corporation | [Details](https://www.iana.org/domains/root/db/nokia.html) |
 | .northwesternmutual | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/northwesternmutual.html) |
-| .norton | generic | Symantec Corporation | [Details](https://www.iana.org/domains/root/db/norton.html) |
+| .norton | generic | Gen Digital Inc. | [Details](https://www.iana.org/domains/root/db/norton.html) |
 | .now | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/now.html) |
 | .nowruz | generic | Emergency Back-End Registry Operator Program - ICANN | [Details](https://www.iana.org/domains/root/db/nowruz.html) |
 | .nowtv | generic | Starbucks (HK) Limited | [Details](https://www.iana.org/domains/root/db/nowtv.html) |
