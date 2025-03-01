@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-02-28T00:41:14.629680, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-03-01T00:44:41.235750, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -668,7 +668,7 @@ Updated at 2025-02-28T00:41:14.629680, from [IANA Root Zone Database](http://www
 | .iq | country-code | Communications and Media Commission (CMC) | [Details](https://www.iana.org/domains/root/db/iq.html) |
 | .ir | country-code | Institute for Research in Fundamental Sciences | [Details](https://www.iana.org/domains/root/db/ir.html) |
 | .irish | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/irish.html) |
-| .is | country-code | ISNIC - Internet Iceland ltd. | [Details](https://www.iana.org/domains/root/db/is.html) |
+| .is | country-code | ISNIC - Internet á Íslandi hf. | [Details](https://www.iana.org/domains/root/db/is.html) |
 | .iselect | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/iselect.html) |
 | .ismaili | generic | Fondation Aga Khan (Aga Khan Foundation) | [Details](https://www.iana.org/domains/root/db/ismaili.html) |
 | .ist | generic | Istanbul Metropolitan Municipality | [Details](https://www.iana.org/domains/root/db/ist.html) |
@@ -706,7 +706,7 @@ Updated at 2025-02-28T00:41:14.629680, from [IANA Root Zone Database](http://www
 | .kddi | generic | KDDI CORPORATION | [Details](https://www.iana.org/domains/root/db/kddi.html) |
 | .ke | country-code | Kenya Network Information Center (KeNIC) | [Details](https://www.iana.org/domains/root/db/ke.html) |
 | .kerryhotels | generic | Kerry Trading Co. Limited | [Details](https://www.iana.org/domains/root/db/kerryhotels.html) |
-| .kerrylogistics | generic | Kerry Trading Co. Limited | [Details](https://www.iana.org/domains/root/db/kerrylogistics.html) |
+| .kerrylogistics | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/kerrylogistics.html) |
 | .kerryproperties | generic | Kerry Trading Co. Limited | [Details](https://www.iana.org/domains/root/db/kerryproperties.html) |
 | .kfh | generic | Kuwait Finance House | [Details](https://www.iana.org/domains/root/db/kfh.html) |
 | .kg | country-code | AsiaInfo Telecommunication Enterprise | [Details](https://www.iana.org/domains/root/db/kg.html) |
@@ -776,7 +776,7 @@ Updated at 2025-02-28T00:41:14.629680, from [IANA Root Zone Database](http://www
 | .lincoln | generic | Ford Motor Company | [Details](https://www.iana.org/domains/root/db/lincoln.html) |
 | .linde | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/linde.html) |
 | .link | generic | Nova Registry Ltd. | [Details](https://www.iana.org/domains/root/db/link.html) |
-| .lipsy | generic | Lipsy Ltd | [Details](https://www.iana.org/domains/root/db/lipsy.html) |
+| .lipsy | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lipsy.html) |
 | .live | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/live.html) |
 | .living | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/living.html) |
 | .lixil | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lixil.html) |
