@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-03-14T00:41:38.189075, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-03-15T00:41:31.594260, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1593,7 +1593,7 @@ Updated at 2025-03-14T00:41:38.189075, from [IANA Root Zone Database](http://www
 | .yachts | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/yachts.html) |
 | .yahoo | generic | Yahoo Inc. | [Details](https://www.iana.org/domains/root/db/yahoo.html) |
 | .yamaxun | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/yamaxun.html) |
-| .yandex | generic | Yandex Europe B.V. | [Details](https://www.iana.org/domains/root/db/yandex.html) |
+| .yandex | generic | YANDEX LLC | [Details](https://www.iana.org/domains/root/db/yandex.html) |
 | .ye | country-code | TeleYemen | [Details](https://www.iana.org/domains/root/db/ye.html) |
 | .yodobashi | generic | YODOBASHI CAMERA CO.,LTD. | [Details](https://www.iana.org/domains/root/db/yodobashi.html) |
 | .yoga | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/yoga.html) |
