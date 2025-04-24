@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-04-23T00:44:32.742664, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-04-24T00:44:38.203737, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -149,7 +149,7 @@ Updated at 2025-04-23T00:44:32.742664, from [IANA Root Zone Database](http://www
 | .beats | generic | Beats Electronics, LLC | [Details](https://www.iana.org/domains/root/db/beats.html) |
 | .beauty | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/beauty.html) |
 | .beer | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/beer.html) |
-| .bentley | generic | Bentley Motors Limited | [Details](https://www.iana.org/domains/root/db/bentley.html) |
+| .bentley | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/bentley.html) |
 | .berlin | generic | dotBERLIN GmbH & Co. KG | [Details](https://www.iana.org/domains/root/db/berlin.html) |
 | .best | generic | BestTLD Pty Ltd | [Details](https://www.iana.org/domains/root/db/best.html) |
 | .bestbuy | generic | BBY Solutions, Inc. | [Details](https://www.iana.org/domains/root/db/bestbuy.html) |
