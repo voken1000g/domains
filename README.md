@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-04-29T00:45:07.161032, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-04-30T00:45:33.166380, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -740,7 +740,7 @@ Updated at 2025-04-29T00:45:07.161032, from [IANA Root Zone Database](http://www
 | .ladbrokes | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/ladbrokes.html) |
 | .lamborghini | generic | Automobili Lamborghini S.p.A. | [Details](https://www.iana.org/domains/root/db/lamborghini.html) |
 | .lamer | generic | The Estée Lauder Companies Inc. | [Details](https://www.iana.org/domains/root/db/lamer.html) |
-| .lancaster | generic | LANCASTER | [Details](https://www.iana.org/domains/root/db/lancaster.html) |
+| .lancaster | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lancaster.html) |
 | .lancia | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lancia.html) |
 | .lancome | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lancome.html) |
 | .land | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/land.html) |
@@ -1007,7 +1007,7 @@ Updated at 2025-04-29T00:45:07.161032, from [IANA Root Zone Database](http://www
 | .physio | generic | PhysBiz Pty Ltd | [Details](https://www.iana.org/domains/root/db/physio.html) |
 | .piaget | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/piaget.html) |
 | .pics | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/pics.html) |
-| .pictet | generic | Pictet Europe S.A. | [Details](https://www.iana.org/domains/root/db/pictet.html) |
+| .pictet | generic | Banque Pictet & Cie SA | [Details](https://www.iana.org/domains/root/db/pictet.html) |
 | .pictures | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/pictures.html) |
 | .pid | generic | Top Level Spectrum, Inc. | [Details](https://www.iana.org/domains/root/db/pid.html) |
 | .pin | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/pin.html) |
