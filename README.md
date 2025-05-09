@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-05-08T00:46:40.798003, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-05-09T00:46:12.103597, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -964,7 +964,7 @@ Updated at 2025-05-08T00:46:40.798003, from [IANA Root Zone Database](http://www
 | .one | generic | One.com A/S | [Details](https://www.iana.org/domains/root/db/one.html) |
 | .ong | generic | Public Interest Registry | [Details](https://www.iana.org/domains/root/db/ong.html) |
 | .onl | generic | iRegistry GmbH | [Details](https://www.iana.org/domains/root/db/onl.html) |
-| .online | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/online.html) |
+| .online | generic | Radix Technologies Inc. SEZC | [Details](https://www.iana.org/domains/root/db/online.html) |
 | .onyourside | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/onyourside.html) |
 | .ooo | generic | INFIBEAM AVENUES LIMITED | [Details](https://www.iana.org/domains/root/db/ooo.html) |
 | .open | generic | American Express Travel Related Services Company, Inc. | [Details](https://www.iana.org/domains/root/db/open.html) |
@@ -1177,7 +1177,7 @@ Updated at 2025-05-08T00:46:40.798003, from [IANA Root Zone Database](http://www
 | .silk | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/silk.html) |
 | .sina | generic | Sina Corporation | [Details](https://www.iana.org/domains/root/db/sina.html) |
 | .singles | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/singles.html) |
-| .site | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/site.html) |
+| .site | generic | Radix Technologies Inc. SEZC | [Details](https://www.iana.org/domains/root/db/site.html) |
 | .sj | country-code | Norid A/S | [Details](https://www.iana.org/domains/root/db/sj.html) |
 | .sk | country-code | SK-NIC, a.s. | [Details](https://www.iana.org/domains/root/db/sk.html) |
 | .ski | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/ski.html) |
