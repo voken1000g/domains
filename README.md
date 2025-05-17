@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-05-16T00:47:34.318311, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-05-17T00:45:11.873121, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1031,7 +1031,7 @@ Updated at 2025-05-16T00:47:34.318311, from [IANA Root Zone Database](http://www
 | .porn | generic | ICM Registry PN LLC | [Details](https://www.iana.org/domains/root/db/porn.html) |
 | .post | sponsored | Universal Postal Union | [Details](https://www.iana.org/domains/root/db/post.html) |
 | .pr | country-code | Gauss Research Laboratory Inc. | [Details](https://www.iana.org/domains/root/db/pr.html) |
-| .pramerica | generic | Prudential Financial, Inc. | [Details](https://www.iana.org/domains/root/db/pramerica.html) |
+| .pramerica | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/pramerica.html) |
 | .praxi | generic | Praxi S.p.A. | [Details](https://www.iana.org/domains/root/db/praxi.html) |
 | .press | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/press.html) |
 | .prime | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/prime.html) |
