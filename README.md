@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-06-10T00:48:25.319810, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-06-11T00:48:40.144175, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -823,7 +823,7 @@ Updated at 2025-06-10T00:48:25.319810, from [IANA Root Zone Database](http://www
 | .marriott | generic | Marriott Worldwide Corporation | [Details](https://www.iana.org/domains/root/db/marriott.html) |
 | .marshalls | generic | The TJX Companies, Inc. | [Details](https://www.iana.org/domains/root/db/marshalls.html) |
 | .maserati | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/maserati.html) |
-| .mattel | generic | Mattel Sites, Inc. | [Details](https://www.iana.org/domains/root/db/mattel.html) |
+| .mattel | generic | Mattel IT Services, Inc. | [Details](https://www.iana.org/domains/root/db/mattel.html) |
 | .mba | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/mba.html) |
 | .mc | country-code | Direction des Plateformes et des Ressources Numériques | [Details](https://www.iana.org/domains/root/db/mc.html) |
 | .mcd | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mcd.html) |
