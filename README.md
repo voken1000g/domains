@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-06-25T00:50:14.928440, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-06-26T00:49:18.506963, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -17,7 +17,7 @@ Updated at 2025-06-25T00:50:14.928440, from [IANA Root Zone Database](http://www
 - [domains_full.txt](data/domains_full.txt)
 - [domains_full.json](data/domains_full.json)
 
-### 1591 records
+### 1592 records
 
 | Domain | Type | TLD Manager | Info |
 | ------ | ---- | ----------- | ---- |
@@ -418,6 +418,7 @@ Updated at 2025-06-25T00:50:14.928440, from [IANA Root Zone Database](http://www
 | .eh | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/eh.html) |
 | .email | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/email.html) |
 | .emerck | generic | Merck KGaA | [Details](https://www.iana.org/domains/root/db/emerck.html) |
+| .emerson | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/emerson.html) |
 | .energy | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/energy.html) |
 | .engineer | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/engineer.html) |
 | .engineering | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/engineering.html) |
