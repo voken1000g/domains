@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-06-30T00:53:15.076141, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-07-01T00:56:04.228354, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -337,7 +337,7 @@ Updated at 2025-06-30T00:53:15.076141, from [IANA Root Zone Database](http://www
 | .cruise | generic | Viking River Cruises (Bermuda) Ltd. | [Details](https://www.iana.org/domains/root/db/cruise.html) |
 | .cruises | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/cruises.html) |
 | .csc | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/csc.html) |
-| .cu | country-code | CENIAInternetIndustria y San JoseCapitolio Nacional | [Details](https://www.iana.org/domains/root/db/cu.html) |
+| .cu | country-code | CENIAInternet | [Details](https://www.iana.org/domains/root/db/cu.html) |
 | .cuisinella | generic | SCHMIDT GROUPE S.A.S. | [Details](https://www.iana.org/domains/root/db/cuisinella.html) |
 | .cv | country-code | Agência Reguladora Multissectorial da Economia (ARME) | [Details](https://www.iana.org/domains/root/db/cv.html) |
 | .cw | country-code | University of Curacao | [Details](https://www.iana.org/domains/root/db/cw.html) |
