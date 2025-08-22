@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-08-21T00:44:15.897161, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-08-22T00:45:36.792740, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -253,7 +253,7 @@ Updated at 2025-08-21T00:44:15.897161, from [IANA Root Zone Database](http://www
 | .cbn | generic | The Christian Broadcasting Network, Inc. | [Details](https://www.iana.org/domains/root/db/cbn.html) |
 | .cbre | generic | CBRE, Inc. | [Details](https://www.iana.org/domains/root/db/cbre.html) |
 | .cbs | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/cbs.html) |
-| .cc | country-code | eNIC Cocos (Keeling) Islands Pty.Ltd. d/b/a Island Internet Services | [Details](https://www.iana.org/domains/root/db/cc.html) |
+| .cc | country-code | eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services | [Details](https://www.iana.org/domains/root/db/cc.html) |
 | .cd | country-code | Office Congolais des Postes et Télécommunications - OCPT | [Details](https://www.iana.org/domains/root/db/cd.html) |
 | .ceb | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/ceb.html) |
 | .center | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/center.html) |
@@ -385,7 +385,7 @@ Updated at 2025-08-21T00:44:15.897161, from [IANA Root Zone Database](http://www
 | .dk | country-code | Dansk Internet Forum | [Details](https://www.iana.org/domains/root/db/dk.html) |
 | .dm | country-code | DotDM Corporation | [Details](https://www.iana.org/domains/root/db/dm.html) |
 | .dnp | generic | Dai Nippon Printing Co., Ltd. | [Details](https://www.iana.org/domains/root/db/dnp.html) |
-| .do | country-code | Pontificia Universidad Catolica Madre y MaestraRecinto Santo Tomas de Aquino | [Details](https://www.iana.org/domains/root/db/do.html) |
+| .do | country-code | Pontificia Universidad Catolica Madre y Maestra, Recinto Santo Tomas de Aquino | [Details](https://www.iana.org/domains/root/db/do.html) |
 | .docs | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/docs.html) |
 | .doctor | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/doctor.html) |
 | .dodge | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/dodge.html) |
@@ -736,7 +736,7 @@ Updated at 2025-08-21T00:44:15.897161, from [IANA Root Zone Database](http://www
 | .ky | country-code | Utility Regulation and Competition Office (OfReg) | [Details](https://www.iana.org/domains/root/db/ky.html) |
 | .kyoto | generic | Academic Institution: Kyoto Jyoho Gakuen | [Details](https://www.iana.org/domains/root/db/kyoto.html) |
 | .kz | country-code | Association of IT Companies of Kazakhstan | [Details](https://www.iana.org/domains/root/db/kz.html) |
-| .la | country-code | Lao National Internet Center (LANIC),Ministry of Technology and Communications | [Details](https://www.iana.org/domains/root/db/la.html) |
+| .la | country-code | Lao National Internet Center (LANIC), Ministry of Technology and Communications | [Details](https://www.iana.org/domains/root/db/la.html) |
 | .lacaixa | generic | Fundación Bancaria Caixa d'Estalvis i Pensions de Barcelona, "la Caixa" | [Details](https://www.iana.org/domains/root/db/lacaixa.html) |
 | .ladbrokes | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/ladbrokes.html) |
 | .lamborghini | generic | Automobili Lamborghini S.p.A. | [Details](https://www.iana.org/domains/root/db/lamborghini.html) |
@@ -896,7 +896,7 @@ Updated at 2025-08-21T00:44:15.897161, from [IANA Root Zone Database](http://www
 | .mutual | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mutual.html) |
 | .mutuelle | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/mutuelle.html) |
 | .mv | country-code | Dhivehi Raajjeyge Gulhun PLC | [Details](https://www.iana.org/domains/root/db/mv.html) |
-| .mw | country-code | Malawi Sustainable Development Network Programme(Malawi SDNP) | [Details](https://www.iana.org/domains/root/db/mw.html) |
+| .mw | country-code | Malawi Sustainable Development Network Programme (Malawi SDNP) | [Details](https://www.iana.org/domains/root/db/mw.html) |
 | .mx | country-code | NIC-MexicoITESM - Campus Monterrey | [Details](https://www.iana.org/domains/root/db/mx.html) |
 | .my | country-code | MYNIC Berhad | [Details](https://www.iana.org/domains/root/db/my.html) |
 | .mz | country-code | Centro de Informatica de Universidade Eduardo Mondlane | [Details](https://www.iana.org/domains/root/db/mz.html) |
@@ -1230,7 +1230,7 @@ Updated at 2025-08-21T00:44:15.897161, from [IANA Root Zone Database](http://www
 | .studio | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/studio.html) |
 | .study | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/study.html) |
 | .style | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/style.html) |
-| .su | country-code | Russian Institute for Development of Public Networks(ROSNIIROS) | [Details](https://www.iana.org/domains/root/db/su.html) |
+| .su | country-code | Russian Institute for Development of Public Networks (ROSNIIROS) | [Details](https://www.iana.org/domains/root/db/su.html) |
 | .sucks | generic | Vox Populi Registry Ltd. | [Details](https://www.iana.org/domains/root/db/sucks.html) |
 | .supplies | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/supplies.html) |
 | .supply | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/supply.html) |
@@ -1293,7 +1293,7 @@ Updated at 2025-08-21T00:44:15.897161, from [IANA Root Zone Database](http://www
 | .tm | country-code | TM Domain Registry Ltd | [Details](https://www.iana.org/domains/root/db/tm.html) |
 | .tmall | generic | Alibaba Group Holding Limited | [Details](https://www.iana.org/domains/root/db/tmall.html) |
 | .tn | country-code | Agence Tunisienne d'Internet | [Details](https://www.iana.org/domains/root/db/tn.html) |
-| .to | country-code | Government of the Kingdom of TongaH.R.H. Crown Prince Tupouto'ac/o Consulate of Tonga | [Details](https://www.iana.org/domains/root/db/to.html) |
+| .to | country-code | Government of the Kingdom of Tonga, H.R.H. Crown Prince Tupouto'a, c/o Consulate of Tonga | [Details](https://www.iana.org/domains/root/db/to.html) |
 | .today | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/today.html) |
 | .tokyo | generic | GMO Registry, Inc. | [Details](https://www.iana.org/domains/root/db/tokyo.html) |
 | .tools | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/tools.html) |
