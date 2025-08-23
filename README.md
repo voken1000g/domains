@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-08-22T00:45:36.792740, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-08-23T00:43:24.977149, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -327,7 +327,7 @@ Updated at 2025-08-22T00:45:36.792740, from [IANA Root Zone Database](http://www
 | .coupons | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/coupons.html) |
 | .courses | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/courses.html) |
 | .cpa | generic | American Institute of Certified Public Accountants | [Details](https://www.iana.org/domains/root/db/cpa.html) |
-| .cr | country-code | National Academy of SciencesAcademia Nacional de Ciencias | [Details](https://www.iana.org/domains/root/db/cr.html) |
+| .cr | country-code | National Academy of Sciences (Academia Nacional de Ciencias) | [Details](https://www.iana.org/domains/root/db/cr.html) |
 | .credit | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/credit.html) |
 | .creditcard | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/creditcard.html) |
 | .creditunion | generic | DotCooperation, LLC | [Details](https://www.iana.org/domains/root/db/creditunion.html) |
@@ -414,7 +414,7 @@ Updated at 2025-08-22T00:45:36.792740, from [IANA Root Zone Database](http://www
 | .edu | sponsored | EDUCAUSE | [Details](https://www.iana.org/domains/root/db/edu.html) |
 | .education | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/education.html) |
 | .ee | country-code | Eesti Interneti Sihtasutus (EIS) | [Details](https://www.iana.org/domains/root/db/ee.html) |
-| .eg | country-code | Egyptian Universities Network (EUN)Supreme Council of Universities | [Details](https://www.iana.org/domains/root/db/eg.html) |
+| .eg | country-code | Egyptian Universities Network (EUN), Supreme Council of Universities | [Details](https://www.iana.org/domains/root/db/eg.html) |
 | .eh | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/eh.html) |
 | .email | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/email.html) |
 | .emerck | generic | Merck KGaA | [Details](https://www.iana.org/domains/root/db/emerck.html) |
@@ -638,7 +638,7 @@ Updated at 2025-08-22T00:45:36.792740, from [IANA Root Zone Database](http://www
 | .ice | generic | IntercontinentalExchange, Inc. | [Details](https://www.iana.org/domains/root/db/ice.html) |
 | .icu | generic | Shortdot SA | [Details](https://www.iana.org/domains/root/db/icu.html) |
 | .id | country-code | Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI) | [Details](https://www.iana.org/domains/root/db/id.html) |
-| .ie | country-code | University College DublinComputing ServicesComputer Centre | [Details](https://www.iana.org/domains/root/db/ie.html) |
+| .ie | country-code | University College Dublin, Computing Services, Computer Centre | [Details](https://www.iana.org/domains/root/db/ie.html) |
 | .ieee | generic | IEEE Global LLC | [Details](https://www.iana.org/domains/root/db/ieee.html) |
 | .ifm | generic | ifm electronic gmbh | [Details](https://www.iana.org/domains/root/db/ifm.html) |
 | .iinet | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/iinet.html) |
@@ -806,7 +806,7 @@ Updated at 2025-08-22T00:45:36.792740, from [IANA Root Zone Database](http://www
 | .lupin | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/lupin.html) |
 | .luxe | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/luxe.html) |
 | .luxury | generic | Luxury Partners LLC | [Details](https://www.iana.org/domains/root/db/luxury.html) |
-| .lv | country-code | University of LatviaInstitute of Mathematics and Computer ScienceDepartment of Network Solutions (DNS) | [Details](https://www.iana.org/domains/root/db/lv.html) |
+| .lv | country-code | University of Latvia, Institute of Mathematics and Computer Science, Department of Network Solutions (DNS) | [Details](https://www.iana.org/domains/root/db/lv.html) |
 | .ly | country-code | General Post and Telecommunication Company | [Details](https://www.iana.org/domains/root/db/ly.html) |
 | .ma | country-code | Agence Nationale de Réglementation des Télécommunications (ANRT) | [Details](https://www.iana.org/domains/root/db/ma.html) |
 | .macys | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/macys.html) |
@@ -996,7 +996,7 @@ Updated at 2025-08-22T00:45:36.792740, from [IANA Root Zone Database](http://www
 | .pet | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/pet.html) |
 | .pf | country-code | Gouvernement de la Polynésie française | [Details](https://www.iana.org/domains/root/db/pf.html) |
 | .pfizer | generic | Pfizer Inc. | [Details](https://www.iana.org/domains/root/db/pfizer.html) |
-| .pg | country-code | PNG DNS AdministrationVice Chancellors OfficeThe Papua New Guinea University of Technology | [Details](https://www.iana.org/domains/root/db/pg.html) |
+| .pg | country-code | PNG DNS Administration, Vice Chancellors Office, The Papua New Guinea University of Technology | [Details](https://www.iana.org/domains/root/db/pg.html) |
 | .ph | country-code | PH Domain Foundation | [Details](https://www.iana.org/domains/root/db/ph.html) |
 | .pharmacy | generic | National Association of Boards of Pharmacy | [Details](https://www.iana.org/domains/root/db/pharmacy.html) |
 | .phd | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/phd.html) |
@@ -1047,7 +1047,7 @@ Updated at 2025-08-22T00:45:36.792740, from [IANA Root Zone Database](http://www
 | .protection | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/protection.html) |
 | .pru | generic | Prudential Financial, Inc. | [Details](https://www.iana.org/domains/root/db/pru.html) |
 | .prudential | generic | Prudential Financial, Inc. | [Details](https://www.iana.org/domains/root/db/prudential.html) |
-| .ps | country-code | Ministry Of Telecommunications &Information Technology,Government Computer Center. | [Details](https://www.iana.org/domains/root/db/ps.html) |
+| .ps | country-code | Ministry of Telecommunications & Information Technology, Government Computer Center | [Details](https://www.iana.org/domains/root/db/ps.html) |
 | .pt | country-code | Associação DNS.PT | [Details](https://www.iana.org/domains/root/db/pt.html) |
 | .pub | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/pub.html) |
 | .pw | country-code | Micronesia Investment and Development Corporation | [Details](https://www.iana.org/domains/root/db/pw.html) |
@@ -1316,7 +1316,7 @@ Updated at 2025-08-22T00:45:36.792740, from [IANA Root Zone Database](http://www
 | .travelersinsurance | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/travelersinsurance.html) |
 | .trust | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/trust.html) |
 | .trv | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/trv.html) |
-| .tt | country-code | University of the West IndiesFaculty of Engineering | [Details](https://www.iana.org/domains/root/db/tt.html) |
+| .tt | country-code | University of the West Indies, Faculty of Engineering | [Details](https://www.iana.org/domains/root/db/tt.html) |
 | .tube | generic | Latin American Telecom LLC | [Details](https://www.iana.org/domains/root/db/tube.html) |
 | .tui | generic | TUI AG | [Details](https://www.iana.org/domains/root/db/tui.html) |
 | .tunes | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/tunes.html) |
