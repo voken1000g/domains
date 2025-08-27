@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-08-26T00:45:38.756867, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-08-27T00:44:27.987338, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1068,7 +1068,7 @@ Updated at 2025-08-26T00:45:38.756867, from [IANA Root Zone Database](http://www
 | .realty | generic | Internet Naming Co. | [Details](https://www.iana.org/domains/root/db/realty.html) |
 | .recipes | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/recipes.html) |
 | .red | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/red.html) |
-| .redstone | generic | Redstone Haute Couture Co., Ltd. | [Details](https://www.iana.org/domains/root/db/redstone.html) |
+| .redstone | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/redstone.html) |
 | .redumbrella | generic | Travelers TLD, LLC | [Details](https://www.iana.org/domains/root/db/redumbrella.html) |
 | .rehab | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/rehab.html) |
 | .reise | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/reise.html) |
