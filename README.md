@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-09-04T00:42:05.796360, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-09-05T00:43:14.427471, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -945,7 +945,7 @@ Updated at 2025-09-04T00:42:05.796360, from [IANA Root Zone Database](http://www
 | .nowtv | generic | Starbucks (HK) Limited | [Details](https://www.iana.org/domains/root/db/nowtv.html) |
 | .np | country-code | Mercantile Communications Pvt. Ltd. | [Details](https://www.iana.org/domains/root/db/np.html) |
 | .nr | country-code | CENPAC NET | [Details](https://www.iana.org/domains/root/db/nr.html) |
-| .nra | generic | NRA Holdings Company, INC. | [Details](https://www.iana.org/domains/root/db/nra.html) |
+| .nra | generic | National Rifle Association of America | [Details](https://www.iana.org/domains/root/db/nra.html) |
 | .nrw | generic | Minds + Machines GmbH | [Details](https://www.iana.org/domains/root/db/nrw.html) |
 | .ntt | generic | NIPPON TELEGRAPH AND TELEPHONE CORPORATION | [Details](https://www.iana.org/domains/root/db/ntt.html) |
 | .nu | country-code | The IUSN Foundation | [Details](https://www.iana.org/domains/root/db/nu.html) |
@@ -1321,7 +1321,7 @@ Updated at 2025-09-04T00:42:05.796360, from [IANA Root Zone Database](http://www
 | .tui | generic | TUI AG | [Details](https://www.iana.org/domains/root/db/tui.html) |
 | .tunes | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/tunes.html) |
 | .tushu | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/tushu.html) |
-| .tv | country-code | Ministry of Justice, Communications and Foreign Affairs | [Details](https://www.iana.org/domains/root/db/tv.html) |
+| .tv | country-code | Ministry of Transport, Energy, Communications and Innovations | [Details](https://www.iana.org/domains/root/db/tv.html) |
 | .tvs | generic | T V SUNDRAM IYENGAR  & SONS PRIVATE LIMITED | [Details](https://www.iana.org/domains/root/db/tvs.html) |
 | .tw | country-code | Taiwan Network Information Center (TWNIC) | [Details](https://www.iana.org/domains/root/db/tw.html) |
 | .tz | country-code | Tanzania Communications Regulatory Authority | [Details](https://www.iana.org/domains/root/db/tz.html) |
