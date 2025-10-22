@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-10-21T00:45:10.209254, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-10-22T00:46:31.703346, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -399,7 +399,7 @@ Updated at 2025-10-21T00:45:10.209254, from [IANA Root Zone Database](http://www
 | .dtv | generic | Dish DBS Corporation | [Details](https://www.iana.org/domains/root/db/dtv.html) |
 | .dubai | generic | Dubai Smart Government Department | [Details](https://www.iana.org/domains/root/db/dubai.html) |
 | .duck | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/duck.html) |
-| .dunlop | generic | The Goodyear Tire & Rubber Company | [Details](https://www.iana.org/domains/root/db/dunlop.html) |
+| .dunlop | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/dunlop.html) |
 | .duns | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/duns.html) |
 | .dupont | generic | DuPont Specialty Products USA, LLC | [Details](https://www.iana.org/domains/root/db/dupont.html) |
 | .durban | generic | ZA Central Registry NPC trading as ZA Central Registry | [Details](https://www.iana.org/domains/root/db/durban.html) |
