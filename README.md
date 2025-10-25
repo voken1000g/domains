@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-10-24T00:41:47.697695, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-10-25T00:43:39.514881, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -81,7 +81,7 @@ Updated at 2025-10-24T00:41:47.697695, from [IANA Root Zone Database](http://www
 | .an | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/an.html) |
 | .analytics | generic | Campus IP LLC | [Details](https://www.iana.org/domains/root/db/analytics.html) |
 | .android | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/android.html) |
-| .anquan | generic | QIHOO 360 TECHNOLOGY CO. LTD. | [Details](https://www.iana.org/domains/root/db/anquan.html) |
+| .anquan | generic | Beijing Qihu Keji Co., Ltd. | [Details](https://www.iana.org/domains/root/db/anquan.html) |
 | .anz | generic | Australia and New Zealand Banking Group Limited | [Details](https://www.iana.org/domains/root/db/anz.html) |
 | .ao | country-code | Ministry of Telecommunications and Information Technologies (MTTI) | [Details](https://www.iana.org/domains/root/db/ao.html) |
 | .aol | generic | Yahoo Inc. | [Details](https://www.iana.org/domains/root/db/aol.html) |
@@ -1170,7 +1170,7 @@ Updated at 2025-10-24T00:41:47.697695, from [IANA Root Zone Database](http://www
 | .shoes | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/shoes.html) |
 | .shop | generic | GMO Registry, Inc. | [Details](https://www.iana.org/domains/root/db/shop.html) |
 | .shopping | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/shopping.html) |
-| .shouji | generic | QIHOO 360 TECHNOLOGY CO. LTD. | [Details](https://www.iana.org/domains/root/db/shouji.html) |
+| .shouji | generic | Beijing Qihu Keji Co., Ltd. | [Details](https://www.iana.org/domains/root/db/shouji.html) |
 | .show | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/show.html) |
 | .showtime | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/showtime.html) |
 | .shriram | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/shriram.html) |
@@ -1417,7 +1417,7 @@ Updated at 2025-10-24T00:41:47.697695, from [IANA Root Zone Database](http://www
 | .xbox | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/xbox.html) |
 | .xerox | generic | Xerox DNHC LLC | [Details](https://www.iana.org/domains/root/db/xerox.html) |
 | .xfinity | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xfinity.html) |
-| .xihuan | generic | QIHOO 360 TECHNOLOGY CO. LTD. | [Details](https://www.iana.org/domains/root/db/xihuan.html) |
+| .xihuan | generic | Beijing Qihu Keji Co., Ltd. | [Details](https://www.iana.org/domains/root/db/xihuan.html) |
 | .xin | generic | Elegant Leader Limited | [Details](https://www.iana.org/domains/root/db/xin.html) |
 | .测试 | test | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--0zwm56d.html) |
 | .कॉम | generic | VeriSign Sarl | [Details](https://www.iana.org/domains/root/db/xn--11b4c3d.html) |
@@ -1602,7 +1602,7 @@ Updated at 2025-10-24T00:41:47.697695, from [IANA Root Zone Database](http://www
 | .you | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/you.html) |
 | .youtube | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/youtube.html) |
 | .yt | country-code | Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.) | [Details](https://www.iana.org/domains/root/db/yt.html) |
-| .yun | generic | QIHOO 360 TECHNOLOGY CO. LTD. | [Details](https://www.iana.org/domains/root/db/yun.html) |
+| .yun | generic | Beijing Qihu Keji Co., Ltd. | [Details](https://www.iana.org/domains/root/db/yun.html) |
 | .za | country-code | ZA Domain Name Authority | [Details](https://www.iana.org/domains/root/db/za.html) |
 | .zappos | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/zappos.html) |
 | .zara | generic | Industria de Diseño Textil, S.A. (INDITEX, S.A.) | [Details](https://www.iana.org/domains/root/db/zara.html) |
