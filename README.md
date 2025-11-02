@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-11-01T00:50:03.526419, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-11-02T00:50:35.938813, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -807,7 +807,7 @@ Updated at 2025-11-01T00:50:03.526419, from [IANA Root Zone Database](http://www
 | .luxe | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/luxe.html) |
 | .luxury | generic | Luxury Partners LLC | [Details](https://www.iana.org/domains/root/db/luxury.html) |
 | .lv | country-code | University of Latvia, Institute of Mathematics and Computer Science, Department of Network Solutions (DNS) | [Details](https://www.iana.org/domains/root/db/lv.html) |
-| .ly | country-code | General Post and Telecommunication Company | [Details](https://www.iana.org/domains/root/db/ly.html) |
+| .ly | country-code | General Authority of Communications and Informatics (GACI) | [Details](https://www.iana.org/domains/root/db/ly.html) |
 | .ma | country-code | Agence Nationale de Réglementation des Télécommunications (ANRT) | [Details](https://www.iana.org/domains/root/db/ma.html) |
 | .macys | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/macys.html) |
 | .madrid | generic | Comunidad de Madrid | [Details](https://www.iana.org/domains/root/db/madrid.html) |
