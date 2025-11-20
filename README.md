@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-11-19T00:47:25.820366, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-11-20T00:45:41.196613, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1243,7 +1243,7 @@ Updated at 2025-11-19T00:47:25.820366, from [IANA Root Zone Database](http://www
 | .swiftcover | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/swiftcover.html) |
 | .swiss | generic | Swiss Confederation | [Details](https://www.iana.org/domains/root/db/swiss.html) |
 | .sx | country-code | SX Registry SA B.V. | [Details](https://www.iana.org/domains/root/db/sx.html) |
-| .sy | country-code | National Agency for Network Services (NANS) | [Details](https://www.iana.org/domains/root/db/sy.html) |
+| .sy | country-code | National Authority for Information Technology Services (NAITS) | [Details](https://www.iana.org/domains/root/db/sy.html) |
 | .sydney | generic | State of New South Wales, Department of Premier and Cabinet | [Details](https://www.iana.org/domains/root/db/sydney.html) |
 | .symantec | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/symantec.html) |
 | .systems | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/systems.html) |
@@ -1551,7 +1551,7 @@ Updated at 2025-11-19T00:47:25.820366, from [IANA Root Zone Database](http://www
 | .组织机构 | generic | Public Interest Registry | [Details](https://www.iana.org/domains/root/db/xn--nqv7fs00ema.html) |
 | .健康 | generic | Stable Tone Limited | [Details](https://www.iana.org/domains/root/db/xn--nyqy26a.html) |
 | .ไทย | country-code | Thai Network Information Center Foundation | [Details](https://www.iana.org/domains/root/db/xn--o3cw4h.html) |
-| ‏.سورية‎ | country-code | National Agency for Network Services (NANS) | [Details](https://www.iana.org/domains/root/db/xn--ogbpf8fl.html) |
+| ‏.سورية‎ | country-code | National Authority for Information Technology Services (NAITS) | [Details](https://www.iana.org/domains/root/db/xn--ogbpf8fl.html) |
 | .招聘 | generic | Jiang Yu Liang Cai Technology Company Limited | [Details](https://www.iana.org/domains/root/db/xn--otu796d.html) |
 | .рус | generic | Rusnames Limited | [Details](https://www.iana.org/domains/root/db/xn--p1acf.html) |
 | .рф | country-code | Coordination Center for TLD RU | [Details](https://www.iana.org/domains/root/db/xn--p1ai.html) |
