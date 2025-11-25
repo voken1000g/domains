@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-11-24T00:51:34.423881, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-11-25T00:46:24.603585, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -17,7 +17,7 @@ Updated at 2025-11-24T00:51:34.423881, from [IANA Root Zone Database](http://www
 - [domains_full.txt](data/domains_full.txt)
 - [domains_full.json](data/domains_full.json)
 
-### 1592 records
+### 1593 records
 
 | Domain | Type | TLD Manager | Info |
 | ------ | ---- | ----------- | ---- |
@@ -1427,7 +1427,7 @@ Updated at 2025-11-24T00:51:34.423881, from [IANA Root Zone Database](http://www
 | .ಭಾರತ | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--2scrj9c.html) |
 | .慈善 | generic | Excellent First Limited | [Details](https://www.iana.org/domains/root/db/xn--30rr7y.html) |
 | .集团 | generic | Eagle Horizon Limited | [Details](https://www.iana.org/domains/root/db/xn--3bst00m.html) |
-| .在线 | generic | Beijing Tld Registry Technology Limited | [Details](https://www.iana.org/domains/root/db/xn--3ds443g.html) |
+| .在线 | generic | Beijing TLD Registry Technology Limited | [Details](https://www.iana.org/domains/root/db/xn--3ds443g.html) |
 | .한국 | country-code | KISA (Korea Internet & Security Agency) | [Details](https://www.iana.org/domains/root/db/xn--3e0b707e.html) |
 | .ଭାରତ | country-code | National Internet eXchange of India | [Details](https://www.iana.org/domains/root/db/xn--3hcrj9c.html) |
 | .大众汽车 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--3oq18vl8pn36a.html) |
@@ -1438,6 +1438,7 @@ Updated at 2025-11-24T00:51:34.423881, from [IANA Root Zone Database](http://www
 | .八卦 | generic | Zodiac Gemini Ltd | [Details](https://www.iana.org/domains/root/db/xn--45q11c.html) |
 | ‏.ישראל‎ | country-code | The Israel Internet Association (RA) | [Details](https://www.iana.org/domains/root/db/xn--4dbrk0ce.html) |
 | ‏.موقع‎ | generic | Helium TLDs Ltd | [Details](https://www.iana.org/domains/root/db/xn--4gbrim.html) |
+| .一号店 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--4gq48lf9j.html) |
 | .বাংলা | country-code | Posts and Telecommunications Division | [Details](https://www.iana.org/domains/root/db/xn--54b7fta0cc.html) |
 | .公益 | generic | China Organizational Name Administration Center | [Details](https://www.iana.org/domains/root/db/xn--55qw42g.html) |
 | .公司 | generic | China Internet Network Information Center (CNNIC) | [Details](https://www.iana.org/domains/root/db/xn--55qx5d.html) |
@@ -1479,7 +1480,7 @@ Updated at 2025-11-24T00:51:34.423881, from [IANA Root Zone Database](http://www
 | .工行 | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/xn--estv75g.html) |
 | .家電 | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/xn--fct429k.html) |
 | ‏.كوم‎ | generic | VeriSign Sarl | [Details](https://www.iana.org/domains/root/db/xn--fhbei.html) |
-| .中文网 | generic | TLD REGISTRY LIMITED | [Details](https://www.iana.org/domains/root/db/xn--fiq228c5hs.html) |
+| .中文网 | generic | Beijing TLD Registry Technology Limited | [Details](https://www.iana.org/domains/root/db/xn--fiq228c5hs.html) |
 | .中信 | generic | CITIC Group Corporation | [Details](https://www.iana.org/domains/root/db/xn--fiq64b.html) |
 | .中国 | country-code | China Internet Network Information Center (CNNIC) | [Details](https://www.iana.org/domains/root/db/xn--fiqs8s.html) |
 | .中國 | country-code | China Internet Network Information Center (CNNIC) | [Details](https://www.iana.org/domains/root/db/xn--fiqz9s.html) |
