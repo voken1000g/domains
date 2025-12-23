@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-12-22T00:53:56.816532, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-12-23T00:51:00.346118, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -435,7 +435,7 @@ Updated at 2025-12-22T00:53:56.816532, from [IANA Root Zone Database](http://www
 | .esurance | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/esurance.html) |
 | .et | country-code | Ethio telecom | [Details](https://www.iana.org/domains/root/db/et.html) |
 | .etisalat | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/etisalat.html) |
-| .eu | country-code | EURid vzw/asbl | [Details](https://www.iana.org/domains/root/db/eu.html) |
+| .eu | country-code | EURid vzw | [Details](https://www.iana.org/domains/root/db/eu.html) |
 | .eurovision | generic | European Broadcasting Union (EBU) | [Details](https://www.iana.org/domains/root/db/eurovision.html) |
 | .eus | generic | Puntueus Fundazioa | [Details](https://www.iana.org/domains/root/db/eus.html) |
 | .events | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/events.html) |
