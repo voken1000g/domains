@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2025-12-26T00:51:29.268479, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2025-12-27T00:49:36.077182, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -121,7 +121,7 @@ Updated at 2025-12-26T00:51:29.268479, from [IANA Root Zone Database](http://www
 | .axa | generic | AXA Group Operations SAS | [Details](https://www.iana.org/domains/root/db/axa.html) |
 | .az | country-code | IntraNS | [Details](https://www.iana.org/domains/root/db/az.html) |
 | .azure | generic | Microsoft Corporation | [Details](https://www.iana.org/domains/root/db/azure.html) |
-| .ba | country-code | Universtiy Telinformatic Centre (UTIC) | [Details](https://www.iana.org/domains/root/db/ba.html) |
+| .ba | country-code | University Tele-Informatic Center (UTIC) | [Details](https://www.iana.org/domains/root/db/ba.html) |
 | .baby | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/baby.html) |
 | .baidu | generic | Baidu, Inc. | [Details](https://www.iana.org/domains/root/db/baidu.html) |
 | .banamex | generic | Citigroup Inc. | [Details](https://www.iana.org/domains/root/db/banamex.html) |
