@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-01-13T00:48:14.168762, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-01-14T00:54:36.413873, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -225,7 +225,7 @@ Updated at 2026-01-13T00:48:14.168762, from [IANA Root Zone Database](http://www
 | .cal | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/cal.html) |
 | .call | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/call.html) |
 | .calvinklein | generic | PVH gTLD Holdings LLC | [Details](https://www.iana.org/domains/root/db/calvinklein.html) |
-| .cam | generic | CAM Connecting SARL | [Details](https://www.iana.org/domains/root/db/cam.html) |
+| .cam | generic | CAM Connecting SarL | [Details](https://www.iana.org/domains/root/db/cam.html) |
 | .camera | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/camera.html) |
 | .camp | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/camp.html) |
 | .cancerresearch | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/cancerresearch.html) |
