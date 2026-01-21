@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-01-20T00:51:58.358573, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-01-21T00:54:02.114076, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1297,7 +1297,7 @@ Updated at 2026-01-20T00:51:58.358573, from [IANA Root Zone Database](http://www
 | .today | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/today.html) |
 | .tokyo | generic | GMO Registry, Inc. | [Details](https://www.iana.org/domains/root/db/tokyo.html) |
 | .tools | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/tools.html) |
-| .top | generic | .TOP Registry | [Details](https://www.iana.org/domains/root/db/top.html) |
+| .top | generic | Hong Kong Zhongze International Limited | [Details](https://www.iana.org/domains/root/db/top.html) |
 | .toray | generic | Toray Industries, Inc. | [Details](https://www.iana.org/domains/root/db/toray.html) |
 | .toshiba | generic | TOSHIBA Corporation | [Details](https://www.iana.org/domains/root/db/toshiba.html) |
 | .total | generic | TotalEnergies SE | [Details](https://www.iana.org/domains/root/db/total.html) |
