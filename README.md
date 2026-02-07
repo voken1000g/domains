@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-02-06T01:00:39.924378, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-02-07T01:00:16.439167, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -555,7 +555,7 @@ Updated at 2026-02-06T01:00:39.924378, from [IANA Root Zone Database](http://www
 | .gold | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/gold.html) |
 | .goldpoint | generic | YODOBASHI CAMERA CO.,LTD. | [Details](https://www.iana.org/domains/root/db/goldpoint.html) |
 | .golf | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/golf.html) |
-| .goo | generic | NTT Resonant Inc. | [Details](https://www.iana.org/domains/root/db/goo.html) |
+| .goo | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/goo.html) |
 | .goodhands | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/goodhands.html) |
 | .goodyear | generic | The Goodyear Tire & Rubber Company | [Details](https://www.iana.org/domains/root/db/goodyear.html) |
 | .goog | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/goog.html) |
