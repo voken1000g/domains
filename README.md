@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-02-13T01:09:24.165319, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-02-14T01:02:39.430746, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1405,7 +1405,7 @@ Updated at 2026-02-13T01:09:24.165319, from [IANA Root Zone Database](http://www
 | .wine | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/wine.html) |
 | .winners | generic | The TJX Companies, Inc. | [Details](https://www.iana.org/domains/root/db/winners.html) |
 | .wme | generic | William Morris Endeavor Entertainment, LLC | [Details](https://www.iana.org/domains/root/db/wme.html) |
-| .wolterskluwer | generic | Wolters Kluwer N.V. | [Details](https://www.iana.org/domains/root/db/wolterskluwer.html) |
+| .wolterskluwer | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/wolterskluwer.html) |
 | .woodside | generic | Woodside Petroleum Limited | [Details](https://www.iana.org/domains/root/db/woodside.html) |
 | .work | generic | Registry Services, LLC | [Details](https://www.iana.org/domains/root/db/work.html) |
 | .works | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/works.html) |
