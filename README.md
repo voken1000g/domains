@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-02-26T01:02:12.148729, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-02-27T01:02:14.055577, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1059,7 +1059,7 @@ Updated at 2026-02-26T01:02:12.148729, from [IANA Root Zone Database](http://www
 | .quest | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/quest.html) |
 | .qvc | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/qvc.html) |
 | .racing | generic | Premier Registry Limited | [Details](https://www.iana.org/domains/root/db/racing.html) |
-| .radio | generic | European Broadcasting Union (EBU) | [Details](https://www.iana.org/domains/root/db/radio.html) |
+| .radio | generic | Digity, LLC | [Details](https://www.iana.org/domains/root/db/radio.html) |
 | .raid | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/raid.html) |
 | .re | country-code | Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.) | [Details](https://www.iana.org/domains/root/db/re.html) |
 | .read | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/read.html) |
