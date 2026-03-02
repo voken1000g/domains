@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-03-01T01:10:46.273678, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-03-02T01:03:50.671447, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1386,8 +1386,8 @@ Updated at 2026-03-01T01:10:46.273678, from [IANA Root Zone Database](http://www
 | .warman | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/warman.html) |
 | .watch | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/watch.html) |
 | .watches | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/watches.html) |
-| .weather | generic | International Business Machines Corporation | [Details](https://www.iana.org/domains/root/db/weather.html) |
-| .weatherchannel | generic | International Business Machines Corporation | [Details](https://www.iana.org/domains/root/db/weatherchannel.html) |
+| .weather | generic | The Weather Company, LLC | [Details](https://www.iana.org/domains/root/db/weather.html) |
+| .weatherchannel | generic | The Weather Company, LLC | [Details](https://www.iana.org/domains/root/db/weatherchannel.html) |
 | .webcam | generic | dot Webcam Limited | [Details](https://www.iana.org/domains/root/db/webcam.html) |
 | .weber | generic | Saint-Gobain Weber SA | [Details](https://www.iana.org/domains/root/db/weber.html) |
 | .website | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/website.html) |
