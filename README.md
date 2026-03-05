@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-03-04T01:01:51.871312, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-03-05T01:04:22.842171, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -964,7 +964,7 @@ Updated at 2026-03-04T01:01:51.871312, from [IANA Root Zone Database](http://www
 | .omega | generic | The Swatch Group Ltd | [Details](https://www.iana.org/domains/root/db/omega.html) |
 | .one | generic | One.com A/S | [Details](https://www.iana.org/domains/root/db/one.html) |
 | .ong | generic | Public Interest Registry | [Details](https://www.iana.org/domains/root/db/ong.html) |
-| .onl | generic | iRegistry GmbH | [Details](https://www.iana.org/domains/root/db/onl.html) |
+| .onl | generic | Jolly Host, LLC | [Details](https://www.iana.org/domains/root/db/onl.html) |
 | .online | generic | Radix Technologies Inc. SEZC | [Details](https://www.iana.org/domains/root/db/online.html) |
 | .onyourside | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/onyourside.html) |
 | .ooo | generic | INFIBEAM AVENUES LIMITED | [Details](https://www.iana.org/domains/root/db/ooo.html) |
