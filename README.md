@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-03-06T01:08:21.313362, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-03-07T00:59:55.001248, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -527,7 +527,7 @@ Updated at 2026-03-06T01:08:21.313362, from [IANA Root Zone Database](http://www
 | .gdn | generic | Joint Stock Company "Navigation-information systems" | [Details](https://www.iana.org/domains/root/db/gdn.html) |
 | .ge | country-code | Caucasus Online LLC | [Details](https://www.iana.org/domains/root/db/ge.html) |
 | .gea | generic | GEA Group Aktiengesellschaft | [Details](https://www.iana.org/domains/root/db/gea.html) |
-| .gent | generic | Combell nv | [Details](https://www.iana.org/domains/root/db/gent.html) |
+| .gent | generic | Easyhost bv | [Details](https://www.iana.org/domains/root/db/gent.html) |
 | .genting | generic | Resorts World Inc. Pte. Ltd. | [Details](https://www.iana.org/domains/root/db/genting.html) |
 | .george | generic | Wal-Mart Stores, Inc. | [Details](https://www.iana.org/domains/root/db/george.html) |
 | .gf | country-code | CANAL+ TELECOM | [Details](https://www.iana.org/domains/root/db/gf.html) |
