@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-03-16T01:13:10.055294, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-03-17T01:04:56.382493, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -17,7 +17,7 @@ Updated at 2026-03-16T01:13:10.055294, from [IANA Root Zone Database](http://www
 - [domains_full.txt](data/domains_full.txt)
 - [domains_full.json](data/domains_full.json)
 
-### 1593 records
+### 1594 records
 
 | Domain | Type | TLD Manager | Info |
 | ------ | ---- | ----------- | ---- |
@@ -841,6 +841,7 @@ Updated at 2026-03-16T01:13:10.055294, from [IANA Root Zone Database](http://www
 | .men | generic | Exclusive Registry Limited | [Details](https://www.iana.org/domains/root/db/men.html) |
 | .menu | generic | Dot Menu Registry LLC | [Details](https://www.iana.org/domains/root/db/menu.html) |
 | .meo | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/meo.html) |
+| .merck | generic | Merck Registry Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/merck.html) |
 | .merckmsd | generic | MSD Registry Holdings, Inc. | [Details](https://www.iana.org/domains/root/db/merckmsd.html) |
 | .metlife | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/metlife.html) |
 | .mf | country-code | Not assigned | [Details](https://www.iana.org/domains/root/db/mf.html) |
