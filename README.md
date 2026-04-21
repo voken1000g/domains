@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-04-20T01:22:37.984222, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-04-21T01:19:59.156589, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -278,7 +278,7 @@ Updated at 2026-04-20T01:22:37.984222, from [IANA Root Zone Database](http://www
 | .church | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/church.html) |
 | .ci | country-code | Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI) | [Details](https://www.iana.org/domains/root/db/ci.html) |
 | .cipriani | generic | Hotel Cipriani Srl | [Details](https://www.iana.org/domains/root/db/cipriani.html) |
-| .circle | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/circle.html) |
+| .circle | generic | Jolly Host, LLC | [Details](https://www.iana.org/domains/root/db/circle.html) |
 | .cisco | generic | Cisco Technology, Inc. | [Details](https://www.iana.org/domains/root/db/cisco.html) |
 | .citadel | generic | Citadel Domain LLC | [Details](https://www.iana.org/domains/root/db/citadel.html) |
 | .citi | generic | Citigroup Inc. | [Details](https://www.iana.org/domains/root/db/citi.html) |
