@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-05-04T01:44:20.926258, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-05-05T01:44:34.825821, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -561,7 +561,7 @@ Updated at 2026-05-04T01:44:20.926258, from [IANA Root Zone Database](http://www
 | .goog | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/goog.html) |
 | .google | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/google.html) |
 | .gop | generic | Republican State Leadership Committee, Inc. | [Details](https://www.iana.org/domains/root/db/gop.html) |
-| .got | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/got.html) |
+| .got | generic | Jolly Host, LLC | [Details](https://www.iana.org/domains/root/db/got.html) |
 | .gov | sponsored | Cybersecurity and Infrastructure Security Agency | [Details](https://www.iana.org/domains/root/db/gov.html) |
 | .gp | country-code | Networking Technologies Group | [Details](https://www.iana.org/domains/root/db/gp.html) |
 | .gq | country-code | GETESA | [Details](https://www.iana.org/domains/root/db/gq.html) |
@@ -696,7 +696,7 @@ Updated at 2026-05-04T01:44:20.926258, from [IANA Root Zone Database](http://www
 | .jo | country-code | Ministry of Digital Economy and Entrepreneurship (MoDEE) | [Details](https://www.iana.org/domains/root/db/jo.html) |
 | .jobs | sponsored | Employ Media LLC | [Details](https://www.iana.org/domains/root/db/jobs.html) |
 | .joburg | generic | ZA Central Registry NPC trading as ZA Central Registry | [Details](https://www.iana.org/domains/root/db/joburg.html) |
-| .jot | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/jot.html) |
+| .jot | generic | Jolly Host, LLC | [Details](https://www.iana.org/domains/root/db/jot.html) |
 | .joy | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/joy.html) |
 | .jp | country-code | Japan Registry Services Co., Ltd. | [Details](https://www.iana.org/domains/root/db/jp.html) |
 | .jpmorgan | generic | JPMorgan Chase Bank, National Association | [Details](https://www.iana.org/domains/root/db/jpmorgan.html) |
