@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-05-25T02:07:02.488771, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-05-26T01:58:09.285808, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -84,7 +84,7 @@ Updated at 2026-05-25T02:07:02.488771, from [IANA Root Zone Database](http://www
 | .anquan | generic | Beijing Qihu Keji Co., Ltd. | [Details](https://www.iana.org/domains/root/db/anquan.html) |
 | .anz | generic | Australia and New Zealand Banking Group Limited | [Details](https://www.iana.org/domains/root/db/anz.html) |
 | .ao | country-code | Ministry of Telecommunications and Information Technologies (MTTI) | [Details](https://www.iana.org/domains/root/db/ao.html) |
-| .aol | generic | Yahoo Inc. | [Details](https://www.iana.org/domains/root/db/aol.html) |
+| .aol | generic | AOL Media LLC | [Details](https://www.iana.org/domains/root/db/aol.html) |
 | .apartments | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/apartments.html) |
 | .app | generic | Charleston Road Registry Inc. | [Details](https://www.iana.org/domains/root/db/app.html) |
 | .apple | generic | Apple Inc. | [Details](https://www.iana.org/domains/root/db/apple.html) |
