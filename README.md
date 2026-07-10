@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-07-09T01:45:16.767451, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-07-10T01:29:41.559571, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1113,7 +1113,7 @@ Updated at 2026-07-09T01:45:16.767451, from [IANA Root Zone Database](http://www
 | .sa | country-code | Communications, Space and Technology Commission | [Details](https://www.iana.org/domains/root/db/sa.html) |
 | .saarland | generic | dotSaarland GmbH | [Details](https://www.iana.org/domains/root/db/saarland.html) |
 | .safe | generic | Amazon Registry Services, Inc. | [Details](https://www.iana.org/domains/root/db/safe.html) |
-| .safety | generic | Safety Registry Services, LLC. | [Details](https://www.iana.org/domains/root/db/safety.html) |
+| .safety | generic | Jolly Host, LLC | [Details](https://www.iana.org/domains/root/db/safety.html) |
 | .sakura | generic | SAKURA internet Inc. | [Details](https://www.iana.org/domains/root/db/sakura.html) |
 | .sale | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/sale.html) |
 | .salon | generic | Binky Moon, LLC | [Details](https://www.iana.org/domains/root/db/salon.html) |
