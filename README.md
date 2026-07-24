@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-07-23T01:28:44.373517, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-07-24T01:25:15.567154, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -17,7 +17,7 @@ Updated at 2026-07-23T01:28:44.373517, from [IANA Root Zone Database](http://www
 - [domains_full.txt](data/domains_full.txt)
 - [domains_full.json](data/domains_full.json)
 
-### 1594 records
+### 1595 records
 
 | Domain | Type | TLD Manager | Info |
 | ------ | ---- | ----------- | ---- |
@@ -1389,6 +1389,7 @@ Updated at 2026-07-23T01:28:44.373517, from [IANA Root Zone Database](http://www
 | .watches | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/watches.html) |
 | .weather | generic | The Weather Company, LLC | [Details](https://www.iana.org/domains/root/db/weather.html) |
 | .weatherchannel | generic | The Weather Company, LLC | [Details](https://www.iana.org/domains/root/db/weatherchannel.html) |
+| .web | generic | VeriSign, Inc. | [Details](https://www.iana.org/domains/root/db/web.html) |
 | .webcam | generic | dot Webcam Limited | [Details](https://www.iana.org/domains/root/db/webcam.html) |
 | .weber | generic | Saint-Gobain Weber SA | [Details](https://www.iana.org/domains/root/db/weber.html) |
 | .website | generic | Radix Technologies Inc. | [Details](https://www.iana.org/domains/root/db/website.html) |
