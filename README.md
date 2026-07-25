@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-07-24T01:25:15.567154, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-07-25T01:25:24.301927, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -638,7 +638,7 @@ Updated at 2026-07-24T01:25:15.567154, from [IANA Root Zone Database](http://www
 | .ice | generic | IntercontinentalExchange, Inc. | [Details](https://www.iana.org/domains/root/db/ice.html) |
 | .icu | generic | Shortdot SA | [Details](https://www.iana.org/domains/root/db/icu.html) |
 | .id | country-code | Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI) | [Details](https://www.iana.org/domains/root/db/id.html) |
-| .ie | country-code | University College Dublin, Computing Services, Computer Centre | [Details](https://www.iana.org/domains/root/db/ie.html) |
+| .ie | country-code | IE Domain Registry CLG | [Details](https://www.iana.org/domains/root/db/ie.html) |
 | .ieee | generic | IEEE Global LLC | [Details](https://www.iana.org/domains/root/db/ieee.html) |
 | .ifm | generic | ifm electronic gmbh | [Details](https://www.iana.org/domains/root/db/ifm.html) |
 | .iinet | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/iinet.html) |
