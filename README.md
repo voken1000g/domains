@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-08-17T00:32:04.648864, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-08-18T00:31:12.752741, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -181,7 +181,7 @@ Updated at 2026-08-17T00:32:04.648864, from [IANA Root Zone Database](http://www
 | .bn | country-code | Authority for Info-communications Technology Industry of Brunei Darussalam (AITI) | [Details](https://www.iana.org/domains/root/db/bn.html) |
 | .bnl | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/bnl.html) |
 | .bnpparibas | generic | BNP Paribas | [Details](https://www.iana.org/domains/root/db/bnpparibas.html) |
-| .bo | country-code | Agencia para el Desarrollo de la Información de la Sociedad en Bolivia | [Details](https://www.iana.org/domains/root/db/bo.html) |
+| .bo | country-code | Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación | [Details](https://www.iana.org/domains/root/db/bo.html) |
 | .boats | generic | XYZ.COM LLC | [Details](https://www.iana.org/domains/root/db/boats.html) |
 | .boehringer | generic | Boehringer Ingelheim International GmbH | [Details](https://www.iana.org/domains/root/db/boehringer.html) |
 | .bofa | generic | Bank of America Corporation | [Details](https://www.iana.org/domains/root/db/bofa.html) |
