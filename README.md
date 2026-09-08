@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-09-07T01:36:12.298882, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-09-08T01:46:49.270461, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -911,7 +911,7 @@ Updated at 2026-09-07T01:36:12.298882, from [IANA Root Zone Database](http://www
 | .navy | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/navy.html) |
 | .nba | generic | NBA REGISTRY, LLC | [Details](https://www.iana.org/domains/root/db/nba.html) |
 | .nc | country-code | Office des Postes et Telecommunications | [Details](https://www.iana.org/domains/root/db/nc.html) |
-| .ne | country-code | SONITEL | [Details](https://www.iana.org/domains/root/db/ne.html) |
+| .ne | country-code | Niger Télécoms SA (NIGERTELECOMS) | [Details](https://www.iana.org/domains/root/db/ne.html) |
 | .nec | generic | NEC Corporation | [Details](https://www.iana.org/domains/root/db/nec.html) |
 | .net | generic | VeriSign Global Registry Services | [Details](https://www.iana.org/domains/root/db/net.html) |
 | .netbank | generic | COMMONWEALTH BANK OF AUSTRALIA | [Details](https://www.iana.org/domains/root/db/netbank.html) |
