@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-09-30T02:43:58.731864, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-10-01T02:49:35.138824, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -702,7 +702,7 @@ Updated at 2026-09-30T02:43:58.731864, from [IANA Root Zone Database](http://www
 | .jpmorgan | generic | JPMorgan Chase Bank, National Association | [Details](https://www.iana.org/domains/root/db/jpmorgan.html) |
 | .jprs | generic | Japan Registry Services Co., Ltd. | [Details](https://www.iana.org/domains/root/db/jprs.html) |
 | .juegos | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/juegos.html) |
-| .juniper | generic | JUNIPER NETWORKS, INC. | [Details](https://www.iana.org/domains/root/db/juniper.html) |
+| .juniper | generic | Not assigned | [Details](https://www.iana.org/domains/root/db/juniper.html) |
 | .kaufen | generic | Dog Beach, LLC | [Details](https://www.iana.org/domains/root/db/kaufen.html) |
 | .kddi | generic | KDDI CORPORATION | [Details](https://www.iana.org/domains/root/db/kddi.html) |
 | .ke | country-code | Kenya Network Information Center (KeNIC) | [Details](https://www.iana.org/domains/root/db/ke.html) |
