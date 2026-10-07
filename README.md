@@ -1,6 +1,6 @@
 # All the world’s top-level domains
 
-Updated at 2026-10-06T03:36:21.063407, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
+Updated at 2026-10-07T03:02:22.482231, from [IANA Root Zone Database](http://www.iana.org/domains/root/db)
 
 ### domains
 
@@ -1445,7 +1445,7 @@ Updated at 2026-10-06T03:36:21.063407, from [IANA Root Zone Database](http://www
 | .公益 | generic | China Organizational Name Administration Center | [Details](https://www.iana.org/domains/root/db/xn--55qw42g.html) |
 | .公司 | generic | China Internet Network Information Center (CNNIC) | [Details](https://www.iana.org/domains/root/db/xn--55qx5d.html) |
 | .香格里拉 | generic | Shangri-La International Hotel Management Limited | [Details](https://www.iana.org/domains/root/db/xn--5su34j936bgsg.html) |
-| .网站 | generic | Global Website TLD Asia Limited | [Details](https://www.iana.org/domains/root/db/xn--5tzm5g.html) |
+| .网站 | generic | Jolly Host, LLC | [Details](https://www.iana.org/domains/root/db/xn--5tzm5g.html) |
 | .移动 | generic | Identity Digital Limited | [Details](https://www.iana.org/domains/root/db/xn--6frz82g.html) |
 | .我爱你 | generic | Tycoon Treasure Limited | [Details](https://www.iana.org/domains/root/db/xn--6qq986b3xl.html) |
 | .москва | generic | Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID) | [Details](https://www.iana.org/domains/root/db/xn--80adxhks.html) |
